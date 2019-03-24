@@ -5,4 +5,5 @@ A flat colorful design icon theme for Qogir theme : https://github.com/vinceliui
 
 `./Install` 
 
-![1](https://github.com/vinceliuice/Qogir-icon-theme/blob/master/screenshot.png?raw=true)
+## Screenshot
+![1](https://github.com/vinceliuice/Qogir-icon-theme/blob/master/screenshot.jpg?raw=true)

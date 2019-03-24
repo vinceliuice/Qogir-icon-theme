@@ -23,7 +23,7 @@
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-173.00003,-665.3895)'>
     <path class='error' inkscape:connector-curvature='0' d='m 181.00003,673.3895 0,8 6,0 0,-8 z' id='path7556' sodipodi:nodetypes='ccccc' style='opacity:0.35;fill:#e13f2b;fill-opacity:1;stroke:none'/>
     <rect height='22' id='rect7558' style='color:#dddddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' transform='matrix(0,1,-1,0,0,0)' width='22' x='665.38953' y='-195.00003'/>
-    <path inkscape:connector-curvature='0' d='m 182.00003,669.3895 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 -7,0 0,-10 8,0 0,1 1,0 0,-1 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z' id='path7560' sodipodi:nodetypes='ccccccsscccccccccscc' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 182.00003,669.3895 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 7,0 0,-1 -7,0 0,-10 8,0 0,1 1,0 0,-1 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z' id='path7560' sodipodi:nodetypes='ccccccsscccccccccscc' style='fill:#bebebe;fill-opacity:1;stroke:none'/>
     <path class='error' inkscape:connector-curvature='0' d='m 188.00003,674.3895 0,5 0.25,2 1.5,0 0.25,-2 0,-5 z m 0,8 0,2 2,0 0,-2 z' id='path7562-1' sodipodi:nodetypes='cccccccccccc' style='fill:#e13f2b;fill-opacity:1;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-173.00003,-213.02734)'/>

@@ -25,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#bebebe"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,11 +49,11 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#bebebe; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <rect
-     style="display:inline;opacity:0.5;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+     style="display:inline;opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
      id="rect23"
      width="14"
      height="5"
@@ -62,7 +62,7 @@
      rx="1"
      ry="1" />
   <path
-     style="display:inline;fill:#dfdfdf;fill-opacity:1;stroke:none;enable-background:new"
+     style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none;enable-background:new"
      d="M 8 3 L 7 5 L 1 5 C 0.446 5 0 5.446 0 6 L 0 14 C 0 14.554 0.446 15 1 15 L 15 15 C 15.554 15 16 14.554 16 14 L 16 8 L 16 6 L 16 4 C 16 3.5 15.5 3 15 3 L 8 3 z M 6 6 L 10 6 L 10 9 L 12 9 L 8 14 L 4 9 L 6 9 L 6 6 z "
      id="path4-3" />
 </svg>

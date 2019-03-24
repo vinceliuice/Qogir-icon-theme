@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-492,-451.99838)'>
-    <path inkscape:connector-curvature='0' d='m 501,456 5.625,10 6.375,1 -6,-11 -6,0 z m 0,0 -6,11 3,5 2.8125,-5 2.5625,-4.562 L 501,456 Z m -3,16 12,0 3,-5 -5.812,0 -5.188,0 -4,5 z' id='path3094' style='color:#000000;fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 501,456 5.625,10 6.375,1 -6,-11 -6,0 z m 0,0 -6,11 3,5 2.8125,-5 2.5625,-4.562 L 501,456 Z m -3,16 12,0 3,-5 -5.812,0 -5.188,0 -4,5 z' id='path3094' style='color:#000000;fill:#bebebe;fill-opacity:1;stroke:none'/>
     
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-492,-904.36054)'/>

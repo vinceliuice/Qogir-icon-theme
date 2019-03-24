@@ -18,7 +18,7 @@
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-127.9998,-676.3588)'>
     <path class='error' inkscape:connector-curvature='0' d='m 132.9998,681.3588 0,8 6,0 0,-8 z' id='path7440' sodipodi:nodetypes='ccccc' style='opacity:0.35;fill:#e13f2b;fill-opacity:1;stroke:none'/>
     
-    <path inkscape:connector-curvature='0' d='m 133.9998,677.3588 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z' id='path7444' sodipodi:nodetypes='ccccccsscsccsccccccc' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 133.9998,677.3588 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z' id='path7444' sodipodi:nodetypes='ccccccsscsccsccccccc' style='fill:#bebebe;fill-opacity:1;stroke:none'/>
     <path class='error' inkscape:connector-curvature='0' d='m 132.9998,687.3588 0,2 6,0 0,-2 z' id='path7446' sodipodi:nodetypes='ccccc' style='fill:#e13f2b;fill-opacity:1;stroke:none'/>
   </g>
 </svg>

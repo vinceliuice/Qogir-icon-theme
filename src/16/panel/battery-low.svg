@@ -16,8 +16,8 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-103.9998,-676.3588)'>
-    <path inkscape:connector-curvature='0' d='m 108.9998,681.3588 0,8 6,0 0,-8 z' id='path7431' sodipodi:nodetypes='ccccc' style='opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 108.9998,681.3588 0,8 6,0 0,-8 z' id='path7431' sodipodi:nodetypes='ccccc' style='opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none'/>
     
-    <path inkscape:connector-curvature='0' d='m 109.9998,677.3588 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1,5 0,4 6,0 0,-4 z' id='path7435' sodipodi:nodetypes='ccccccsscsccscccccccccccc' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 109.9998,677.3588 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z m 1,5 0,4 6,0 0,-4 z' id='path7435' sodipodi:nodetypes='ccccccsscsccscccccccccccc' style='fill:#bebebe;fill-opacity:1;stroke:none'/>
   </g>
 </svg>

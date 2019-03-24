@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="24.03255"
-     inkscape:cy="3.4612887"
+     inkscape:zoom="8"
+     inkscape:cx="9.0042349"
+     inkscape:cy="16.021012"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,7 +38,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="711"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -152,23 +152,5 @@
          d="m 6.0854166,281.91876 c -0.1465935,0 -0.2645833,0.11799 -0.2645833,0.26458 v 5.29167 c 0,0.14659 0.1179898,0.26458 0.2645833,0.26458 H 10.16217 l 1.479497,1.31516 c 0.190169,0.0393 0.264583,-0.0703 0.264583,-0.26458 v -1.05058 h 3.175 c 0.146593,0 0.264583,-0.11799 0.264583,-0.26458 v -5.29167 c 0,-0.14659 -0.11799,-0.26458 -0.264583,-0.26458 z"
          style="opacity:1;fill:#a0ecff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
     </g>
-    <circle
-       style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10866904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
-       id="path823"
-       cx="4.7625003"
-       cy="289.59167"
-       r="0.66145569" />
-    <circle
-       r="0.66145569"
-       cy="289.59167"
-       cx="7.4083333"
-       id="circle827"
-       style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10866904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill" />
-    <circle
-       style="opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10866904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.05882353;paint-order:markers stroke fill"
-       id="circle829"
-       cx="10.054167"
-       cy="289.59167"
-       r="0.66145569" />
   </g>
 </svg>

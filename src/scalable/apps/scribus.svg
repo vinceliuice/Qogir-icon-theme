@@ -16,7 +16,7 @@
    version="1.1"
    id="svg4572"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="scribus.svg">
+   sodipodi:docname="net.scribus.Scribus.svg">
   <title
      id="title4611">Canvas icon theme</title>
   <defs
@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="29.684938"
-     inkscape:cy="27.986541"
+     inkscape:zoom="44.8"
+     inkscape:cx="26.842099"
+     inkscape:cy="5.3844687"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -144,7 +144,7 @@
     <circle
        r="7.1437497"
        id="circle829"
-       style="fill:#3889e9;fill-opacity:1;stroke-width:0.52916666;stroke:#1665c2;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.9"
+       style="fill:#2c82e8;fill-opacity:1;stroke-width:0.52916666;stroke:#155baf;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.9"
        cy="288.53333"
        cx="8.4666662" />
     <circle

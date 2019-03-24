@@ -22,7 +22,7 @@
   <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-149.00043,-357.02906)'/>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-149.00043,-809.39122)'>
     <rect height='22' id='rect12163' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' width='22' x='149.00043' y='809.39124'/>
-    <path inkscape:connector-curvature='0' d='m 165.00043,814.39122 c 0,0 2,0 2,2 l 0,6 c 0,2 -2,2 -2,2 l -0.9998,-2e-5 -2,3.00338 -2,-3.00338 -5.0002,2e-5 c -1.108,0 -2,-0.892 -2,-2 l 0,-1 0,-2 0,-3 c 0,-2 1.96875,-2 1.96875,-2 z m -1,4 -8,0 0,2 8,0 z' id='path3003-0' sodipodi:nodetypes='cssccccssccsccccccc' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 165.00043,814.39122 c 0,0 2,0 2,2 l 0,6 c 0,2 -2,2 -2,2 l -0.9998,-2e-5 -2,3.00338 -2,-3.00338 -5.0002,2e-5 c -1.108,0 -2,-0.892 -2,-2 l 0,-1 0,-2 0,-3 c 0,-2 1.96875,-2 1.96875,-2 z m -1,4 -8,0 0,2 8,0 z' id='path3003-0' sodipodi:nodetypes='cssccccssccsccccccc' style='fill:#bebebe;fill-opacity:1;stroke:none'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-149.00043,-357.02906)'/>
 </svg>

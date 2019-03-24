@@ -22,7 +22,7 @@
   <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-28.000023,-428.02744)'/>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-28.000023,-880.3896)'>
     
-    <path inkscape:connector-curvature='0' d='m 40.00023,885.38905 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z m -3.21875,7.78125 c -2.24866,1.16455 -2.78125,3.51165 -2.78125,6.21875 l 12,0 c 0,-2.7071 -0.53259,-5.0542 -2.78125,-6.21875 -0.87459,0.74817 -1.98482,1.21875 -3.21875,1.21875 -1.23393,0 -2.34416,-0.47058 -3.21875,-1.21875 z' id='path6751-4-5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 40.00023,885.38905 c -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z m -3.21875,7.78125 c -2.24866,1.16455 -2.78125,3.51165 -2.78125,6.21875 l 12,0 c 0,-2.7071 -0.53259,-5.0542 -2.78125,-6.21875 -0.87459,0.74817 -1.98482,1.21875 -3.21875,1.21875 -1.23393,0 -2.34416,-0.47058 -3.21875,-1.21875 z' id='path6751-4-5' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-28.000023,-428.02744)'/>
 </svg>

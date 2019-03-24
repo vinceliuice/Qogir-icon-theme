@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-469,-476.99838)'>
-    <path inkscape:connector-curvature='0' d='m 475,481 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 C 484.87762,486.0183 484,486 484,486 Z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2'/>
+    <path inkscape:connector-curvature='0' d='m 475,481 0,2 4,0 0,3 2,0 0,-3 4,0 0,-2 z m 6,5 0,3 2,0 -3,3 -3,-3 2,0 0,-3 -3,0 c 0,0 -0.9427,-0.0499 -1,0.875 l -1,6 0,1.125 1,0 10,0 1,0 0,-1.125 -1,-6 C 484.87762,486.0183 484,486 484,486 Z' id='path3775-3' sodipodi:nodetypes='ccccccccccccccccccccccccccc' style='color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2'/>
     <rect height='22' id='rect9063' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' width='22' x='469' y='476.99838'/>
   </g>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-469,-929.36054)'/>

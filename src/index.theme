@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/emblems,22/mimetypes,22/panel,22/places,24/actions,24/animations,24/panel,24/places,32/actions,32/apps,32/devices,32/devices,32/places,48/apps,48/mimetypes,48/places,96/places,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,scalable/status,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/status,16/places,22/actions,22/emblems,22/mimetypes,22/panel,22/places,24/actions,24/animations,24/panel,24/places,32/apps,32/devices,32/places,32/status,48/apps,48/mimetypes,48/places,96/places,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,scalable/status,symbolic/apps,symbolic/actions,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
 # 16x16
 [16/actions]
@@ -120,11 +120,6 @@ Size=24
 Type=Fixed
 
 # 32x32
-[32/actions]
-Context=Actions
-Size=32
-Type=Fixed
-
 [32/apps]
 Context=Applications
 Size=32
@@ -137,6 +132,11 @@ Type=Fixed
 
 [32/places]
 Context=Places
+Size=32
+Type=Fixed
+
+[32/status]
+Context=Status
 Size=32
 Type=Fixed
 

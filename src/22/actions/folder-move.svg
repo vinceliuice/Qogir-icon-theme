@@ -49,7 +49,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <g
@@ -59,14 +59,14 @@
        id="path7"
        d="m 12,13 v 4.25 C 12,17.665 11.665,18 11.25,18 H 5.0000004 v 2.25 c 0,0.415 0.3345,0.75 0.75,0.75 H 14.25 C 14.665,21 15,20.665 15,20.25 v -6.5 C 15,13.3345 14.665,13 14.25,13 Z"
        class="ColorScheme-Text"
-       style="color:#565656;opacity:0.3;fill:currentColor"
+       style="color:#5d656b;opacity:0.3;fill:currentColor"
        inkscape:connector-curvature="0" />
     <g
        style="stroke-width:1.39999998"
        transform="matrix(0.71428572,0,0,0.71428572,-16.900727,6.9329957)"
        id="g830">
       <rect
-         style="display:inline;opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
+         style="display:inline;opacity:0.5;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new"
          id="rect23"
          width="14"
          height="5"
@@ -76,7 +76,7 @@
          ry="1" />
       <path
          inkscape:connector-curvature="0"
-         style="display:inline;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1.39999998;enable-background:new"
+         style="display:inline;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:1.39999998;enable-background:new"
          d="m 31.661017,2.7966102 -1,2 h -6 c -0.554,0 -1,0.446 -1,1 V 13.79661 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -5.9999998 -2 -2 c 0,-0.5 -0.5,-1 -1,-1 z"
          id="path4-3"
          sodipodi:nodetypes="ccssssssccssc" />

@@ -40,7 +40,7 @@
      id="base"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     pagecolor="#ffffff"
+     pagecolor="#bebebe"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      showgrid="true"
@@ -85,19 +85,19 @@
        d="m 552.19332,504 c -1.0982,1.38422 -1.4282,2.06599 -1.0321,2.94706 0.3591,0.79867 1.2876,1.20591 0.821,3.05294 0.7664,-0.89992 1.3758,-2.04275 0.774,-2.9647 -0.6122,-0.9377 -0.9479,-1.5073 -0.5629,-3.0353 z"
        id="path4276"
        sodipodi:nodetypes="cscsc"
-       style="color:#000000;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="color:#000000;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        d="m 549.19332,504 c -1.0982,1.38422 -1.4282,2.06599 -1.0321,2.94706 0.3591,0.79867 1.2876,1.20591 0.821,3.05294 0.7664,-0.89992 1.3758,-2.04275 0.774,-2.9647 -0.6122,-0.9377 -0.9479,-1.5073 -0.5629,-3.0353 z"
        id="path4278"
        sodipodi:nodetypes="cscsc"
-       style="color:#000000;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="color:#000000;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        d="m 555.19332,504 c -1.0982,1.38422 -1.4282,2.06599 -1.0321,2.94706 0.3591,0.79867 1.2876,1.20591 0.821,3.05294 0.7664,-0.89992 1.3758,-2.04275 0.774,-2.9647 -0.6122,-0.9377 -0.9479,-1.5073 -0.5629,-3.0353 z"
        id="path4280"
        sodipodi:nodetypes="cscsc"
-       style="color:#000000;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="color:#000000;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
     <path
        style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none"
        d="m 546,510.99999 v 3 c 0,3 2,5 5,5 h 2 c 3,0 4.75978,-1.56569 4.95898,-4 H 558.5 c 1.5,0 1.5,-1.5 1.5,-1.5 v -1 c 0,-1.5 -1.5,-1.5 -1.5,-1.5 H 558 Z m 1,1 h 10 v 2 c 0,2.216 -1.784,4 -4,4 h -2 c -2.216,0 -4,-1.784 -4,-4 z m 11.5,0 c 0.5,-0.0323 0.51562,0.53125 0.51562,0.53125 v 1 c 0,0.46875 -0.51562,0.46875 -0.51562,0.46875 H 558 l 0.01,-1.98437 z"

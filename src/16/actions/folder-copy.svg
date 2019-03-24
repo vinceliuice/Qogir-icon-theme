@@ -53,7 +53,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <path
@@ -73,12 +73,12 @@
        height="5"
        width="14"
        id="rect23"
-       style="display:inline;opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new" />
+       style="display:inline;opacity:0.5;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;enable-background:new" />
     <path
        sodipodi:nodetypes="ccssssssccssc"
        id="path4-3"
        d="m 31.661017,2.7966102 -1,2 h -6 c -0.554,0 -1,0.446 -1,1 V 13.79661 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 v -5.9999998 -2 -2 c 0,-0.5 -0.5,-1 -1,-1 z"
-       style="display:inline;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1.39999998;enable-background:new"
+       style="display:inline;fill:#5d656b;fill-opacity:1;stroke:none;stroke-width:1.39999998;enable-background:new"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

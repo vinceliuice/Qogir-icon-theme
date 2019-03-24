@@ -21,7 +21,7 @@
   </metadata>
   <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-569,-165)'/>
   <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-569,-617.36216)'>
-    <path inkscape:connector-curvature='0' d='m 573.9998,620.36184 c 0,0 -2,0 -2,2.0625 l 0,11.9375 c 0,2 2,2 2,2 l 12,0 c 2,0 2,-2 2,-2 l 0,-12 c 0,0 0,-2 -2,-2 l -12,0 z m 0.75391,4.32422 1.04297,0 0,6.80273 3.70703,0 0,0.87305 -4.75,0 0,-7.67578 z m 5.74218,1.91796 0.98243,0 1.66992,4.83204 1.67578,-4.83204 0.98242,0 -2.04492,5.75782 -1.21875,0 -2.04688,-5.75782 z' id='path12343' style='color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 573.9998,620.36184 c 0,0 -2,0 -2,2.0625 l 0,11.9375 c 0,2 2,2 2,2 l 12,0 c 2,0 2,-2 2,-2 l 0,-12 c 0,0 0,-2 -2,-2 l -12,0 z m 0.75391,4.32422 1.04297,0 0,6.80273 3.70703,0 0,0.87305 -4.75,0 0,-7.67578 z m 5.74218,1.91796 0.98243,0 1.66992,4.83204 1.67578,-4.83204 0.98242,0 -2.04492,5.75782 -1.21875,0 -2.04688,-5.75782 z' id='path12343' style='color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none'/>
     <rect height='22' id='rect12349' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none' width='22' x='569' y='617.36218'/>
   </g>
   <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-569,-165)'/>

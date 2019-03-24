@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-33.913154"
-     inkscape:cy="35.190371"
+     inkscape:zoom="22.4"
+     inkscape:cx="5.8364065"
+     inkscape:cy="6.9420129"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -118,10 +118,10 @@
      transform="translate(0,-280.06667)">
     <g
        id="g846"
-       style="stroke:#000000;stroke-width:0.25959119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54605264;paint-order:fill markers stroke"
+       style="stroke:#000000;stroke-width:0.25959119;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3137255;paint-order:fill markers stroke"
        transform="matrix(1.0192308,0,0,1.0192308,-0.16282067,-5.5487254)">
       <rect
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54605264;paint-order:fill markers stroke"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3137255;paint-order:fill markers stroke"
          id="rect840"
          width="13.758332"
          height="13.758332"
@@ -132,11 +132,11 @@
       <path
          id="path842"
          d="m 14.520333,281.65416 c 0.457327,0 0.8255,0.36818 0.8255,0.8255 v 6.05368 H 8.4666667 v -6.87918 z"
-         style="opacity:1;fill:#1f8fd7;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54605264;paint-order:fill markers stroke"
+         style="opacity:1;fill:#1f8fd7;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3137255;paint-order:fill markers stroke"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#1f8fd7;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54605264;paint-order:fill markers stroke"
+         style="opacity:1;fill:#1f8fd7;fill-opacity:1;stroke:#000000;stroke-width:0.25959119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3137255;paint-order:fill markers stroke"
          d="m 2.4129998,295.41251 c -0.4573265,0 -0.8255,-0.36818 -0.8255,-0.8255 v -6.05367 h 6.8791665 v 6.87917 z"
          id="path844" />
     </g>
