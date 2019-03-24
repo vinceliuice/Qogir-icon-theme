@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.028456"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+    <clipPath
+       id="clipPath7731"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="path7733"
+         d="m -72,-37 c -1.72947,0 -3.28925,0.5728 -4.78125,1.34375 L -72,-30.5 l 4.71875,-5.1875 C -68.75705,-36.44398 -70.29211,-37 -72,-37 Z" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline"
+     id="layer9">
+    <path
+       transform="translate(461.00022,-387.00336)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7231313;marker:none;enable-background:accumulate"
+       id="path6438-9"
+       d="m -72,-38 0,1 1,0 0,-0.96875 C -71.323493,-37.99603 -71.659974,-38 -72,-38 Z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-0.59375 c -0.325389,-0.09548 -0.651632,-0.155871 -1,-0.21875 z m 1,0 0,1 1,0 0,-1 z m 1,0 0.5,0 c -0.165334,-0.08409 -0.326508,-0.144584 -0.5,-0.21875 z m 0,1 0,1 1,0 0,-1 z m 1,0 1,0 0,1 1,0 c -0.558128,-0.671658 -1.230995,-1.257248 -2,-1.71875 z m 2,1 0,1 -1,0 0,1 -1,0 0,1 -1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,-1 -1,0 0,-1 -1,0 0,-1 -1,0 0,-1 -0.5625,0 c -1.565675,1.851407 -0.4375,4.375987 -0.4375,7 0,5.2155 1.38973,6 7,6 5.61027,0 7,-0.7845 7,-6 0,-2.373824 1.295521,-5.440954 0,-7 z m -13,0 1,0 0,-1 -0.5625,0 c -0.144921,0.123613 -0.301098,0.242063 -0.4375,0.375 z m 1,-1 1,0 0,-1 -0.0625,0 c -0.328078,0.173814 -0.639372,0.348926 -0.9375,0.5625 z m 1,-1 1,0 0,-0.5 c -0.346235,0.124586 -0.680795,0.303191 -1,0.46875 z m 1,0 0,1 1,0 0,-1 z m 1,0 1,0 0,-0.9375 c -0.343576,0.03632 -0.675775,0.08361 -1,0.15625 z m 1,0 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m -1,1 -1,0 0,1 1,0 z m -1,1 -1,0 0,1 1,0 z m -1,0 0,-1 -1,0 0,1 z m -1,0 -1,0 0,1 1,0 z m -1,0 0,-1 -1,0 0,1 z m -1,0 -1,0 0,1 1,0 z m -1,0 0,-1 -1,0 0,1 z m -1,-1 0,-1 -1,0 0,1 z m -1,-1 0,-1 -1,0 0,1 z m 0,-1 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m -1,0 -1,0 0,1 1,0 z m 3,1 1,0 0,-1 -1,0 z"
+       clip-path="url(#clipPath7731)" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="path7653"
+       d="m 389.00022,-426.00336 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 7.96875,-8.78125 c -2.25661,-1.65329 -4.9577,-2.71875 -7.96875,-2.71875 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z" />
+  </g>
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-139.96877,-188.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-139.96877,-38.996641)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-139.96877,-38.996641)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-380.96897,428.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

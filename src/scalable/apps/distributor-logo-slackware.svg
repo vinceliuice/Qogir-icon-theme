@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="distributor-logo-slackware.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="27.981382"
+     inkscape:cy="10.624097"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,15.345833"
+       orientation="1,0"
+       id="guide826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.5875,8.4666665"
+       orientation="0,1"
+       id="guide828"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <g
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1.99999999;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.85"
+       id="g842"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3229166,282.97709)">
+      <path
+         id="path840"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 27,-6.000012 c 14.912217,0 26.999999,12.087782 26.999999,26.999999 C 53.999999,35.912203 41.912217,47.999986 27,47.999986 12.087783,47.999986 9.4720473e-7,35.912203 9.4720473e-7,20.999987 9.4720473e-7,6.08777 12.087783,-6.000012 27,-6.000012 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="g15" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,1.3229166,282.97709)"
+       id="g19"
+       style="fill:#4d4d4d;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 27,-6.000012 c 14.912217,0 26.999999,12.087782 26.999999,26.999999 C 53.999999,35.912203 41.912217,47.999986 27,47.999986 12.087783,47.999986 9.4720473e-7,35.912203 9.4720473e-7,20.999987 9.4720473e-7,6.08777 12.087783,-6.000012 27,-6.000012 Z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.13043463"
+         id="path17" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="g31">
+      <g
+         id="g29">
+        <g
+           transform="translate(1,1)"
+           id="g27">
+          <g
+             style="opacity:0.1"
+             id="g25">
+            <!-- color: #35bf5c -->
+            <g
+               id="g23" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="g43" />
+    <g
+       transform="matrix(0.20497516,0,0,0.20497516,2.2016536,284.74474)"
+       id="g33"
+       style="stroke-width:1.29080677" />
+    <g
+       transform="matrix(0.21098584,0,0,0.21098584,3.0072646,283.38067)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.26086807px;line-height:125%;font-family:'方正超粗黑_GBK';-inkscape-font-specification:'方正超粗黑_GBK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.25403357"
+       id="text3145">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 13.107337,43.756793 h 1.702445 c 0.324269,-0.648549 0.729612,-0.972824 1.216033,-0.972826 0.324267,2e-6 1.053886,0.162139 2.188859,0.486413 3.567015,0.810689 6.404421,1.216033 8.512228,1.216033 8.268994,-0.324275 12.727776,-4.053438 13.376358,-11.1875 -3.2e-5,-2.918464 -1.216063,-5.674802 -3.648098,-8.269021 -1.945678,-1.945631 -5.188429,-4.053419 -9.72826,-6.32337 -5.026282,-2.756312 -7.539413,-5.188375 -7.539402,-7.296195 0.324264,-2.7563053 2.350983,-4.2155429 6.080163,-4.3777174 5.026245,0.1621745 8.431133,2.9185122 10.214673,8.2690214 h 2.432065 L 36.698369,5.330164 h -1.216033 c -0.324302,0.1621762 -0.405371,0.2432449 -0.243206,0.2432065 -0.48644,0.3243134 -0.891784,0.486451 -1.216033,0.486413 -0.162163,3.8e-5 -0.729645,-0.1620996 -1.702445,-0.486413 -2.9185,-0.8106492 -5.5127,-1.215993 -7.782609,-1.2160326 -7.944755,0.4864522 -12.16033,3.89134 -12.646739,10.2146741 0.972821,5.999117 4.620916,10.052555 10.944293,12.160325 5.350524,2.107805 8.350068,5.107349 8.998642,8.998641 -0.324299,3.891309 -2.675293,5.918028 -7.052989,6.080163 -5.188418,3e-6 -8.755443,-3.08061 -10.701087,-9.241847 h -2.432065 l 1.459239,11.187499"
+         style="font-weight:bold;font-family:'刘德华字体叶根友仿版';-inkscape-font-specification:'刘德华字体叶根友仿版 Bold';fill:#ffffff;stroke-width:1.25403357"
+         id="path3001" />
+    </g>
+  </g>
+</svg>

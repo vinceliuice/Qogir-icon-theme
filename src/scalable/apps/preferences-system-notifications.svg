@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="preferences-system-notifications.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-5.0910344"
+     inkscape:cy="30.931001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <g
+       id="g863"
+       transform="translate(24.626398,24.869163)">
+      <path
+         sodipodi:nodetypes="sssscccsssssssssscccssss"
+         inkscape:connector-curvature="0"
+         id="rect4203-3-74"
+         d="m -21.333061,258.90001 c -0.485021,0 -0.891934,0.38911 -0.891934,0.87229 v 8.31176 c 0,0.48318 0.406919,0.86993 0.891934,0.87178 h 6.948414 l 1.361157,1.3193 1.361675,-1.3193 h 1.7740525 c 0.4850182,0 0.8919342,-0.3886 0.8919342,-0.87178 v -8.31176 c 0,-0.48318 -0.4069133,-0.87229 -0.8919342,-0.87229 z m 0,0.26458 h 11.4452985 c 0.3474481,0 0.6273508,0.27111 0.6273508,0.60771 v 8.31176 c 0,0.33661 -0.2799027,0.6072 -0.6273508,0.6072 h -1.8815395 l -1.254188,1.21543 -1.254186,-1.21543 h -7.055385 c -0.347448,0 -0.62735,-0.27059 -0.62735,-0.6072 v -8.31176 c 0,-0.3366 0.279902,-0.60771 0.62735,-0.60771 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4f6698;fill-opacity:0.26666667;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+      <g
+         id="layer1-6-0"
+         inkscape:label="Layer 1"
+         transform="matrix(0.35277776,0,0,0.35277776,-24.870828,249.99519)">
+        <path
+           style="display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;enable-background:new"
+           d="m 10.027785,25.992004 c -0.9848934,0 -1.7777848,0.768155 -1.7777848,1.722321 v 23.56077 c 0,0.954165 0.7928922,1.72232 1.7777848,1.72232 h 19.99995 l 3.555566,3.74459 3.555567,-3.74459 h 5.333349 c 0.984893,0 1.777784,-0.768155 1.777784,-1.72232 v -23.56077 c 0,-0.954166 -0.792891,-1.722321 -1.777784,-1.722321 z"
+           id="rect4203-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssscccsssss" />
+        <circle
+           r="7.8000002"
+           style="opacity:1;fill:#ff5656;fill-opacity:1;stroke:#ff5656;stroke-width:0.90000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path4172-0"
+           cx="10.5"
+           cy="27.492004" />
+        <g
+           style="font-style:normal;font-weight:bold;font-size:15px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text4174-5"
+           transform="matrix(0.75,0,0,0.75,12.399665,25.499844)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m -1.4330004,7.706214 h -2.080078 v -8.14453089 l -2.028808,0.783691 V -1.383141 l 3.88916,-1.589356 h 0.219726 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold'"
+             id="path4168-5" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

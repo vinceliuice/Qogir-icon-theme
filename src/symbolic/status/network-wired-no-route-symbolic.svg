@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.000017"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline"
+     id="layer9">
+    <path
+       style="color:#000000;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path3766-8"
+       d="m 550.99788,-427.53697 0,1.03125 0,1.03125 c 0.38784,0.22302 0.70562,0.5404 1,0.875 l 0,-0.875 3.40859,2.97111 -1.65859,1.56014 c 0.1496,0.28061 0.25,0.5961 0.25,0.9375 0,0.0424 0.003,0.0833 0,0.125 l 3.00234,-2.62264 0,0 -2e-5,10e-6 -5.18982,-4.37737 z m 0,9.53125 0,0.53125 0.65625,-0.53125 z" />
+    <path
+       style="color:#000000;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path3783-8"
+       d="m 544.99788,-421.94322 -3.99766,3.43986 0,0 0,0 5.18516,4.37264 0.8125,0.65625 0,-1.03125 0,-1.5 c 0,-0.39014 0.13246,-0.71197 0.34375,-1 l -0.84375,0 -0.5,0 0,0.5 0,0.96875 -3.40391,-2.96639 2.81016,-2.50236 -0.34375,0 z m 1,0.9375 0,0.5 0,0.5 0.5,0 0.6875,0 c 0.13021,-0.34085 0.31339,-0.64101 0.5,-0.875 0.0443,-0.0555 0.0803,-0.074 0.125,-0.125 l -0.8125,0 z" />
+    <path
+       style="color:#444444;fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path19592-2-2-0-8"
+       d="m 548.81272,-425.00336 c 1.64243,-0.092 3.0955,1.17008 3.1875,2.8125 -10e-5,1.40136 -0.37771,1.92177 -1.59375,2.84375 -0.19093,0.14364 -0.3256,0.2506 -0.375,0.3125 -0.0494,0.0621 -0.0312,0.0332 -0.0312,0.0312 0.007,0.52831 -0.47163,1 -1,1 -0.52837,0 -1.007,-0.47169 -1,-1 0,-0.50239 0.22424,-0.94342 0.46875,-1.25 0.24451,-0.30663 0.4913,-0.51638 0.71875,-0.6875 0.20405,-0.16056 0.46083,-0.38454 0.6875,-0.65625 0.0935,-0.1121 0.129,-0.30766 0.125,-0.4375 l 0,-0.0312 c -0.0316,-0.56324 -0.49926,-0.9691 -1.0625,-0.9375 -0.56324,0.0316 -0.9691,0.43676 -0.9375,1 l -2,0 c -0.092,-1.64243 1.17007,-2.9079 2.8125,-3 z m 0.1875,8 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z" />
+  </g>
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-300,-188.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-300,-38.996641)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-300,-38.996641)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-541.0002,428.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16.004499">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline"
+     id="layer9">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       id="path8448"
+       d="m 408.0002,-268.00336 0,0.8125 c -0.0236,0.0916 -0.0342,0.18665 -0.0312,0.28125 0.008,0.0423 0.0181,0.0841 0.0312,0.125 0.10014,0.44715 0.5419,0.79228 1,0.78125 l 0.5625,0 -2.5625,2.5625 -3.28125,-3.28125 a 1.0001,1.0001 0 0 0 -0.90625,-0.28125 l -0.0312,0 -0.78125,0 0,0.6875 a 1.0001,1.0001 0 0 0 0.28125,1.03125 l 4,4 a 1.0001,1.0001 0 0 0 1.4375,0 l 3.2812,-3.28125 c 5e-5,0.0503 0,0.0711 0,0.125 l 0,0.4375 c 5e-5,0.52358 0.47642,0.99995 1,1 0.0726,0.008 0.14613,0.008 0.21875,0 l 0.78125,0 0,-5 -1,0 -3,0 c -0.0623,-0.006 -0.12518,-0.006 -0.1875,0 l -0.8125,0 z" />
+    <path
+       style="clip-rule:evenodd;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path8358"
+       d="m 414.72401,-253.15143 c -0.42398,0.72547 -1.48164,0.52304 -2.2366,0.41242 -0.73384,-0.10676 -1.60985,-0.21473 -2.09207,-0.89769 -0.27114,-0.38254 -0.18837,-0.85625 -0.18707,-1.26753 10e-4,-0.40595 0.12437,-0.91885 -0.10883,-1.27204 -0.37762,-0.5739 -1.16778,-0.72327 -1.6309,-0.7932 -1.04856,-0.15555 -1.8586,-0.16337 -2.97882,0.0294 -0.5429,0.0928 -1.28269,0.23371 -1.58145,0.75986 -0.44592,0.78617 0.22509,1.67946 -0.29775,2.50301 -0.49748,0.78396 -1.40732,0.81606 -2.08413,0.91479 -0.65339,0.0937 -1.59923,0.33924 -2.12142,-0.18721 -0.29952,-0.30297 -0.27479,-0.73286 -0.27451,-1.12419 -7.3e-4,-0.39854 -0.0499,-0.79029 -0.001,-1.14136 0.11751,-0.85049 0.52254,-1.66677 1.21051,-2.41022 0.67443,-0.72893 1.44777,-1.10449 2.20715,-1.39519 1.4853,-0.56791 2.88235,-0.7141 4.45308,-0.73278 1.54454,-0.0188 3.07252,0.16093 4.55617,0.75544 1.85237,0.7428 3.08687,2.27458 3.30343,3.86687 0.0373,0.2699 0.0131,0.62412 0.009,0.9643 -0.003,0.34011 0.0419,0.69629 -0.14478,1.01531 z" />
+  </g>
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-158.00001,-348.99214)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-158.00001,-198.99214)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-158.00001,-198.99214)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-399.00021,268.00786)"
+     style="display:inline"
+     id="layer12" />
+</svg>

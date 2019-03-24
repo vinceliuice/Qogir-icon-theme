@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline"
+     id="layer9" />
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-152,-700.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-152,-550.99664)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-152,-550.99664)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-393.0002,-83.996642)"
+     style="display:inline"
+     id="layer12">
+    <rect
+       y="94.996643"
+       x="-405.00021"
+       width="8"
+       transform="scale(-1,1)"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+       ry="0"
+       rx="0"
+       id="rect42942-5-3-1-6-9-9"
+       height="0.99985999" />
+    <rect
+       y="85.996643"
+       x="-405.00021"
+       width="8"
+       transform="scale(-1,1)"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+       ry="0"
+       rx="0"
+       id="rect42944-7-5-3-5-0-8-8"
+       height="0.99983901" />
+    <rect
+       y="97.996643"
+       x="-405.00021"
+       width="8"
+       transform="scale(-1,1)"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+       ry="0"
+       rx="0"
+       id="rect42944-7-5-3-5-1-5-8-7-4"
+       height="0.99983901" />
+    <rect
+       y="88.996643"
+       x="-405.00021"
+       width="8"
+       transform="scale(-1,1)"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+       ry="0"
+       rx="0"
+       id="rect42942-5-3-1-1-2-4-0-0"
+       height="0.99983901" />
+    <rect
+       y="91.996643"
+       x="-407.0004"
+       width="12.00001"
+       transform="scale(-1,1)"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+       id="rect42942-5-3-1-6-6-3-8"
+       height="0.99988002" />
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='phone-battery-medium.svg' height='24' id='svg6530' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs6532'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1.0' inkscape:current-layer='layer1' inkscape:cx='412.00705' inkscape:cy='-108.37171' inkscape:document-units='px' inkscape:guide-bbox='true' id='base' inkscape:object-nodes='true' inkscape:object-paths='true' pagecolor='#727272' inkscape:pageopacity='0' inkscape:pageshadow='2' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-smooth-nodes='true' units='px' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='4'>
+    <inkscape:grid empspacing='4' id='grid8845' originx='-76.000212' originy='-291.96757' type='xygrid'/>
+  </sodipodi:namedview>
+  <metadata id='metadata6535'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-76.000212,-284.03243)'/>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-76.000212,-736.39459)'>
+    
+    <path inkscape:connector-curvature='0' d='m 89.000212,740.39459 c -1,0 -1,1.00001 -1,1.00001 l 0,14 c 0,0 0,1 1,1 l 6,0 c 1,0 1,-1 1,-1 l 0,-14 c 0,0 0,-1.00001 -1,-1.00001 z m 0.9998,2.00336 4,0 0,11 -4,0 z' id='path10680' sodipodi:nodetypes='sccssccssscccs' style='fill:#ffffff;fill-opacity:1;stroke:none'/>
+    <path inkscape:connector-curvature='0' d='m 82.500212,740.39459 c -0.277,-7e-5 -0.5,0.22301 -0.5,0.50001 l 0,0.5 -1.999985,-0.002 0,-2.6e-4 -1.5e-5,14.50174 c 0,0.277 0.223,0.5 0.5,0.5 l 5,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 1.5e-5,-14.50122 -0.500015,0.002 -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.49994 -0.5,-0.50001 z' id='path10682' sodipodi:nodetypes='sscccsssscccsss' style='color:#bebebe;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+    <path inkscape:connector-curvature='0' d='m 80.000227,748.39286 -1.5e-5,7.50174 c -1e-6,0.277 0.223,0.5 0.5,0.5 l 5,0 c 0.277,0 0.498915,-0.223 0.5,-0.5 l 1.5e-5,-7.50174 z' id='path10684' sodipodi:nodetypes='csssscc' style='color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round'/>
+  </g>
+  <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-76.000212,-284.03243)'/>
+</svg>

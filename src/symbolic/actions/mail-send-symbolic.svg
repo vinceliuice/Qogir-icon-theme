@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.982021"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16.000015"
+   inkscape:version="0.91 r"
+   sodipodi:docname="mail-send-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="739"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="14.749986"
+     inkscape:cx="-0.72086205"
+     inkscape:cy="8.0000076"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 0,-1e-6 0,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 l 0,1 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 l 0,1 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 l 0,1 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 l 0,2 2,0 c 0,-0.55228 0.44772,-1 1,-1 0.55228,0 1,0.44772 1,1 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 0.55228,0 1,0.44772 1,1 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 0.55229,0 1,0.44772 1,1 l 1,0 c 0,-0.55228 0.44771,-1 1,-1 0.55229,0 1,0.44772 1,1 l 2,0 0,-2 c -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 l 0,-1 c -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 l 0,-1 c -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 l 0,-1 c -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 l 0,-2 -2,0 c 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 l -1,0 c 0,0.55228 -0.44771,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 l -1,0 c 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 l -1,0 c 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 l -2,0 z m 2,2 11,0 0,11 -1.5,0 c 0,-1.23945 -0.19074,-2.35208 -0.78125,-3.1875 -0.048,-0.0852 -0.0986,-0.17154 -0.15625,-0.25 -0.0195,-0.0227 -0.0422,-0.0403 -0.0625,-0.0625 -0.0999,-0.1266 -0.22226,-0.20834 -0.34375,-0.3125 -0.15198,-0.1303 -0.32321,-0.25565 -0.5,-0.34375 -0.12335,-0.0615 -0.24366,-0.11859 -0.375,-0.15625 -0.49379,0.47964 -1.07039,0.6875 -1.78125,0.6875 -0.71086,0 -1.28746,-0.20786 -1.78125,-0.6875 -0.11157,0.0402 -0.22867,0.0985 -0.34375,0.15625 -0.009,0.004 -0.0226,-0.004 -0.0312,0 -0.0348,0.018 -0.0602,0.0436 -0.0937,0.0625 -0.25438,0.14299 -0.5108,0.32554 -0.71875,0.5625 -0.031,0.0329 -0.0645,0.0597 -0.0937,0.0937 -0.0389,0.0501 -0.0588,0.10222 -0.0937,0.15625 C 3.70122,10.562159 3.5,11.716869 3.5,12.999999 l -1.5,0 0,-11 z"
+     id="path9296"
+     style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+  <circle
+     cx="7.4999833"
+     cy="6.307682"
+     id="path9298"
+     r="2.307687"
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+</svg>

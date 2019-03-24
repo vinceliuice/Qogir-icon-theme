@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="22" viewBox="0 0 22 22" width="22" version="1.1">
+ <g transform="translate(-101 -545.39)">
+  <rect style="color:#bebebe;enable-background:new;fill:none" transform="scale(-1,1)" height="22" width="22" y="545.39" x="-123"/>
+  <path style="color:#000000;fill:#fff" d="m114 548.86v1.0312 1.5h-2.5-0.5v1h0.5 3 0.5v-0.5-0.96875l3.4063 2.9688-3.4063 2.9688v-0.96875-0.5h-0.5-2.5v1h2v1.5 1.0312l0.8125-0.65625 5.1875-4.375-5.1875-4.375z"/>
+  <path style="color:#000000;fill:#fff" d="m110 552.86-0.8125 0.65625-5.1875 4.375 5.1875 4.375 0.8125 0.65625v-1.0312-1.5h2.5 0.5v-1h-0.5-3-0.5v0.5 0.96875l-3.4062-2.9688 3.4062-2.9688v0.96875 0.5h0.5 2.5v-1h-2v-1.5z"/>
+ </g>
+</svg>

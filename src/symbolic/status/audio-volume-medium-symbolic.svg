@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline"
+     id="layer9">
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
+       id="path5013"
+       d="m 288.46895,-386.00336 -3,3 -1.46875,0 -1,0 0,6 2.46875,0 3.0625,3.03125 0.46875,-0.0312 0,-12 z m 3.25,1.125 c -0.37847,0.0899 -0.48277,0.69481 -0.15625,0.90625 2.17533,1.79085 2.49123,5.01805 0.71875,7.21875 -0.22704,0.28188 -0.41025,0.48761 -0.6875,0.71875 -0.26511,0.13669 -0.34594,0.53543 -0.15499,0.76457 0.19095,0.22915 0.59773,0.22155 0.77999,-0.0146 0.32037,-0.2671 0.58167,-0.51837 0.84375,-0.84375 2.1111,-2.62112 1.71895,-6.48951 -0.875,-8.625 -0.10832,-0.0984 -0.26135,-0.14549 -0.40625,-0.125 -0.0208,-10e-4 -0.0417,-10e-4 -0.0625,0 z m -1.40625,2.21875 c -0.3577,0.092 -0.47609,0.6445 -0.1875,0.875 0.98197,0.99012 0.97907,2.56971 0,3.5625 -0.008,0.008 0.004,0.0276 0,0.0312 -0.25698,0.15718 -0.30568,0.56716 -0.0927,0.78017 0.21301,0.21301 0.62299,0.16431 0.78017,-0.0927 0.008,-0.008 0.0272,0.004 0.0312,0 1.35895,-1.37799 1.36295,-3.62572 0,-5 -0.11518,-0.1281 -0.29975,-0.18963 -0.46875,-0.15625 -0.0208,-10e-4 -0.0417,-10e-4 -0.0625,0 z" />
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
+       id="path5029"
+       d="m 293.1877,-387.00336 c -0.37012,0.10598 -0.45261,0.70404 -0.125,0.90625 3.33534,2.62114 3.93769,7.46995 1.34375,10.84375 -0.41664,0.54192 -0.80787,0.92283 -1.34375,1.34375 -0.42547,0.31087 0.16833,1.12344 0.59375,0.8125 0.59174,-0.4648 1.07155,-0.96458 1.53125,-1.5625 2.92282,-3.80156 2.23063,-9.29366 -1.53125,-12.25 -0.11353,-0.0875 -0.26585,-0.12268 -0.40625,-0.0937 -0.0208,-10e-4 -0.0417,-10e-4 -0.0625,0 z" />
+  </g>
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-40.000014,-228.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-40.000014,-78.996641)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-40.000014,-78.996641)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-281.00021,388.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

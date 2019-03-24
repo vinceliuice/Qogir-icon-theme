@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gnome-nibbles.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="19.52"
+     inkscape:cy="43.561903"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1221"
+     inkscape:window-height="706"
+     inkscape:window-x="145"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="0,1"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666665,8.4666665"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <circle
+       r="7.1437497"
+       cy="288.53333"
+       cx="8.4666662"
+       id="circle835"
+       style="opacity:0.75;fill:#f8982e;fill-opacity:1;stroke:#cf6e05;stroke-width:0.52916658;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <circle
+       style="opacity:1;fill:#f88c16;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill"
+       id="path13"
+       cx="8.4666662"
+       cy="288.53333"
+       r="7.1437497" />
+    <circle
+       r="5.8208218"
+       cy="288.53333"
+       cx="8.4666662"
+       id="circle884"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49136901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.03921569;paint-order:stroke markers fill" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88445836px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 25.857422 16.804688 C 25.200075 16.789565 24.532179 16.870937 23.876953 17.041016 C 22.129683 17.495353 20.459787 18.556067 19.269531 19.988281 C 18.080702 21.418757 17.371184 23.237463 17.605469 25.173828 C 17.850023 28.477135 19.398671 33.909611 21.332031 38.560547 C 22.299544 40.88798 23.360993 43.013815 24.417969 44.572266 C 24.946457 45.351491 25.47438 45.98872 26.001953 46.443359 C 26.520753 46.890402 27.051935 47.165616 27.601562 47.164062 C 28.549522 47.304287 29.398873 46.996302 30.119141 46.431641 C 30.847784 45.860478 31.471398 45.043012 32.058594 44.136719 C 33.193599 42.384945 34.212677 40.15973 35.373047 38.839844 C 35.483258 38.973261 35.643341 39.390487 35.824219 39.726562 C 36.188739 40.403896 36.657684 41.386216 37.263672 42.390625 C 37.869662 43.395034 38.612877 44.350906 39.548828 45.144531 C 40.4812 45.935095 41.619581 46.433305 42.964844 46.4375 C 43.775692 46.494949 44.589703 46.441281 45.246094 46.111328 C 45.9051 45.779486 46.406311 45.246241 46.4375 44.425781 L 46.4375 44.421875 L 46.4375 44.417969 C 46.443925 43.767361 46.085862 43.303927 45.628906 43.015625 C 45.17195 42.727247 44.614948 42.533826 44.025391 42.228516 C 42.846269 41.617895 41.514143 40.622714 40.712891 37.730469 C 40.07756 35.437127 39.241874 33.720485 38.355469 32.566406 C 37.469064 31.41229 36.755039 30.385357 35.623047 30.513672 C 33.654915 30.736664 32.733451 33.558209 31.794922 35.056641 C 31.219289 35.977863 30.67768 36.895804 30.210938 37.626953 C 29.831678 38.221019 29.547234 38.547825 29.326172 38.775391 C 28.600112 37.995939 28.167059 37.158621 28.246094 36.167969 C 28.334633 35.058186 28.96797 33.787094 29.554688 32.4375 C 30.727258 29.740316 32.219386 26.711934 31.914062 23.714844 C 31.690409 21.519392 30.544272 19.064303 28.933594 17.802734 C 28.199952 17.274923 27.372064 16.971979 26.509766 16.857422 C 26.294193 16.827186 26.076538 16.81231 25.857422 16.806641 L 25.857422 16.804688 z M 25.699219 20.519531 C 26.838753 20.967594 27.72839 21.939041 28.111328 22.693359 C 27.262495 22.186563 26.390138 21.831333 25.695312 21.671875 C 25.025118 21.898269 24.334398 22.25709 23.685547 22.832031 C 24.044799 21.770097 24.720708 20.97383 25.699219 20.519531 z M 21.292969 22.253906 C 22.214698 22.267266 23.105014 22.518457 23.685547 22.816406 C 22.67522 22.846642 21.736856 23.006305 21.064453 23.230469 C 20.64606 23.743691 20.291282 24.369766 20.101562 25.144531 C 19.756442 24.134641 19.835126 23.174097 20.371094 22.328125 C 20.675024 22.27266 20.985726 22.249453 21.292969 22.253906 z M 25.523438 22.796875 C 26.508437 22.701291 27.363883 23.962207 27.429688 25.611328 C 27.457856 26.317419 27.332001 26.85717 27.107422 27.392578 C 26.654221 27.402405 26.188392 27.440917 25.712891 27.519531 C 25.268872 27.592854 24.84249 27.696344 24.4375 27.820312 C 24.384383 27.736407 24.326239 27.66247 24.279297 27.568359 C 24.269693 27.67721 24.253714 27.781962 24.236328 27.884766 C 23.361747 28.174164 22.599568 28.686491 21.998047 29.150391 C 21.574739 28.688835 21.245131 27.94637 21.144531 27.076172 C 20.9709 25.574188 21.529762 24.034195 22.392578 23.947266 C 22.95484 23.890535 23.505954 24.61283 23.871094 25.361328 C 23.98087 23.979646 24.659538 22.880781 25.523438 22.796875 z M 25.599609 25.144531 A 0.63204988 0.86665064 0 0 0 24.951172 26.011719 A 0.63204988 0.86665064 0 0 0 26.214844 26.011719 A 0.63204988 0.86665064 0 0 0 25.599609 25.144531 z M 22.882812 25.800781 A 0.63205003 0.86665086 0 0 0 22.232422 26.666016 A 0.63205003 0.86665086 0 0 0 23.496094 26.666016 A 0.63205003 0.86665086 0 0 0 22.882812 25.800781 z M 28.111328 28.035156 C 28.084947 30.405374 25.731546 33.252795 24.298828 33.238281 C 22.28328 33.219384 21.598179 31.851548 21.158203 30.90625 C 23.433427 30.364228 26.324759 29.083748 28.111328 28.035156 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,280.06667)"
+       id="path5054-6-5" />
+    <path
+       d="m 7.3799911,287.82242 c -0.1107067,0.1444 -0.3432342,0.25425 -0.7305519,0.42501 0.441683,-0.093 0.43313,-0.003 0.4472874,0.13125 0.096587,-0.13329 0.22357,-0.34189 0.2832645,-0.55626 z m -0.9305034,0.50129 c -0.4096898,0.11999 -0.5899417,0.1479 -0.7612739,0.0971 0.087505,0.16553 0.2281618,0.30304 0.387927,0.37052 -0.067025,-0.13554 -0.066772,-0.25828 0.3733469,-0.46766 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05382298;stroke-miterlimit:4;stroke-opacity:1;opacity:0.5"
+       id="rect2946-2-6"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

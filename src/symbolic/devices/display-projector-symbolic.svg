@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16.031622"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline"
+     id="layer9" />
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10">
+    <rect
+       y="-136.00336"
+       x="301.03183"
+       width="16.000002"
+       style="fill:none;stroke:none"
+       id="rect9397"
+       height="16" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect9405"
+       d="m 302.00021,-132.00336 c -1,0 -1,1 -1,1 l 0,5 c 0,1 1,1 1,1 l 1,0 c 0,1 1,1 1,1 l 1,0 c 0,0 1,0 1,-1 l 6,0 c 0,1 0.96875,1 0.96875,1 l 1,0 c 0,0 1.03125,0 1.03125,-1 l 1,0 c 1,0 1,-1 1,-1 l 0,-5 c 0,0 0,-1 -1.03125,-1 l -13.96875,0 z m 2.5,1 c 1.378,0 2.5,1.1193 2.5,2.5 0,1.3807 -1.122,2.5 -2.5,2.5 -1.378,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.122,-2.5 2.5,-2.5 z m 6.5,1 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,0.875 -1,0 0,-1 1,0 0,-0.875 -1,0 0,-1 z m 2,2 1,0 0,-1 -1,0 0,1 z" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       id="path9418"
+       d="m 304.31271,-130.00336 a 1.5,1.5 0 0 0 -1.3125,1.5 1.5,1.5 0 0 0 3,0 1.5,1.5 0 0 0 -1.6875,-1.5 z m 0.1875,0.5 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z" />
+  </g>
+  <g
+     transform="translate(-60.00001,-480.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-60.00001,-330.99664)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-60.00001,-330.99664)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-301.00021,136.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

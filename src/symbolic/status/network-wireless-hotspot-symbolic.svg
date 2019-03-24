@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline"
+     id="layer9">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate"
+       id="rect12924"
+       d="m 424.0002,-426.00336 c 0,0 -2,0 -2,2 l 0,10 c 0,0 -9e-5,2 2,2 l 10,0 c 0,0 2,0 2,-2 l 0,-10 c 0,0 -9e-5,-1.88755 -2,-1.90625 l -10,-0.0937 z m 5.03125,3 c 1.70789,0 3.24295,0.55602 4.71875,1.3125 l -3.65625,4.03125 c -0.31499,-0.20793 -0.69355,-0.34375 -1.09375,-0.34375 -0.38541,0 -0.7549,0.11844 -1.0625,0.3125 l -3.6875,-3.96875 c 1.492,-0.77095 3.05178,-1.34375 4.78125,-1.34375 z m -0.0312,6 c 0.55228,0 1,0.44772 1,1 0,0.55229 -0.44772,1 -1,1 -0.55228,0 -1,-0.44771 -1,-1 0,-0.55228 0.44772,-1 1,-1 z" />
+  </g>
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-180,-189.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-180,-39.99664)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-180,-39.99664)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-421.0002,427.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

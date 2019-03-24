@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='network-wireless-secure-signal-ok.svg' height='16' id='svg6530' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' viewBox='0 0 16.001953 16' width='16.001953' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs6532'/>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1.0' inkscape:current-layer='layer1' inkscape:cx='2.019909' inkscape:cy='-96.600637' inkscape:document-units='px' id='base' inkscape:object-nodes='true' inkscape:object-paths='true' pagecolor='#3c3c3c' inkscape:pageopacity='0' inkscape:pageshadow='2' showgrid='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-smooth-nodes='true' units='px' inkscape:window-height='744' inkscape:window-maximized='1' inkscape:window-width='1301' inkscape:window-x='65' inkscape:window-y='24' inkscape:zoom='1'>
+    <inkscape:grid empspacing='4' id='grid8845' originx='-79.999999' originy='-507.99998' type='xygrid'/>
+  </sodipodi:namedview>
+  <metadata id='metadata6535'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' transform='translate(-80,-528.36218)'>
+    
+    <path inkscape:connector-curvature='0' d='m 88.033203,530.36216 c -3.03435,0 -5.76588,1.07815 -8.03125,2.75 l 8.03125,8.75 L 89,540.79771 l 0,-1.43555 1.013672,0 c 0.01965,-1.63493 1.342515,-3 2.986328,-3 0.0074,0 0.01414,0.002 0.02148,0.002 l 2.980473,-3.28325 c -2.25661,-1.65329 -4.9577,-2.71875 -7.96875,-2.71875 z m -0.0625,1 c 2.39362,0 4.52424,0.83638 6.4375,2.03125 l -6.4375,7 -6.375,-7.03125 c 1.90092,-1.17864 4.00536,-2 6.375,-2 z' id='path9116' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 87.97155,534.76841 c -1.11918,0 -2.14739,0.25729 -3.09375,0.71875 l 3.09375,3.40625 3.09375,-3.375 c -0.94819,-0.46162 -1.97284,-0.75 -3.09375,-0.75 z' id='path9118' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+    <path inkscape:connector-curvature='0' d='m 93,537.36216 c -1.108,0 -2,0.91085 -2,2.03125 l 0,0.96875 -1,0 0,1 0,2 0,1 1,0 4,0 1,0 0,-1 0,-2 0,-1 -1,0 0,-0.96875 c 0,-1.1199 -0.892,-2.03125 -2,-2.03125 z m 0,1 c 0.554,0 1,0.4424 1,1 l 0,1 -2,0 0,-1 c 0,-0.5576 0.446,-1 1,-1 z' id='path9145' sodipodi:nodetypes='ssccccccccccccssssccss' style='color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+  </g>
+</svg>

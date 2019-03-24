@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg4572"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="multimedia-volume-control.svg">
+  <title
+     id="title4611">Canvas icon theme</title>
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="13.55855"
+     inkscape:cy="25.21108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     width="64px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4582" />
+    <sodipodi:guide
+       position="1.0583333,15.875"
+       orientation="0,1"
+       id="guide4584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="1,0"
+       id="guide4586"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.875,15.875"
+       orientation="1,0"
+       id="guide4588"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0583333,1.0583333"
+       orientation="0,1"
+       id="guide4590"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Canvas icon theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vince Liuice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06667)">
+    <g
+       id="g873"
+       transform="translate(-2.1166666,35.454161)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4197-8"
+         d="m 10.583332,246.06772 a 7.0114583,7.0114583 0 0 0 -3.7677985,1.09983 H 5.3924052 c -0.399395,0 -0.7206937,0.3213 -0.7206937,0.7207 v 1.43548 a 7.0114583,7.0114583 0 0 0 -1.0998367,3.75544 7.0114583,7.0114583 0 0 0 1.0998367,3.7678 v 1.42314 c 0,0.39939 0.3212987,0.72068 0.7206937,0.72068 h 1.43548 a 7.0114583,7.0114583 0 0 0 3.7554468,1.09984 7.0114583,7.0114583 0 0 0 3.767801,-1.09984 h 1.423128 c 0.399395,0 0.720694,-0.32129 0.720694,-0.72068 v -1.43549 a 7.0114583,7.0114583 0 0 0 1.099836,-3.75545 7.0114583,7.0114583 0 0 0 -1.099836,-3.7678 v -1.42312 c 0,-0.3994 -0.321299,-0.7207 -0.720694,-0.7207 h -1.43548 a 7.0114583,7.0114583 0 0 0 -3.755449,-1.09983 z"
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:#252831;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <circle
+         r="5.6885414"
+         cy="253.07918"
+         cx="10.583334"
+         id="path4195-4"
+         style="opacity:1;fill:#fff669;fill-opacity:1;stroke:#272a2f;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <rect
+         ry="0.39687499"
+         rx="0.39687499"
+         y="248.05209"
+         x="5.5562501"
+         height="0.52916664"
+         width="0.52916664"
+         id="rect4235-4"
+         style="opacity:1;fill:#b2b7bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <rect
+         ry="0.39687499"
+         rx="0.39687499"
+         y="248.05209"
+         x="15.08125"
+         height="0.52916664"
+         width="0.52916664"
+         id="rect4235-9-3"
+         style="opacity:1;fill:#b2b7bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <rect
+         ry="0.39687499"
+         rx="0.39687499"
+         y="257.57709"
+         x="15.08125"
+         height="0.52916664"
+         width="0.52916664"
+         id="rect4235-7-3"
+         style="opacity:1;fill:#b2b7bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <rect
+         ry="0.39687499"
+         rx="0.39687499"
+         y="257.57709"
+         x="5.5562501"
+         height="0.52916664"
+         width="0.52916664"
+         id="rect4235-3-8"
+         style="opacity:1;fill:#b2b7bf;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+      <circle
+         r="1.8520833"
+         cy="253.07918"
+         cx="10.583333"
+         id="path4264-5"
+         style="opacity:1;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.78431373" />
+    </g>
+  </g>
+</svg>

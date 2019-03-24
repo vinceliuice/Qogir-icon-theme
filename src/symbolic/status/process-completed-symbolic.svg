@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="16"
+   version="1.1"
+   style="enable-background:new"
+   id="svg7384"
+   height="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moka Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Moka Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline"
+     id="layer9">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;marker:none;enable-background:accumulate"
+       id="path2922-6-6-0"
+       d="m 493.94995,-204.95311 c -2.73367,-2.73367 -7.16583,-2.73367 -9.8995,0 -2.73367,2.73367 -2.73367,7.16583 0,9.8995 2.73368,2.73367 7.16583,2.73367 9.8995,0 1.97353,-1.97353 2.51117,-4.82621 1.63518,-7.29204 l -5.87782,5.87782 -1.41422,1.41422 -1.41421,-1.41422 -2.82843,-2.82842 1.41422,-1.41422 2.82842,2.82843 6.29767,-6.29767 c -0.19867,-0.26536 -0.39957,-0.53215 -0.64081,-0.7734 z"
+       class="success" />
+  </g>
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline;filter:url(#filter7554)"
+     id="layer10" />
+  <g
+     transform="translate(-240,-408.99664)"
+     style="display:inline"
+     id="layer1" />
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline"
+     id="layer14" />
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline"
+     id="layer15" />
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline"
+     id="g71291" />
+  <g
+     transform="translate(-240,-258.99664)"
+     style="display:inline"
+     id="layer2" />
+  <g
+     transform="translate(-240,-258.99664)"
+     style="display:inline"
+     id="g6058" />
+  <g
+     transform="translate(-481.0002,208.00336)"
+     style="display:inline"
+     id="layer12" />
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="mail-mark-unread-symbolic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="693"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-1.0169492"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <g
+     style="color:#000000"
+     transform="translate(-912.002,-523.948)"
+     id="g4">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 914.5,527 c -0.831,0 -1.5,0.669 -1.5,1.5 v 7 c 0,0.831 0.669,1.5 1.5,1.5 h 11 c 0.831,0 1.5,-0.669 1.5,-1.5 v -7 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0.475,1 h 10.048 L 920,531.871 Z M 926,528.512 v 6.988 c 0,0.277 -0.223,0.5 -0.5,0.5 h -11 a 0.499,0.499 0 0 1 -0.5,-0.5 v -6.986 l 5.691,4.382 c 0.016,0.013 0.035,0.016 0.051,0.026 0.018,0.01 0.036,0.019 0.055,0.027 0.038,0.017 0.075,0.03 0.115,0.037 0.03,0.006 0.058,0.006 0.088,0.006 0.03,0 0.059,0 0.088,-0.006 a 0.49,0.49 0 0 0 0.115,-0.037 c 0.019,-0.009 0.037,-0.016 0.055,-0.027 0.016,-0.01 0.035,-0.013 0.05,-0.026 z"
+       overflow="visible"
+       style="overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#666666;marker:none"
+       id="path2" />
+  </g>
+</svg>

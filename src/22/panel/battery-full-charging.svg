@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='battery-full-charging.svg' height='22' id='svg6530' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r13725' viewBox='0 0 22 22' width='22' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs6532'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1.0' inkscape:current-layer='layer1' inkscape:cx='313.68559' inkscape:cy='-81.236714' inkscape:document-units='px' inkscape:guide-bbox='true' id='base' inkscape:object-nodes='true' inkscape:object-paths='true' pagecolor='#727272' inkscape:pageopacity='0' inkscape:pageshadow='2' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-smooth-nodes='true' units='px' inkscape:window-height='1023' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1.4142136'>
+    <inkscape:grid empspacing='4' id='grid8845' originx='-29.000003' originy='-340.97266' type='xygrid'/>
+  </sodipodi:namedview>
+  <metadata id='metadata6535'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode='layer' id='layer3' inkscape:label='apps' transform='translate(-29.000003,-237.02734)'/>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-29.000003,-689.3895)'>
+    <path inkscape:connector-curvature='0' d='m 37.00002,697.3895 0,3.09375 1.84375,-3.09375 z m 4,0 0,2 2,0 0,-2 z m 2,4.90625 -1.84375,3.09375 1.84375,0 z m -6,1.09375 0,2 2,0 0,-2 z' id='path7440-8' sodipodi:nodetypes='cccccccccccccccccc' style='display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new'/>
+    <rect height='22' id='rect7442-0' style='color:#dddddd;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new' transform='matrix(0,1,-1,0,0,0)' width='22' x='689.38953' y='-51.000004'/>
+    <path inkscape:connector-curvature='0' d='m 38.00002,693.3895 0,1 4,0 0,-1 z m -2.15625,2 c -0.28125,0.0469 -0.84375,0.25 -0.84375,1 l 0,10 c 0,1 1,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-10 c 0,0 0,-1 -1,-1 l -8,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 0.15625,1 8,0 0,10 -8,0 z' id='path7444-2' sodipodi:nodetypes='ccccccsscsccsccccccc' style='display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new'/>
+    <path inkscape:connector-curvature='0' d='m 40.00002,697.3895 0,3 3,0 -3,5 0,-3 -3,0 z' id='path7832' sodipodi:nodetypes='ccccccc' style='display:inline;fill:#ffffff;fill-opacity:1;stroke:none;enable-background:new'/>
+  </g>
+  <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-29.000003,-237.02734)'/>
+</svg>
