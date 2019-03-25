@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#5d656b;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m3 3v3h1v7.996094l-.996094.996094h-.003906v4.00781h1 2 1.00781v-.003906l1-1h7.992188v1.00391h3v-3h-3v1h-6.996094l9.996094-9.996094-.001953-.001953.001953-.001953-4-4-.001953.001953-.001953-.001953-9.996094 9.996094v-6.996094h1v-3h-3m1 1h1v1h-1v-1m10.998047.412109l2.589844 2.589844-2 2-6.792969 6.792969-.794922-.794922-1.794922-1.794922 6.792969-6.792969 2-2m2.00195 12.587891h1v1h-1v-1"
-    class="ColorScheme-Text"
-    />  
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M3 3v3h1v7.996l-.996.996H3V19h4.008v-.004l1-1H16V19h3v-3h-3v1H9.004L19 7.004l-.002-.002L19 7l-4-4-.002.002L14.996 3 5 12.996V6h1V3H3m1 1h1v1H4V4m10.998.412l2.59 2.59-2 2-6.793 6.793L8 15l-1.795-1.795 6.793-6.793 2-2M17 17h1v1h-1v-1" fill="currentColor" color="#5d656b"/></svg>

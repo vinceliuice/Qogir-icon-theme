@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#5d656b;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m8 4v.507813 1.992188c0 .831-.669 1.5-1.5 1.5h-2.5v1 6 1h2.5c.831 0 1.5.669 1.5 1.5v1.992188.507812h1 6 1v-.507812-1.992188c0-.831.669-1.5 1.5-1.5h1.992188.507812v-1-6-1h-.507812-1.992188c-.831 0-1.5-.669-1.5-1.5v-2.5h-1-6-1m1 1h6v1.5c0 1.385 1.115 2.5 2.5 2.5h1.5v6h-1.5c-1.385 0-2.5 1.115-2.5 2.5v1.5h-6v-1.5c0-1.385-1.115-2.5-2.5-2.5h-1.5v-6h1.5c1.385 0 2.5-1.115 2.5-2.5v-1.5" transform="translate(-.99999-.99999)"
-    class="ColorScheme-Text"
-    />  
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M7 3v2.5C7 6.331 6.331 7 5.5 7H3v8h2.5c.831 0 1.5.669 1.5 1.5V19h8v-2.5c0-.831.669-1.5 1.5-1.5H19V7h-2.5c-.831 0-1.5-.669-1.5-1.5V3H7m1 1h6v1.5C14 6.885 15.115 8 16.5 8H18v6h-1.5a2.495 2.495 0 0 0-2.5 2.5V18H8v-1.5C8 15.115 6.885 14 5.5 14H4V8h1.5C6.885 8 8 6.885 8 5.5V4" fill="currentColor" color="#5d656b"/></svg>

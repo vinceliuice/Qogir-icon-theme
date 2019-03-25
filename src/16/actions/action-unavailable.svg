@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8 1 C 4.137 1 1 4.137 1 8 C 1 11.863 4.137 15 8 15 C 11.863 15 15 11.863 15 8 C 15 4.137 11.863 1 8 1 z M 8 3 C 9.0194 3 9.959 3.28763 10.75 3.8125 L 3.8125 10.75 C 3.28763 9.95898 3 9.0194 3 8 C 3 5.2407 5.2408 3 8 3 z M 12.1875 5.25 C 12.71237 6.04102 13 6.9806 13 8 C 13 10.7592 10.7592 13 8 13 C 6.9806 13 6.041 12.71237 5.25 12.1875 L 12.1875 5.25 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" id="svg7"><defs id="defs3"><style id="current-color-scheme" type="text/css"></style></defs><path d="M8 0C3.588 0 0 3.588 0 8s3.588 8 8 8 8-3.588 8-8-3.588-8-8-8zm0 1c3.872 0 7 3.128 7 7a6.968 6.968 0 0 1-1.71 4.582L3.417 2.711A6.968 6.968 0 0 1 8 1zM2.711 3.418l9.871 9.871A6.968 6.968 0 0 1 8 15c-3.872 0-7-3.128-7-7 0-1.756.647-3.355 1.711-4.582z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal" font-weight="400" overflow="visible" id="path2" color="#000" font-family="sans-serif" text-decoration="none" fill="#5d656b" fill-opacity="1"/></svg>

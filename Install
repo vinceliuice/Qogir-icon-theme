@@ -37,6 +37,7 @@ install() {
   cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/{16,22,24,32,48,96,scalable,symbolic}                        ${THEME_DIR}
+  cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,scalable,symbolic}                       ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/index.theme                                                  ${THEME_DIR}/index.theme
 
   cd ${dest}
