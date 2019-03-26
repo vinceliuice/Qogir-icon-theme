@@ -13,6 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Qogir
+COLOR_VARIANTS=('' '-dark')
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
@@ -25,9 +26,9 @@ usage() {
 install() {
   local dest=${1}
   local name=${2}
+  local color=${3}
 
-  local THEME_DIR=${dest}/${name}
-  local DARK_DIR=${dest}/${name}-Dark
+  local THEME_DIR=${dest}/${name}${color}
 
   [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
 
@@ -37,12 +38,18 @@ install() {
   cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/{16,22,24,32,48,96,scalable,symbolic}                        ${THEME_DIR}
+
+  [[ ${color} == '-dark' ]] && \
+  cd ${THEME_DIR}/16/actions && sed -i "s/5d656b/d3dae3/g" `ls` && \
+  cd ${THEME_DIR}/16/devices && sed -i "s/5d656b/d3dae3/g" `ls` && \
+  cd ${THEME_DIR}/22/actions && sed -i "s/5d656b/d3dae3/g" `ls` && \
+  cd ${THEME_DIR}/24/actions && sed -i "s/5d656b/d3dae3/g" `ls`
+
   cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,scalable,symbolic}                       ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/index.theme                                                  ${THEME_DIR}/index.theme
+  cp -ur ${SRC_DIR}/src/index${color}.theme                                          ${THEME_DIR}/index.theme
 
   cd ${dest}
-  gtk-update-icon-cache ${name}
-  #gtk-update-icon-cache ${name}-Dark
+  gtk-update-icon-cache ${name}${color}
 }
 
 while [[ $# -gt 0 ]]; do
@@ -71,5 +78,7 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}"
+for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
+  install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+done
 
