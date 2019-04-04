@@ -42,8 +42,11 @@ install() {
   [[ ${color} == '-dark' ]] && \
   cd ${THEME_DIR}/16/actions && sed -i "s/5d656b/d3dae3/g" `ls` && \
   cd ${THEME_DIR}/16/devices && sed -i "s/5d656b/d3dae3/g" `ls` && \
+  cd ${THEME_DIR}/16/places && sed -i "s/25282f/abb1bd/g" `ls` && \
   cd ${THEME_DIR}/22/actions && sed -i "s/5d656b/d3dae3/g" `ls` && \
+  cd ${THEME_DIR}/22/places && sed -i "s/25282f/abb1bd/g" `ls` && \
   cd ${THEME_DIR}/24/actions && sed -i "s/5d656b/d3dae3/g" `ls`
+  cd ${THEME_DIR}/24/places && sed -i "s/25282f/abb1bd/g" `ls` && \
 
   cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,scalable,symbolic}                       ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/index${color}.theme                                          ${THEME_DIR}/index.theme

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" id="svg8"><defs id="defs3"><style id="current-color-scheme" type="text/css"></style></defs><g id="user-home_16" transform="translate(-1447 -368)" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="1"><path id="rect5615-70" opacity=".75" fill="none" fill-opacity=".327" stroke="none" stroke-width="1" stroke-dasharray="none" d="M1447 368h16v16h-16z"/><path d="M1450 373.6l5-3.4 5 3.4v8.4h-10z" id="rect3838-8-5" opacity=".65" fill="#5c657a" fill-opacity="1" stroke="#102b68" stroke-width="0"/><path d="M1455 369l-7.5 5h1.5v9h12v-9h1.5zm0 1.201l5 3.4V382h-10V373.6z" id="rect3062-3-5" opacity=".65" fill="#25282f" fill-opacity="1" stroke="#102b68" stroke-width="0"/></g></svg>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-1447 -368)">
+  <path d="m1447 368h16v16h-16z" fill="none" fill-opacity=".327" opacity=".75"/>
+  <path d="m1450 373.6 5-3.4 5 3.4v8.4h-10z" fill="#5c657a" opacity=".65" stroke="#102b68" stroke-width="0"/>
+  <path d="m1455 369-7.5 5h1.5v9h12v-9h1.5zm0 1.201 5 3.4v8.399h-10v-8.4z" fill="#25282f" opacity=".65" stroke="#102b68" stroke-width="0"/>
+ </g>
+</svg>

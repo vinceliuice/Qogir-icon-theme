@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" id="svg7"><defs id="defs3"><style id="current-color-scheme" type="text/css"></style></defs><g id="folder-templates_16" transform="translate(-945 -493)" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="1"><path id="rect5615-06" opacity=".75" fill="none" fill-opacity=".327" stroke="none" stroke-width="1" stroke-dasharray="none" d="M948 496h16v16h-16z"/><path d="M949 498.5V511h12.5zm2 4.5l6.5 6H951z" id="rect3878-2-6" display="inline" opacity=".65" fill="#5c657a" fill-opacity="1" stroke="#102b68" stroke-width="0"/><path d="M948 496v16h16zm1 2.5l12.5 12.5H949zm2 4.5v6h6.5zm1 2.5l3 2.5h-3z" id="rect3062-92-1" display="inline" opacity=".65" fill="#25282f" fill-opacity="1" stroke="#102b68" stroke-width="0"/></g></svg>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-921,-490)">
+  <rect x="921" y="490" width="22" height="22" fill="none" opacity=".75"/>
+  <g stroke-width="0">
+   <path d="m922 492.47v18.526h18.5zm2 5.0262 11.5 11.5h-11.5z" fill="#5c657a" opacity=".65"/>
+   <path d="m921 490v22h22zm1 2.5 18.5 18.5h-18.5z" fill="#25282f" opacity=".65"/>
+   <path d="m924 497.5v11.5h11.5zm1 2.5 8 8h-8z" fill="#25282f" opacity=".65"/>
+  </g>
+ </g>
+</svg>

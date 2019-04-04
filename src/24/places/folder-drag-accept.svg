@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" id="svg9"><defs id="defs3"><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#727272}</style></defs><g id="g821" transform="translate(4 4)"><path id="path5" d="M1 2v6h1l4-2h9V2c0-1-1-1-1-1H2S1 1 1 2z" color="#727272" opacity="1" fill="#000" fill-opacity=".267"/><path id="path7" d="M15 7s1 0 1 1v6s0 1-1 1H1s-1 0-1-1v-4c0-1 1-1 1-1h6l2-2z" class="ColorScheme-Text" color="#727272" fill="#003479" fill-opacity=".561"/><path class="ColorScheme-Text" d="M15 8v6H1v-4h6.443l2-2z" id="path834" color="#727272" fill="#6ba4e7" fill-opacity="1" stroke-width="1"/><path d="M2 2v6h5l2-2h5V2H3z" id="path836" color="#727272" opacity="1" fill="#fff" fill-opacity="1"/></g></svg>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#727272}</style>
+ </defs>
+ <g transform="translate(1)">
+  <path d="m6 4c-0.554 0-1 0.446-1 1h-2v12h16v-12h-8c0-0.554-0.446-1-1-1z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".26667" stroke-width="2" style="paint-order:stroke markers fill"/>
+  <path d="m6 4c-0.554 0-1 0.446-1 1h-2v12h16v-12h-8c0-0.554-0.446-1-1-1z" fill="#fff" style="paint-order:stroke markers fill"/>
+  <path d="m12 13-2 2h-9l3e-7 6h20v-8z" fill="#6ba4e7" stroke="#003479" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".56078" stroke-width="2"/>
+  <path d="m12 13-2 2h-9l3e-7 6h20v-8z" fill="#6ba4e7"/>
+ </g>
+</svg>
