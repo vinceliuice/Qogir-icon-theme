@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16"><path style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" d="M5.22 1l-.314.281-3.625 3.625L1 5.22v5.56l.281.315 3.625 3.625.313.279h5.562l.313-.28 3.625-3.624.281-.315V5.221l-.28-.315-3.626-3.625-.313-.279H5.625L5.221 1zM4 7h8v2H4V7z" color="#000" font-weight="400" font-family="Sans" overflow="visible" fill="#5d656b"/></svg>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m4 7h8v2h-8z" color="#000000" fill="#5d656b" font-weight="400" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ <path d="m5.219 1-0.313 0.281-3.625 3.625-0.281 0.314v5.56l0.281 0.313 3.625 3.625 0.313 0.281h5.561l0.313-0.281 3.625-3.625 0.281-0.313v-5.56l-0.281-0.313-3.625-3.625-0.313-0.282h-5.56zm0.406 1h4.75l3.625 3.625v4.75l-3.625 3.625h-4.75l-3.625-3.625v-4.75z" color="#000000" fill="#5d656b" font-weight="400" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+</svg>
