@@ -1,9 +1,0 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css"/>
- </defs>
- <g color="#5d656b" fill="currentColor">
-  <path d="m4 4v16h9v-1h-8v-14h7v1h1v-1h6v8h1v-9zm8 2h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v2h2v-1h-1z"/>
-  <path d="m16.5 20-3.5-3.5 0.707-0.707 2.293 2.293v-5.086h1v5.086l2.293-2.293 0.707 0.707-3.293 3.293z"/>
- </g>
-</svg>

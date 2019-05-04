@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 4v16h6v-1H5V7h12v4h1V4h-2v1h-1V4H7v1H6V4H4zm2 4v1h10V8H6zm0 3v1h10v-1H6zm12 1l-.996.994L17 12.99l-5 4.998.008.008L12.004 19H12v1h2l.006-.006.004-.004.01.002-.006-.006L15 19l4-3.996-.705-.71-4.99 4.987-.594-.592 4.992-4.988.592.594.705.703 1-1L18 12zM6 14v1h7v-1H6z" fill="currentColor" color="#5d656b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5d656b;
+      }
+      </style>
+  </defs>
+ <path style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 4 4 L 4 7 L 4 20 L 5 20 L 10 20 L 10 19 L 5 19 L 5 7 L 17 7 L 17 11 L 18 11 L 18 7 L 18 6 L 18 4 L 16 4 L 16 5 L 15 5 L 15 4 L 7 4 L 7 5 L 6 5 L 6 4 L 4 4 z M 6 8 L 6 9 L 16 9 L 16 8 L 6 8 z M 6 11 L 6 12 L 16 12 L 16 11 L 6 11 z M 18 12 L 17.003906 12.994141 L 17 12.990234 L 12 17.988281 L 12.007812 17.996094 L 12.003906 19 L 12 19 L 12 19.990234 L 12 20 L 14 20 L 14.005859 19.994141 L 14.009766 19.990234 C 14.013766 19.990214 14.015531 19.992187 14.019531 19.992188 L 14.013672 19.986328 L 15 19 L 19 15.003906 L 18.294922 14.294922 L 13.304688 19.28125 L 12.710938 18.689453 L 17.703125 13.701172 L 18.294922 14.294922 L 19 14.998047 L 20 13.998047 L 18 12 z M 6 14 L 6 15 L 13 15 L 13 14 L 6 14 z "
+     class="ColorScheme-Text"
+     />
+</svg>

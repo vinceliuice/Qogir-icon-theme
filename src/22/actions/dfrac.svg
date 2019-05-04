@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M8.156 2l2.307 3.83L8 10h.988l1.992-3.475L12.941 10H14l-2.469-4.191L13.822 2h-.982l-1.83 3.135L9.195 2H8.156zM5 11v1h12v-1H5zm3 2l2.521 4.941V21h.958v-3.104L14 13h-1.025l-1.973 3.934L9.041 13H8z" fill="currentColor" color="#5d656b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5d656b;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 8.15625 2 L 10.462891 5.8300781 L 8 10 L 8.9882812 10 L 10.980469 6.5253906 L 12.941406 10 L 14 10 L 11.53125 5.8085938 L 13.822266 2 L 12.839844 2 L 11.009766 5.1347656 L 9.1953125 2 L 8.15625 2 z M 5 11 L 5 12 L 17 12 L 17 11 L 5 11 z M 8 13 L 10.521484 17.941406 L 10.521484 21 L 11.478516 21 L 11.478516 17.896484 L 14 13 L 12.974609 13 L 11.001953 16.933594 L 9.0410156 13 L 8 13 z "
+	 class="ColorScheme-Text"
+     />
+</svg>
