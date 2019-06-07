@@ -33,9 +33,7 @@ Type=Fixed
 [16/apps]
 Context=Applications
 Size=16
-MinSize=16
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [16/devices]
 Context=Devices
