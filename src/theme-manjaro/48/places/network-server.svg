@@ -1,0 +1,75 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".000471" y=".00035" width="12.7" height="12.7" fill="none" stroke-width=".099219"/>
+ <rect x="1.5887" y="1.0572" width="9.5252" height="10.848" rx=".34918" ry=".32581" fill="#637378" stroke-width=".12648"/>
+ <rect x="1.456" y=".92606" width="9.7896" height="11.113" rx=".52916" ry=".52916" fill="none" stroke="#272a2f" stroke-opacity=".78431" stroke-width=".26459"/>
+ <rect x="1.9833" y="1.4573" width="8.7341" height="1.5875" rx=".26459" ry=".26459" fill-opacity=".15686" stroke="#484e57" stroke-width=".26459"/>
+ <g stroke-width=".097054">
+  <rect x="2.382" y="1.8522" width=".26459" height=".79375" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="9.9218" cy="2.2491" rx=".13229" ry=".13229" fill-opacity=".29592"/>
+  <ellipse cx="8.3345" cy="2.2491" rx=".13229" ry=".13229" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="1.8522" y="-7.9377" width=".79375" height="3.175" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".097054">
+  <rect x="2.9108" y="1.8522" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.4396" y="1.8522" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.9694" y="1.8522" width=".26459" height=".79375" ry="0"/>
+ </g>
+ <ellipse cx="8.8642" cy="2.2491" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <ellipse cx="9.393" cy="2.2491" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <rect x="1.9833" y="3.5754" width="8.7341" height="1.5875" rx=".26459" ry=".26459" fill-opacity=".15686" stroke="#484e57" stroke-width=".26459"/>
+ <g stroke-width=".097054">
+  <rect x="2.382" y="3.9703" width=".26459" height=".79375" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="9.9218" cy="4.3672" rx=".13229" ry=".13229" fill-opacity=".29592"/>
+  <ellipse cx="8.3345" cy="4.3672" rx=".13229" ry=".13229" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="3.9703" y="-7.9377" width=".79375" height="3.175" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".097054">
+  <rect x="2.9108" y="3.9703" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.4396" y="3.9703" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.9694" y="3.9703" width=".26459" height=".79375" ry="0"/>
+ </g>
+ <ellipse cx="8.8642" cy="4.3672" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <ellipse cx="9.393" cy="4.3672" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <rect x="1.9833" y="5.6921" width="8.7341" height="1.5875" rx=".26459" ry=".26459" fill-opacity=".15686" stroke="#484e57" stroke-width=".26459"/>
+ <g stroke-width=".097054">
+  <rect x="2.382" y="6.087" width=".26459" height=".79375" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="9.9218" cy="6.4839" rx=".13229" ry=".13229" fill-opacity=".29592"/>
+  <ellipse cx="8.3345" cy="6.4839" rx=".13229" ry=".13229" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="6.087" y="-7.9377" width=".79375" height="3.175" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".097054">
+  <rect x="2.9108" y="6.087" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.4396" y="6.087" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.9694" y="6.087" width=".26459" height=".79375" ry="0"/>
+ </g>
+ <ellipse cx="8.8642" cy="6.4839" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <ellipse cx="9.393" cy="6.4839" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <rect x="1.9819" y="7.8088" width="8.7341" height="1.5875" rx=".26459" ry=".26459" fill-opacity=".15686" stroke="#484e57" stroke-width=".26459"/>
+ <g stroke-width=".097054">
+  <rect x="2.3806" y="8.2037" width=".26459" height=".79375" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="9.9204" cy="8.6006" rx=".13229" ry=".13229" fill-opacity=".29592"/>
+  <ellipse cx="8.3331" cy="8.6006" rx=".13229" ry=".13229" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="8.2037" y="-7.9363" width=".79375" height="3.175" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".097054">
+  <rect x="2.9094" y="8.2037" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.4382" y="8.2037" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.968" y="8.2037" width=".26459" height=".79375" ry="0"/>
+ </g>
+ <ellipse cx="8.8629" cy="8.6006" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <ellipse cx="9.3916" cy="8.6006" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <rect x="1.9833" y="9.9254" width="8.7341" height="1.5875" rx=".26459" ry=".26459" fill-opacity=".15686" stroke="#484e57" stroke-width=".26459"/>
+ <g stroke-width=".097054">
+  <rect x="2.382" y="10.32" width=".26459" height=".79375" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="9.9218" cy="10.717" rx=".13229" ry=".13229" fill-opacity=".29592"/>
+  <ellipse cx="8.3345" cy="10.717" rx=".13229" ry=".13229" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="10.32" y="-7.9377" width=".79375" height="3.175" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".097054">
+  <rect x="2.9108" y="10.32" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.4396" y="10.32" width=".26459" height=".79375" ry="0"/>
+  <rect x="3.9694" y="10.32" width=".26459" height=".79375" ry="0"/>
+ </g>
+ <ellipse cx="8.8642" cy="10.717" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+ <ellipse cx="9.393" cy="10.717" rx=".13229" ry=".13229" fill="#2eb398" stroke-width=".097054"/>
+</svg>

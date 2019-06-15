@@ -2,8 +2,8 @@
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#232629;
         }</style>
- <g class="ColorScheme-Text" fill="#5c6579" fill-opacity=".74902">
-  <path d="M10 2h-2L2 14h2z"/>
-  <rect x="8" y="13" width="6" height="1"/>
- </g>
+ <path d="m7.3828 1-7 14h4.2344l7-14h-1.6172-2.6172zm0.61719 1h2l-6 12h-2l6-12z" color="#232629" color-rendering="auto" dominant-baseline="auto" fill="#25282f" image-rendering="auto" opacity=".65" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m7 12v1 2h8v-3h-8zm1 1h6v1h-6v-1z" color="#232629" color-rendering="auto" dominant-baseline="auto" fill="#25282f" image-rendering="auto" opacity=".65" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m10 2h-2l-6 12h2z" color="#232629" fill="#5c6579" fill-opacity=".74902"/>
+ <rect x="8" y="13" width="6" height="1" color="#232629" fill="#5c6579" fill-opacity=".74902"/>
 </svg>

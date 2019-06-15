@@ -1,0 +1,36 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+  <linearGradient id="b" x1="3.5" x2="47.5" y1="23" y2="23" gradientTransform="matrix(0 .47695 .47672 0 1.231 .03)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#fff" stop-opacity=".49" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="46.006" x2="4.287" y1="23.707" y2="27.243" gradientTransform="matrix(.3371 .33726 -.3371 .33726 11.353 -4.164)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="48.127" x2="2.873" y1="25.828" y2="24.414" gradientTransform="scale(.47672 -.47695) rotate(45 84.181 -1.451)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="4.49" x2="47.5" y1="23" y2="23" gradientTransform="matrix(.47672 0 0 -.47695 .04 23.163)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(-449 -752)">
+  <g id="dsvcsvsfdv" transform="translate(449 752)">
+   <path d="M0 0h16v16H0z" fill="none"/>
+  </g>
+  <g transform="translate(0 384)">
+   <g transform="translate(0 128)">
+    <use transform="translate(0 128)" width="100%" height="100%" xlink:href="#rect4138-25-8-1-1"/>
+   </g>
+   <g transform="matrix(.70158 0 0 .70126 448.54 367.54)">
+    <path d="m12.055 0.649c-6.292 0-11.403 5.113-11.403 11.408 0 6.294 5.111 11.408 11.403 11.408s11.403-5.114 11.403-11.408c0-6.295-5.111-11.408-11.403-11.408z" fill="#2eb398" overflow="visible"/>
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.426">
+     <path d="m14.114 21.482a4.529 10.255 0 0 0-1.929-19.544" fill="none" opacity=".8" stroke="url(#b)"/>
+     <path d="M13.269 21.18a.953.954 0 0 0 1.906 0 .953.954 0 1 0-1.906 0z" fill="#fff" overflow="visible" stroke="#fff"/>
+     <path d="M19.444 19.444A10.252 4.53 45.02 0 1 4.283 6.565" fill="none" opacity=".8" stroke="url(#c)"/>
+     <path d="M5.283 6.902a.953.954 0 0 1-1.906 0 .953.954 0 1 1 1.906 0z" fill="#fff" overflow="visible" stroke="#fff"/>
+     <path d="M19.535 5.192A4.53 10.252 44.98 0 0 4.382 16.139" fill="none" opacity=".8" stroke="url(#d)"/>
+     <path d="M4.242 17.736a.953.954 0 0 0 0-1.907.953.954 0 1 0 0 1.907z" fill="#fff" stroke="#fff"/>
+     <path d="m20.926 9.819a10.25 4.531 0 0 0-18.968 2.586" fill="none" stroke="url(#e)"/>
+     <path d="M22.058 10.002a.953.954 0 0 0-1.907 0 .953.954 0 1 0 1.907 0z" fill="#fff" overflow="visible" stroke="#fff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

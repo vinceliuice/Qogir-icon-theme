@@ -1,0 +1,24 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <rect width="22" height="22" fill="none"/>
+ <rect x="2" y=".9963" width="18" height="19.999" rx="1.3197" ry="1.2314" fill="#637378" stroke-width=".23886"/>
+ <rect x="1.498" y=".5" width="19.001" height="21" rx="1.9999" ry="2.0001" fill="none" stroke="#272a2f" stroke-opacity=".78431" stroke-width=".99999"/>
+ <rect x="3.4869" y="3.5197" width="15.021" height="5.9693" rx="1" ry=".99999" fill-opacity=".15686" stroke="#484e57"/>
+ <g stroke-width=".18328">
+  <rect x="4.999" y="5.0047" width="1" height="3" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="16.499" cy="6.5047" rx=".49999" ry=".50001" fill-opacity=".29592"/>
+  <ellipse cx="14.498" cy="6.5047" rx=".49999" ry=".50001" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="6.0041" y="-12.998" width=".99999" height="4" ry="0" fill-opacity=".17647"/>
+  <rect x="6.9984" y="5.0047" width="1" height="3" ry="0" fill-opacity=".29592"/>
+ </g>
+ <rect x="3.4863" y="12.512" width="15.021" height="5.9693" rx="1" ry=".99999" fill-opacity=".15686" stroke="#484e57"/>
+ <g stroke-width=".18328">
+  <rect x="4.9984" y="13.997" width="1" height="3" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="16.499" cy="15.497" rx=".49999" ry=".50001" fill-opacity=".29592"/>
+  <ellipse cx="14.497" cy="15.497" rx=".49999" ry=".50001" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="14.996" y="-12.998" width=".99999" height="4" ry="0" fill-opacity=".17647"/>
+  <rect x="6.9978" y="13.997" width="1" height="3" ry="0" fill-opacity=".29592"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#232629;
+      }</style>
+ </defs>
+ <rect width="16" height="16" fill="none"/>
+ <rect x="1.0015" y=".99552" width="14" height="14" rx="1.3197" ry="1.2314" fill="#637378" stroke-width=".23886"/>
+ <rect x=".49769" y=".5" width="15.001" height="14.999" rx="1.9999" ry="2.0001" fill="none" stroke="#272a2f" stroke-opacity=".78431" stroke-width=".99999"/>
+ <g stroke-width=".18328">
+  <rect x="1.999" y="2.0047" width="1" height="3" ry="0" fill-opacity=".29592"/>
+  <ellipse cx="13.499" cy="3.5047" rx=".49999" ry=".50001" fill-opacity=".29592"/>
+  <ellipse cx="11.498" cy="3.5047" rx=".49999" ry=".50001" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="3.0041" y="-9.9983" width=".99999" height="4" ry="0" fill-opacity=".17647"/>
+ </g>
+ <g fill-opacity=".29592" stroke-width=".18328">
+  <rect x="3.9984" y="2.0047" width="1" height="3" ry="0"/>
+  <rect x="1.9984" y="10.997" width="1" height="3" ry="0"/>
+  <ellipse cx="13.499" cy="12.497" rx=".49999" ry=".50001"/>
+ </g>
+ <g stroke-width=".18328">
+  <ellipse cx="11.497" cy="12.497" rx=".49999" ry=".50001" fill="#2eb398"/>
+  <rect transform="rotate(90)" x="11.996" y="-9.9978" width=".99999" height="4" ry="0" fill-opacity=".17647"/>
+  <rect x="3.9978" y="10.997" width="1" height="3" ry="0" fill-opacity=".29592"/>
+ </g>
+ <rect x="1" y="6" width="14" height="1" fill="#484e57"/>
+ <rect x="1" y="9" width="14" height="1" fill="#484e57"/>
+</svg>

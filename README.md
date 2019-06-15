@@ -1,9 +1,9 @@
 ## Qogir Icon Theme
-A flat colorful design icon theme for Qogir theme : https://github.com/vinceliuice/Qogir-theme
+A flat colorful design icon theme for linux desktops
 
 ## Install
 
-`./Install` 
+`./install.sh`
 
 ## Screenshots
 ![1](https://github.com/vinceliuice/Qogir-icon-theme/blob/master/preview_01.png?raw=true)

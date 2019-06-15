@@ -1,0 +1,38 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-902,-754)">
+  <g id="dkcjndc" transform="translate(509,10)">
+   <g transform="translate(393,744)">
+    <rect width="24" height="24" fill="none"/>
+   </g>
+  </g>
+  <g transform="matrix(.18724 0 0 .1875 806.71 631.75)">
+   <g transform="matrix(1.3197 0 0 1.2314 -183.17 -149.72)">
+    <rect x="536.57" y="659.71" width="72.845" height="86.62" rx="5.3407" ry="5.3333" fill="#636a78"/>
+   </g>
+   <rect x="522.26" y="660" width="101.48" height="112" rx="10.681" ry="10.667" fill="none" stroke="#272a2f" stroke-opacity=".78431" stroke-width="5.337"/>
+   <g transform="matrix(.95683 0 0 1 28.633 13.395)">
+    <g>
+     <rect x="527" y="662.71" width="83.845" height="31.836" rx="5.5817" ry="5.3333" fill-opacity=".15686" stroke="#484e57" stroke-width="5.4561"/>
+     <rect x="535.44" y="670.63" width="5.5817" height="16" ry="0" fill-opacity=".29592"/>
+     <ellipse cx="599.63" cy="678.63" rx="2.7908" ry="2.6667" fill-opacity=".29592"/>
+    </g>
+    <ellipse cx="588.46" cy="678.63" rx="2.7908" ry="2.6667" fill="#6ba4e7"/>
+    <rect transform="rotate(90)" x="675.96" y="-580.09" width="5.3333" height="22.327" ry="0" fill-opacity=".17647"/>
+    <rect x="546.6" y="670.63" width="5.5817" height="16" ry="0" fill-opacity=".29592"/>
+   </g>
+   <g transform="matrix(.95683 0 0 1 28.63 61.354)">
+    <g>
+     <rect x="527" y="662.71" width="83.845" height="31.836" rx="5.5817" ry="5.3333" fill-opacity=".15686" stroke="#484e57" stroke-width="5.4561"/>
+     <rect x="535.44" y="670.63" width="5.5817" height="16" ry="0" fill-opacity=".29592"/>
+     <ellipse cx="599.63" cy="678.63" rx="2.7908" ry="2.6667" fill-opacity=".29592"/>
+    </g>
+    <ellipse cx="588.46" cy="678.63" rx="2.7908" ry="2.6667" fill="#6ba4e7"/>
+    <rect transform="rotate(90)" x="675.96" y="-580.09" width="5.3333" height="22.327" ry="0" fill-opacity=".17647"/>
+    <rect x="546.6" y="670.63" width="5.5817" height="16" ry="0" fill-opacity=".29592"/>
+   </g>
+  </g>
+ </g>
+</svg>

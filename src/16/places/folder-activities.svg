@@ -2,9 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#727272}</style>
  </defs>
- <g fill="#5c6579" fill-opacity=".74902">
-  <circle class="ColorScheme-Text" cx="3" cy="8" r="2"/>
-  <circle class="ColorScheme-Text" cx="8" cy="8" r="2"/>
-  <circle class="ColorScheme-Text" cx="13" cy="8" r="2"/>
- </g>
+ <path d="m3.5 5c-1.3689 0-2.5 1.1311-2.5 2.5s1.1311 2.5 2.5 2.5c1.1362 0 1.9523-0.85266 2.25-1.9004 0.29772 1.0477 1.1138 1.9004 2.25 1.9004s1.9523-0.85266 2.25-1.9004c0.29772 1.0477 1.1138 1.9004 2.25 1.9004 1.3689 0 2.5-1.1311 2.5-2.5s-1.1311-2.5-2.5-2.5c-1.1362 0-1.9523 0.85266-2.25 1.9004-0.29772-1.0477-1.1138-1.9004-2.25-1.9004s-1.9523 0.85266-2.25 1.9004c-0.29772-1.0477-1.1138-1.9004-2.25-1.9004zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5zm4.5 0a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5zm4.5 0a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#25282f" fill-rule="evenodd" image-rendering="auto" opacity=".65" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m3.5 6a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm4.5 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm4.5 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5z" fill="#5c657a" fill-rule="evenodd" opacity=".65" style="paint-order:stroke fill markers"/>
 </svg>
