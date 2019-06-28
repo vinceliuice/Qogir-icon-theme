@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".794" ry=".794" fill="#e6e6e6" opacity=".3" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529" paint-order="markers stroke fill"/>
+  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".794" ry=".794" fill="#fafafa" paint-order="markers stroke fill"/>
+  <path d="M6.482 283.77a1.98 1.98 0 0 0-1.984 1.985c0 1.1.885 1.985 1.984 1.985h3.969a1.98 1.98 0 0 0 1.984-1.985 1.98 1.98 0 0 0-1.984-1.984z" fill="none" opacity=".75" overflow="visible" stroke="#1d6b5c" stroke-width=".529"/>
+  <path d="M3.175 282.978a.265.265 0 0 1-.53 0 .265.265 0 1 1 .53 0z" fill-rule="evenodd" opacity=".3" overflow="visible"/>
+  <path d="M6.482 283.77a1.98 1.98 0 0 0-1.984 1.985c0 1.1.885 1.985 1.984 1.985h3.969a1.98 1.98 0 0 0 1.984-1.985 1.98 1.98 0 0 0-1.984-1.984z" fill="#2eb398" overflow="visible"/>
+  <path d="m10.451 284.04a1.721 1.721 0 0 1 0 3.44 1.72 1.72 0 0 1 0-3.44z" fill="#fff" overflow="visible" stroke="#000" stroke-opacity=".255" stroke-width=".265"/>
+  <path d="M14.287 282.977a.265.265 0 0 1-.529 0 .265.265 0 1 1 .53 0zM3.175 294.09a.265.265 0 0 1-.53 0 .265.265 0 1 1 .53 0zm11.112 0a.265.265 0 0 1-.529 0 .265.265 0 1 1 .53 0z" fill-rule="evenodd" opacity=".3" overflow="visible"/>
+  <path d="m10.451 284.04a1.721 1.721 0 0 1 0 3.44 1.72 1.72 0 0 1 0-3.44z" fill="#fff" overflow="visible"/>
+  <path d="M6.482 289.327a1.98 1.98 0 0 0-1.984 1.984c0 1.1.885 1.985 1.984 1.985h3.969a1.98 1.98 0 0 0 1.984-1.985 1.98 1.98 0 0 0-1.984-1.984z" fill="#4d4d4d" opacity=".75" overflow="visible" stroke="#696969" stroke-width=".529"/>
+  <path d="M6.482 289.327a1.98 1.98 0 0 0-1.984 1.984c0 1.1.885 1.985 1.984 1.985h3.969a1.98 1.98 0 0 0 1.984-1.985 1.98 1.98 0 0 0-1.984-1.984z" fill="#b3b3b3" overflow="visible"/>
+  <path d="m6.482 289.59a1.721 1.721 0 0 1 0 3.44 1.72 1.72 0 0 1 0-3.44z" fill="#fff" overflow="visible" stroke="#000" stroke-opacity=".255" stroke-width=".265"/>
+  <path d="m6.482 289.59a1.721 1.721 0 0 1 0 3.44 1.72 1.72 0 0 1 0-3.44z" fill="#fff" overflow="visible"/>
+ </g>
+</svg>

@@ -4,7 +4,7 @@
  </defs>
  <g transform="translate(-1447 -368)">
   <path d="m1447 368h16v16h-16z" fill="none" fill-opacity=".327" opacity=".75"/>
-  <path d="m1450 373.6 5-3.4 5 3.4v8.4h-10z" fill="#5c657a" opacity=".65" stroke="#102b68" stroke-width="0"/>
-  <path d="m1455 369-7.5 5h1.5v9h12v-9h1.5zm0 1.201 5 3.4v8.399h-10v-8.4z" fill="#25282f" opacity=".65" stroke="#102b68" stroke-width="0"/>
+  <path d="m1450 373.6 5-3.4 5 3.4v8.4h-10z" fill="#5c657a" opacity=".65"/>
+  <path d="m1455 369-7.5 5h1.5v9h12v-9h1.5zm0 1.201 5 3.4v8.399h-10v-8.4z" fill="#25282f" opacity=".65"/>
  </g>
 </svg>

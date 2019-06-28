@@ -1,0 +1,8 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -.5)">
+  <path d="m19.564 33.5c-0.59 0-1.057 0.432-1.064 0.967v7.615l-2.936 0.242c-0.59 0-1.064 0.432-1.064 0.968v1.208h19v-1.208c0-0.536-0.475-0.968-1.064-0.968l-2.936-0.242v-7.615c0-0.535-0.475-0.967-1.064-0.967z" fill="none" stroke="#42697f" stroke-opacity=".291"/>
+  <path d="m19.688 33.625c-0.39 0-0.674 0.277-0.676 0.611v8.023l-3.32 0.276h-0.017c-0.39 0-0.675 0.277-0.675 0.611v0.854h18v-0.854c0-0.334-0.285-0.61-0.675-0.61h-0.018l-3.32-0.277v-8.023c0-0.334-0.285-0.61-0.675-0.61z" fill="#fafafa"/>
+  <rect x="1.5" y="4.5" width="45" height="30" rx="1.4" ry="1.333" fill="#4c5f63" stroke="#253031" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/>
+  <path d="m3 6h42v27h-42z" fill="#2eb398" fill-rule="evenodd"/>
+ </g>
+</svg>

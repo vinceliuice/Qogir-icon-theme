@@ -1,0 +1,6 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="M2 51h24l1 1h10l1-1h24v1l-10 1H12L2 52z" fill="#fff" stroke="#3e6680" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".29" stroke-width="2" paint-order="markers stroke fill"/>
+ <rect x="7.5" y="16.5" width="49" height="33" rx="1.125" ry="1.1" fill="#415057" stroke="#252e31" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/>
+ <path d="M9 18h46v30H9z" fill="#2eb398" fill-rule="evenodd"/>
+ <path d="M2 51h24l1 1h10l1-1h24v1l-10 1H12L2 52z" fill="#fff" paint-order="markers stroke fill"/>
+</svg>

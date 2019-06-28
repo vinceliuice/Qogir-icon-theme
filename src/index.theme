@@ -6,6 +6,7 @@ Inherits=hicolor
 Example=folder
 FollowsColorScheme=true
 KDE-Extensions=.svg
+DisplayDepth=32
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64
@@ -139,7 +140,9 @@ Type=Fixed
 [32/status]
 Context=Status
 Size=32
-Type=Fixed
+MinSize=32
+MaxSize=256
+Type=Scalable
 
 # 48x48
 
@@ -407,7 +410,9 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=32
-Type=Fixed
+MinSize=32
+MaxSize=256
+Type=Scalable
 
 # 48x48@2x
 
