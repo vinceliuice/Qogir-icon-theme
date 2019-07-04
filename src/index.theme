@@ -49,16 +49,12 @@ Type=Fixed
 [16/status]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16/panel]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16/places]
 Context=Places
@@ -87,9 +83,7 @@ Type=Fixed
 [22/panel]
 Context=Status
 Size=22
-MinSize=22
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [22/places]
 Context=Places
@@ -111,9 +105,7 @@ Type=Fixed
 [24/panel]
 Context=Status
 Size=24
-MinSize=24
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [24/places]
 Context=Places
@@ -140,9 +132,7 @@ Type=Fixed
 [32/status]
 Context=Status
 Size=32
-MinSize=32
-MaxSize=256
-Type=Scalable
+Type=Fixed
 
 # 48x48
 
@@ -304,17 +294,13 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16@2x/panel]
 Context=Status
 Scale=2
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [16@2x/places]
 Context=Places
@@ -348,9 +334,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=22
-MinSize=22
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [22@2x/places]
 Context=Places
@@ -376,9 +360,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=24
-MinSize=24
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [24@2x/places]
 Context=Places
@@ -410,9 +392,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=32
-MinSize=32
-MaxSize=256
-Type=Scalable
+Type=Fixed
 
 # 48x48@2x
 

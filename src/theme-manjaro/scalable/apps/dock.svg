@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -280.07)">
+  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".794" ry=".794" fill="none" opacity=".9" stroke="#358b79" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529" paint-order="markers stroke fill"/>
+  <rect x="1.588" y="281.65" width="13.758" height="13.758" rx=".794" ry=".794" fill="#66c2af" paint-order="markers stroke fill"/>
+  <rect x="3.44" y="292.77" width="10.054" height="1.323" ry=".265" fill="#fff" opacity=".35" paint-order="markers stroke fill"/>
+  <rect x="4.498" y="291.97" width="1.323" height="1.323" ry=".132" fill="#ccdfff" paint-order="stroke markers fill"/>
+  <rect x="6.703" y="291.97" width="1.323" height="1.323" ry=".132" fill="#ccdfff" paint-order="stroke markers fill"/>
+  <rect x="8.908" y="291.97" width="1.323" height="1.323" ry=".132" fill="#ccdfff" paint-order="stroke markers fill"/>
+  <rect x="11.113" y="291.97" width="1.323" height="1.323" ry=".132" fill="#ccdfff" paint-order="stroke markers fill"/>
+  <path d="M2.381 281.654a.792.792 0 0 0-.793.794v.264h13.758v-.264a.792.792 0 0 0-.794-.794z" opacity=".35" paint-order="markers stroke fill"/>
+  <rect x="7.12" y="281.92" width="2.646" height=".529" ry=".265" opacity=".35" paint-order="stroke markers fill"/>
+ </g>
+</svg>
