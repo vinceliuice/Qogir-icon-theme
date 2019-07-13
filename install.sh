@@ -44,18 +44,17 @@ install() {
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
-  if [[ ${color} != '-dark' ]]; then
+  if [[ ${color} == '' ]]; then
     cp -ur ${SRC_DIR}/src/{16,22,24,32,48,96,128,scalable,symbolic}                      ${THEME_DIR}
     cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,128,scalable,symbolic}                     ${THEME_DIR}
     [[ ${theme} != '' ]] && \
     cp -r ${SRC_DIR}/src/theme${theme}/*                                                 ${THEME_DIR}
-  fi
 
-  if [[ ${color} == '-dark' ]]; then
+  else
+
     mkdir -p                                                                           ${THEME_DIR}/16
     mkdir -p                                                                           ${THEME_DIR}/22
     mkdir -p                                                                           ${THEME_DIR}/24
-
     cp -ur ${SRC_DIR}/src/16/actions                                                   ${THEME_DIR}/16
     cp -ur ${SRC_DIR}/src/22/actions                                                   ${THEME_DIR}/22
     cp -ur ${SRC_DIR}/src/24/actions                                                   ${THEME_DIR}/24
