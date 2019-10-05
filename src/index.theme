@@ -181,8 +181,8 @@ Type=Scalable
 [scalable/places]
 Context=Places
 Size=64
-MinSize=64
-MaxSize=128
+MinSize=32
+MaxSize=64
 Type=Scalable
 
 [scalable/mimetypes]
@@ -448,8 +448,8 @@ Type=Scalable
 Context=Places
 Scale=2
 Size=64
-MinSize=64
-MaxSize=128
+MinSize=32
+MaxSize=64
 Type=Scalable
 
 [scalable@2x/mimetypes]

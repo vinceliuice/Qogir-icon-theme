@@ -1,13 +1,16 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
+<svg id="svg19" width="16" height="16" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="input-keyboard.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview21" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg19" inkscape:cx="8" inkscape:cy="8" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="711" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="27" inkscape:zoom="14.75" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+ <defs id="defs3">
   <style id="current-color-scheme" type="text/css"/>
  </defs>
- <g transform="matrix(.71429 0 0 .71429 -114.14 -486.29)">
-  <g transform="translate(1.3012 26.705)">
-   <rect x="159.9" y="655.49" width="19.6" height="19.6" rx="2.0876" ry="2.0876" color="#000000" fill="#f5f5f5"/>
-   <rect x="159.2" y="654.79" width="21" height="21" rx="2.8" ry="2.8" color="#000000" fill="none" stroke="#4f6698" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".26667" stroke-width="1.4"/>
-   <rect x="159.9" y="670.89" width="19.6" height="4.2" rx="2.1" ry="2.1" fill-opacity=".05098"/>
+ <g id="g17" transform="matrix(.71429 0 0 .71429 -114.14 -486.29)">
+  <g id="g11" transform="translate(1.3012 26.705)">
+   <rect id="rect5" x="159.9" y="655.49" width="19.6" height="19.6" rx="2.0876" ry="2.0876" color="#000000" fill="#f5f5f5"/>
+   <rect id="rect7" x="159.2" y="654.79" width="21" height="21" rx="2.8" ry="2.8" color="#000000" fill="none" stroke="#4f6698" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".26667" stroke-width="1.4"/>
+   <rect id="rect9" x="159.9" y="670.89" width="19.6" height="4.2" rx="2.1" ry="2.1" fill-opacity=".05098"/>
   </g>
-  <text transform="scale(.98237 1.0179)" x="171.26213" y="681.23761" fill="#6c748c" font-family="'Open Sans'" font-size="13.038px" letter-spacing="0px" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="171.26213" y="681.23761" fill="#6c748c">@</tspan></text>
+  <g id="text15" transform="scale(.98237 1.0179)" fill="#6c748c" aria-label="@">
+   <path id="path830" d="m177.13 683.49c1.0039 0 1.9166-0.23468 2.7641-0.74316l-0.31292-0.70405c-0.6519 0.3781-1.4863 0.6519-2.3729 0.6519-2.4772 0-4.3286-1.6167-4.3286-4.459 0-3.4029 2.5033-5.6194 5.0979-5.6194 2.6467 0 4.0418 1.721 4.0418 4.0809 0 1.8905-1.043 2.9987-1.9687 2.9987-0.79532 0-1.0691-0.53456-0.79532-1.708l0.57368-2.9075h-0.78228l-0.1695 0.59975h-0.0261c-0.26076-0.4824-0.66494-0.71709-1.1604-0.71709-1.708 0-2.8032 1.8384-2.8032 3.3768 0 1.3299 0.75621 2.073 1.7471 2.073 0.63886 0 1.3038-0.4433 1.7732-1.0039h0.0391c0.0913 0.74317 0.70405 1.1082 1.4994 1.1082 1.3168 0 2.9075-1.3299 2.9075-3.8723 0-2.8684-1.8514-4.8241-4.7849-4.8241-3.2465 0-6.0757 2.5554-6.0757 6.4538 0 3.3899 2.2816 5.2152 5.137 5.2152zm-0.26076-3.8984c-0.58671 0-1.03-0.3781-1.03-1.3168 0-1.0952 0.70405-2.4772 1.8514-2.4772 0.40418 0 0.66494 0.15646 0.93874 0.61279l-0.40418 2.3208c-0.50848 0.59975-0.95177 0.86051-1.356 0.86051z" fill="#6c748c"/>
+  </g>
  </g>
 </svg>
