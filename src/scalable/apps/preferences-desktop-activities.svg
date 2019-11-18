@@ -1,7 +1,6 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="matrix(3.9308 0 0 3.9308 -1.2813 -1102.2)" stroke-width=".962" style="paint-order:markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".763" ry=".763" fill="#2196f3"/>
- </g>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="5.9985" y="5.9712" width="52.001" height="52.001" rx="2.9992" ry="2.9992" fill="#2196f3" stroke="#1265a2" stroke-width="2" style="paint-order:markers stroke fill"/>
+ <rect x="5.9985" y="5.9712" width="52.001" height="52.001" rx="2.9992" ry="2.9992" fill="#2196f3" stroke-width="3.7814" style="paint-order:markers stroke fill"/>
  <path d="m25 28v-16h9l5 5v11zm2-2h10v-9h-3v-3h-7z" fill="#fff"/>
  <g transform="matrix(3.9308 0 0 3.9308 -1.2813 -1102.2)" stroke-width=".962" style="paint-order:markers stroke fill">
   <path transform="matrix(.2544 0 0 .2544 .32596 280.39)" d="m5.998 32v23.002c0 1.6616 1.3384 3 3 3h46.002c1.6616 0 2.998-1.3384 2.998-3v-23.002h-52z" opacity=".15" stroke-width="3.7814"/>
