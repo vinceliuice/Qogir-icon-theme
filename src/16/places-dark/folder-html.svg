@@ -1,0 +1,17 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <use transform="translate(-449,-112)" width="100%" height="100%" fill="#d3dae3" xlink:href="#rect4138-25-8-1-1"/>
+ <path d="m8.0005 1.1774e-4c-4.4143 0-8.0001 3.5855-8.0001 8 0 4.4137 3.5858 8 8.0001 8s8.0001-3.5862 8.0001-8c0-4.4144-3.5858-8-8.0001-8z" color="#000000" fill="#d3dae3" opacity=".25" overflow="visible"/>
+ <g stroke="#d3dae3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0002">
+  <path d="m9.4451 14.609a3.1775 7.1914 0 0 0-1.3533-13.705" fill="none" opacity=".5"/>
+  <path d="m8.8523 14.398a0.66861 0.669 0 0 0 1.3372 0 0.66861 0.669 0 1 0-1.3372 0z" color="#000000" fill="#d3dae3" overflow="visible"/>
+  <path d="m13.185 13.18a7.191 3.1774 45.001 0 1-10.637-9.0315" fill="none" opacity=".5"/>
+  <path d="m3.2494 4.3851a0.66861 0.669 0 0 1-1.3372 0 0.66861 0.669 0 1 1 1.3372 0z" color="#000000" fill="#d3dae3" overflow="visible"/>
+  <path d="m13.248 3.1859a3.1774 7.191 44.999 0 0-10.631 7.6767" fill="none" opacity=".5"/>
+  <path d="m2.5191 11.983a0.66861 0.669 0 0 0 0-1.3373 0.66861 0.669 0 1 0 0 1.3373z" fill="#d3dae3"/>
+  <path d="m14.224 6.4307a7.1912 3.1774 0 0 0-13.308 1.8135" fill="none" opacity=".5"/>
+  <path d="m15.018 6.559a0.66896 0.66935 0 0 0-1.3379 0 0.66896 0.66935 0 1 0 1.3379 0z" color="#000000" fill="#d3dae3" overflow="visible"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-1 -1)" fill="#d3dae3">
+  <path transform="translate(1,1)" d="m1 5v8.5c0 0.277 0.223 0.5 0.5 0.5h13c0.277 0 0.5-0.223 0.5-0.5v-8.5h-14z" opacity=".1"/>
+  <path transform="translate(1,1)" d="m1.5 2c-0.277 0-0.5 0.223-0.5 0.5v1.5h14v-1.5c0-0.277-0.223-0.5-0.5-0.5h-13z" opacity=".25"/>
+ </g>
+ <path d="M0 0h16v16H0z" fill="none"/>
+ <g transform="matrix(1.0718 0 0 1.0829 -1.646 -1.746)" fill="none" stroke="#000" stroke-width=".928">
+  <rect x="2" y="3" width="14" height="12" rx="1" ry="1" fill="none" stroke="#d3dae3" stroke-width=".928"/>
+ </g>
+ <rect x="1" y="4" width="14" height="1" rx="0" fill="#d3dae3"/>
+</svg>

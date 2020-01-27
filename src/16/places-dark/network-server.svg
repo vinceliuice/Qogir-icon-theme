@@ -1,0 +1,41 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#232629;
+      }</style>
+ </defs>
+ <g transform="matrix(.99988 0 0 1 -957.88 -762)">
+  <g id="dckndcdsx" transform="translate(509,10)">
+   <g transform="translate(449,752)">
+    <rect width="16" height="16" fill="none"/>
+   </g>
+  </g>
+  <g transform="matrix(.18724 0 0 .1875 858.71 635.75)">
+   <g transform="matrix(1.3197,0,0,1.2314,-183.17,-149.72)">
+    <path transform="matrix(4.0469 0 0 4.3311 540.62 668.39)" d="m2.3203 0.99609c-0.73111 0-1.3184 0.54828-1.3184 1.2305v11.537c0 0.68219 0.58725 1.2324 1.3184 1.2324h11.361c0.73111 0 1.3203-0.55023 1.3203-1.2324v-11.537c0-0.68219-0.5892-1.2305-1.3203-1.2305zm-0.32227 1.0078h1v3h-1zm2 0h1v3h-1zm2 1h4v1h-4zm-4 7.9922h1v3h-1zm2 0h1v3h-1zm2 1h4v1h-4z" fill-opacity="0" stroke-width=".23886"/>
+   </g>
+   <rect x="532.94" y="676" width="80.114" height="79.997" rx="10.681" ry="10.667" fill="#d3dae3" fill-opacity=".25146" stroke="#d3dae3" stroke-width="5.337"/>
+   <g transform="matrix(.95683 0 0 1 28.633 13.395)">
+    <path transform="matrix(5.5824 0 0 5.3333 524.28 659.94)" d="m1.998 2.0039v3h1v-3h-1zm2 0v3h1v-3h-1zm2 1v1h4v-1h-4zm-4 7.9922v3h1v-3h-1zm2 0v3h1v-3h-1zm1.998 1v1h4v-1h-4z" fill="#d3dae3" stroke-width=".18327"/>
+    <ellipse cx="599.63" cy="678.63" rx="2.7908" ry="2.6667" fill-opacity="0"/>
+    <ellipse cx="588.46" cy="678.63" rx="2.7908" ry="2.6667" fill-opacity="0"/>
+   </g>
+   <g transform="matrix(.95683 0 0 1 28.63 61.354)" fill-opacity="0">
+    <ellipse cx="599.63" cy="678.63" rx="2.7908" ry="2.6667"/>
+    <ellipse cx="588.46" cy="678.63" rx="2.7908" ry="2.6667"/>
+   </g>
+  </g>
+  <rect x="959" y="768" width="14" height="1" fill-opacity="0"/>
+  <rect x="959" y="771" width="14" height="1" fill-opacity="0"/>
+ </g>
+ <rect x="4.23e-6" width="15.998" height="16" fill="none"/>
+ <path d="m2.32 0.99609c-0.73102 0-1.3182 0.54828-1.3182 1.2305v11.537c0 0.68219 0.58718 1.2324 1.3182 1.2324h11.36c0.73102 0 1.3202-0.55023 1.3202-1.2324v-11.537c0-0.68219-0.58913-1.2305-1.3202-1.2305zm-0.32223 1.0078h0.99988v3h-0.99988zm1.9998 0h0.99988v3h-0.99988zm1.9998 1h3.9995v1h-3.9995zm-3.9995 7.9922h0.99988v3h-0.99988zm1.9998 0h0.99988v3h-0.99988zm1.9998 1h3.9995v1h-3.9995z" fill-opacity="0"/>
+ <g fill="#d3dae3">
+  <ellipse cx="13.497" cy="3.5047" rx=".49993" ry=".50001" fill-opacity=".81871" opacity=".5"/>
+  <ellipse cx="11.496" cy="3.5047" rx=".49993" ry=".50001" fill-opacity=".81871"/>
+  <ellipse cx="13.497" cy="12.497" rx=".49993" ry=".50001" opacity=".5"/>
+  <ellipse cx="11.496" cy="12.497" rx=".49993" ry=".50001"/>
+  <rect x=".99988" y="6" width="13.998" height="1"/>
+  <rect x=".99988" y="9" width="13.998" height="1"/>
+ </g>
+</svg>
