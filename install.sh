@@ -45,26 +45,29 @@ install() {
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
-    cp -ur ${SRC_DIR}/src/{16,22,24,32,48,96,128,scalable,symbolic}                      ${THEME_DIR}
-    cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,128,scalable,symbolic}                     ${THEME_DIR}
+    mkdir -p                                                                           ${THEME_DIR}/16
+    cp -r ${SRC_DIR}/src/16/{actions,apps,devices,mimetypes,panel,places,status}       ${THEME_DIR}/16
+    cp -r ${SRC_DIR}/src/{22,24,32,48,96,128,scalable,symbolic}                        ${THEME_DIR}
+    cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,128,scalable,symbolic}                   ${THEME_DIR}
     [[ ${theme} != '' ]] && \
-    cp -r ${SRC_DIR}/src/theme${theme}/*                                                 ${THEME_DIR}
+    cp -r ${SRC_DIR}/src/theme${theme}/*                                               ${THEME_DIR}
 
   else
 
     mkdir -p                                                                           ${THEME_DIR}/16
     mkdir -p                                                                           ${THEME_DIR}/22
     mkdir -p                                                                           ${THEME_DIR}/24
-    cp -ur ${SRC_DIR}/src/16/actions                                                   ${THEME_DIR}/16
-    cp -ur ${SRC_DIR}/src/22/actions                                                   ${THEME_DIR}/22
-    cp -ur ${SRC_DIR}/src/24/actions                                                   ${THEME_DIR}/24
-    cp -ur ${SRC_DIR}/src/16/places-dark                                               ${THEME_DIR}/16/places
+    cp -r ${SRC_DIR}/src/16/actions                                                    ${THEME_DIR}/16
+    cp -r ${SRC_DIR}/src/16/places-dark                                                ${THEME_DIR}/16/places
+    cp -r ${SRC_DIR}/src/16/devices-dark                                               ${THEME_DIR}/16/devices
+    cp -r ${SRC_DIR}/src/22/actions                                                    ${THEME_DIR}/22
+    cp -r ${SRC_DIR}/src/24/actions                                                    ${THEME_DIR}/24
 
     cd ${THEME_DIR}/16/actions && sed -i "s/#5d656b/#d3dae3/g" `ls`
     cd ${THEME_DIR}/22/actions && sed -i "s/#5d656b/#d3dae3/g" `ls`
     cd ${THEME_DIR}/24/actions && sed -i "s/#5d656b/#d3dae3/g" `ls`
 
-    cp -r ${SRC_DIR}/links/16/{actions,places}                                          ${THEME_DIR}/16
+    cp -r ${SRC_DIR}/links/16/{actions,places,devices}                                  ${THEME_DIR}/16
     cp -r ${SRC_DIR}/links/22/actions                                                   ${THEME_DIR}/22
     cp -r ${SRC_DIR}/links/24/actions                                                   ${THEME_DIR}/24
 
@@ -76,10 +79,8 @@ install() {
     ln -sf ../${name}${theme}/96 ${name}${theme}-dark/96
     ln -sf ../${name}${theme}/128 ${name}${theme}-dark/128
     ln -sf ../../${name}${theme}/16/apps ${name}${theme}-dark/16/apps
-    ln -sf ../../${name}${theme}/16/devices ${name}${theme}-dark/16/devices
     ln -sf ../../${name}${theme}/16/mimetypes ${name}${theme}-dark/16/mimetypes
     ln -sf ../../${name}${theme}/16/panel ${name}${theme}-dark/16/panel
-    # ln -sf ../../${name}${theme}/16/places ${name}${theme}-dark/16/places
     ln -sf ../../${name}${theme}/16/status ${name}${theme}-dark/16/status
     ln -sf ../../${name}${theme}/22/emblems ${name}${theme}-dark/22/emblems
     ln -sf ../../${name}${theme}/22/mimetypes ${name}${theme}-dark/22/mimetypes

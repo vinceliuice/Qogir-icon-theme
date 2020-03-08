@@ -1,7 +1,7 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(1.04 0 0 1.04 -.339 -291.61)" fill="#2196f3" stroke-width=".962" paint-order="markers stroke fill">
-  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".763" ry=".763"/>
   <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".763" ry=".763" stroke="#0f70bd" stroke-width=".5088"/>
+  <rect x="1.852" y="281.92" width="13.229" height="13.229" rx=".763" ry=".763"/>
  </g>
  <g transform="matrix(.22689 0 0 .22689 3.4376 .95828)" fill="#fff">
   <g transform="matrix(.71829 0 0 .71829 2.7912 12.923)">

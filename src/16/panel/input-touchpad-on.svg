@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M1.777 1C1.347 1 1 1.39 1 1.875v12.25c0 .485.346.875.777.875h12.446c.43 0 .777-.39.777-.875V1.875C15 1.39 14.654 1 14.223 1H1.777zM12 2h2v1h-2V2zm0 2h2v1h-2V4zm0 2h2v1h-2V6zm0 2h2v1h-2V8zM2 11h5v3H2v-3zm7 0h5v3H9v-3z" fill="currentColor" color="#bebebe"/></svg>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <path d="m2 1c-0.822 0-1.5 0.678-1.5 1.5v11c0 0.822 0.678 1.5 1.5 1.5h12c0.823 0 1.5-0.678 1.5-1.5v-11c0-0.822-0.677-1.5-1.5-1.5zm0 1h12c0.286 0 0.5 0.214 0.5 0.5v8.496h-13v-8.496c0-0.286 0.215-0.5 0.5-0.5zm-0.5 9.996h6.01v2.004h-5.51a0.488 0.488 0 0 1-0.5-0.5zm7.01 0h5.99v1.504c0 0.286-0.214 0.5-0.5 0.5h-5.49z" color="#000000" fill="#bebebe" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+</svg>

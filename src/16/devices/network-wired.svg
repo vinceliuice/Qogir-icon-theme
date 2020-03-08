@@ -1,0 +1,8 @@
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect width="16" height="16" rx="2" ry="2" color="#000000" fill="#565661" fill-opacity=".34902" overflow="visible"/>
+ <rect transform="scale(1,-1)" x="1" y="-15" width="14" height="14" rx="1" ry="1" color="#000000" fill="#f4f4f4" overflow="visible" stroke-width=".53846"/>
+ <path d="m3 2c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h1v1h2v1h4v-1h2v-1h1c0.554 0 1-0.446 1-1v-7c0-0.554-0.446-1-1-1h-10z" fill="#3c3c3c" style="paint-order:stroke fill markers"/>
+ <rect x="4" y="4" width="2" height="5" ry="0" fill="#e4af36" style="paint-order:stroke fill markers"/>
+ <rect x="7" y="4" width="2" height="5" ry="0" fill="#e4af36" style="paint-order:stroke fill markers"/>
+ <rect x="10" y="4" width="2" height="5" ry="0" fill="#e4af36" style="paint-order:stroke fill markers"/>
+</svg>
