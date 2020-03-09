@@ -44,6 +44,10 @@ install() {
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
+  if [[ ${theme} == '' ]]; then
+    cp -r ${SRC_DIR}/src/cursors/dist${color}/cursors                                  ${THEME_DIR}
+  fi
+
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                           ${THEME_DIR}/16
     cp -r ${SRC_DIR}/src/16/{actions,apps,devices,mimetypes,panel,places,status}       ${THEME_DIR}/16
