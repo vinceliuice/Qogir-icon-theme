@@ -167,7 +167,7 @@ Type=Scalable
 [scalable/apps]
 Context=Applications
 Size=64
-MinSize=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
