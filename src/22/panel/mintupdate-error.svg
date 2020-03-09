@@ -1,7 +1,9 @@
-<svg id="svg11" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs3">
-  <style id="current-color-scheme" type="text/css"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <path id="path7" class="warning" d="m8 8h1l2 2 2-2h1v1l-2 2 2 2v1h-1l-2-2-2 2h-1v-1l2-2-2-2z" fill="#ff5555"/>
- <path id="path822" d="m11 3.9435-0.32422 0.11133-5.6758 1.9453v0.71484c0 3.4165-0.065143 5.3082 0.67578 6.9688 0.74685 1.6729 2.2348 2.6923 4.8262 4.1836l0.49805 0.28711 0.49805-0.28711c2.5913-1.4912 4.0794-2.51 4.8262-4.1836 0.74088-1.6604 0.6762-3.5525 0.67578-6.9688v-0.71484l-6-2.0566zm0 1.0566 5 1.7148c4.17e-4 3.4192 0.01556 5.2037-0.58984 6.5605-0.60582 1.3577-1.849 2.2507-4.4102 3.7246-2.5612-1.4739-3.8043-2.3674-4.4102-3.7246-0.6054-1.3568-0.58984-3.141-0.58984-6.5605l5-1.7148z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ff5555" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path class="warning" d="m8 8h1l2 2 2-2h1v1l-2 2 2 2v1h-1l-2-2-2 2h-1v-1l2-2-2-2z" fill="#ff5555"/>
+ <path  style="fill:currentColor" class="ColorScheme-Text" d="m11 3.9435-0.32422 0.11133-5.6758 1.9453v0.71484c0 3.4165-0.065143 5.3082 0.67578 6.9688 0.74685 1.6729 2.2348 2.6923 4.8262 4.1836l0.49805 0.28711 0.49805-0.28711c2.5913-1.4912 4.0794-2.51 4.8262-4.1836 0.74088-1.6604 0.6762-3.5525 0.67578-6.9688v-0.71484l-6-2.0566zm0 1.0566 5 1.7148c4.17e-4 3.4192 0.01556 5.2037-0.58984 6.5605-0.60582 1.3577-1.849 2.2507-4.4102 3.7246-2.5612-1.4739-3.8043-2.3674-4.4102-3.7246-0.6054-1.3568-0.58984-3.141-0.58984-6.5605l5-1.7148z"/>
 </svg>

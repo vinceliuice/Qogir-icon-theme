@@ -1,1 +1,10 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg"><g color="#bebebe"><path d="M5 3S3 3 3 5.062V17c0 2 2 2 2 2h12c2 0 2-2 2-2V5s0-2-2-2H5zm.66 4.324h4.557v.873H6.699v2.273h3.363v.875H6.7v2.782h3.615V15H5.66V7.324zm8.977 1.78c.586 0 1.024.192 1.312.58.291.383.436.966.436 1.747V15h-.952V11.43c0-.517-.09-.897-.271-1.14-.182-.244-.466-.366-.854-.366-.442 0-.783.158-1.023.473-.237.312-.356.762-.356 1.348V15h-.945V9.242h.945v.863a1.77 1.77 0 0 1 .686-.746c.288-.171.627-.256 1.022-.256z" fill="#bebebe"/><path style="marker:none" overflow="visible" fill="none" d="M0 0h22v22H0z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 5,14.999898 4.0000001,0 M 5,10.9999 l 4.0000001,0 M 5,6.9999014 l 4.0000001,0 M 5.0000998,15 l 0,-8.0000003"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="M 13,15 13,6.9999997 17,15 17,6.9999997"/>
+</svg>

@@ -1,1 +1,10 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg"><g color="#bebebe"><path d="M5 3S3 3 3 5.062V17c0 2 2 2 2 2h12c2 0 2-2 2-2V5s0-2-2-2H5zm2.187 4.324h1.26L10.797 15H9.722l-.566-2H6.469l-.557 2H4.838l2.35-7.676zm.627.916L6.72 12.168h2.19L7.814 8.24zm5.59.863c.26 0 .475.06.647.18.174.12.31.301.406.545.116-.247.265-.429.443-.545.182-.12.399-.18.653-.18.462 0 .788.18.976.54.192.356.29 1.03.29 2.02V15h-.866v-3.295c0-.813-.046-1.317-.139-1.512-.089-.199-.252-.299-.492-.299-.274 0-.464.106-.566.319-.1.209-.149.707-.149 1.492V15h-.865v-3.295c0-.823-.049-1.33-.148-1.522-.096-.192-.27-.289-.524-.289-.25 0-.426.106-.525.319-.096.209-.145.707-.145 1.492V15h-.857V9.242h.857v.494c.113-.206.254-.362.422-.469.171-.11.366-.164.582-.164z" fill="#bebebe"/><path style="marker:none" overflow="visible" fill="none" d="M0 0h22v22H0z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 4.0002424,12.004811 3.9999998,0 m -3.9998998,2.999999 0,-5.9999988 m 3.9998998,5.9999988 0,-5.9999988 m -3.9999998,0 -1.51e-5,-0.9995519 c 0,-1 0,-1 2.0000148,-1.0004491 1.9999854,-4.491e-4 1.9999706,4.491e-4 1.9999854,1.0004491 l 1.47e-5,0.9995519"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 18.000242,15 0,-8.0000003 m -6,0 3,3.9999983 3,-3.9999983 m -6,8.0000003 0,-8.0000003"/>
+</svg>
