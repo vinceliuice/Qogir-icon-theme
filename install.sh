@@ -37,16 +37,13 @@ install() {
   echo "Installing '${THEME_DIR}'..."
 
   mkdir -p                                                                             ${THEME_DIR}
-  cp -ur ${SRC_DIR}/COPYING                                                            ${THEME_DIR}
-  cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
-  cp -ur ${SRC_DIR}/src/index.theme                                                    ${THEME_DIR}
+  cp -r ${SRC_DIR}/COPYING                                                             ${THEME_DIR}
+  cp -r ${SRC_DIR}/AUTHORS                                                             ${THEME_DIR}
+  cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
+  cp -r ${SRC_DIR}/src/cursors/dist${theme}${color}/cursors                            ${THEME_DIR}
 
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
-
-  if [[ ${theme} == '' ]]; then
-    cp -r ${SRC_DIR}/src/cursors/dist${color}/cursors                                  ${THEME_DIR}
-  fi
 
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                           ${THEME_DIR}/16
