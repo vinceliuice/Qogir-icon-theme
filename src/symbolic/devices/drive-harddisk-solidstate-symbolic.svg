@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16.007" width="16"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter></defs><g transform="translate(-261 116.042)" filter="url(#a)"><path d="M264.344-115.003a.512.512 0 0 0-.344.406l-2 10.594v3h14v-3l-2-10.594a.517.517 0 0 0-.5-.406h-9a.489.489 0 0 0-.093 0 .651.651 0 0 0-.063 0zm.562 1h8.188l1.781 10h-11.75zm-1.906 11h12v1h-12z" fill="#5d656b"/></g><rect width="3" height="1" x="5" y="3.007" rx=".552" ry=".5" fill="#5d656b" paint-order="markers stroke fill"/></svg>
+<svg width="16" height="16.007" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#5d656b">
+  <path d="m3 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm0 1h10c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" color="#5d656b"/>
+  <path d="m8 13c-2.209 0-4-1.7909-4-4s1.791-4 4-4h4v4c0 2.2091-1.7909 4-4 4zm0-2c1.1046 0 2-0.8954 2-2s-0.8954-2-2-2-2 0.8954-2 2 0.8954 2 2 2z" color="#5d656b"/>
+  <rect x="3" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="3" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <path d="m6.5 2h3c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-3c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+</svg>

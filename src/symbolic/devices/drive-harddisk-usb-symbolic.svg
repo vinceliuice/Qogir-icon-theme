@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g transform="translate(-383 116.035)" filter="url(#a)"><path style="marker:none" d="M386.344-115.003a.512.512 0 0 0-.344.406l-2 10.594v3h14v-3l-2-10.594a.517.517 0 0 0-.5-.406h-9a.489.489 0 0 0-.093 0 .651.651 0 0 0-.063 0zm.562 1h8.188l1.781 10h-11.75l1.781-10zm4.094.843c-.828 0-1.5.433-1.5.97 0 .423.414.774 1 .905v.907l-2.312 1.187-.188.063v.5h-.5v1.28h2v-1.28h-.5v-.188l1.5-.781v2.906h-1l1.5 1.938 1.5-1.938h-1v-3.531l1.5.75v.281c-.292.113-.5.327-.5.563 0 .357.448.656 1 .656s1-.3 1-.656c0-.236-.208-.45-.5-.563v-.562l-.187-.094-2.313-1.188v-.25c.587-.131 1-.482 1-.906 0-.535-.671-.969-1.5-.969zm-6 10.157h12v1h-12v-1z" color="#5d656b" overflow="visible" fill="#5d656b" enable-background="accumulate"/></g></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-383 117.19)" filter="url(#a)">
+  <path d="m390.5-112.57v1.7576l-2.3125 1.1875-0.1875 0.0625v0.86716h-0.5v1.5078h2v-1.5078h-0.5v-0.55466l1.5-0.78125v3.8438h-1.5l2 2 2-2h-1.5v-4.4688l1.5 0.75v1.1544h1v-1.4357l-0.1875-0.0937-2.3125-1.1875v-1.1013z" fill="#5d656b"/>
+ </g>
+ <g fill="#5d656b">
+  <path d="m3 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm0 1h10c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" color="#5d656b"/>
+  <rect x="3" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="3" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <circle cx="8" cy="4" r="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="10.5" cy="8.8725" r=".87246" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7449"/>
+ </g>
+</svg>
