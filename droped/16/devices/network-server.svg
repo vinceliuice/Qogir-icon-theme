@@ -1,0 +1,28 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#232629;
+      }</style>
+  <linearGradient id="b" x1="3.5" x2="47.5" y1="23" y2="23" gradientTransform="matrix(0 .47695 .47672 0 1.2314 .030565)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#fff" stop-opacity=".4902" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="46.006" x2="4.2868" y1="23.707" y2="27.243" gradientTransform="matrix(.33709 .33726 -.33709 .33726 11.353 -4.1641)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="48.127" x2="2.8726" y1="25.828" y2="24.414" gradientTransform="matrix(.33709 -.33726 -.33709 -.33726 11.265 28.593)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="4.4897" x2="47.5" y1="23" y2="23" gradientTransform="matrix(.47672 0 0 -.47695 .039601 23.163)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="matrix(.70158 0 0 .70126 -.45742 -.45489)">
+  <path d="m12.055 0.64867c-6.2917 0-11.403 5.1135-11.403 11.408 0 6.2945 5.1112 11.408 11.403 11.408 6.2917 0 11.403-5.1135 11.403-11.408 0-6.2945-5.1112-11.408-11.403-11.408z" color="#000000" fill="#5294e2"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m14.114 21.482a4.5289 10.255 0 0 0-1.9293-19.544" fill="none" opacity=".8" stroke="url(#b)" stroke-width="1.4257"/>
+   <path d="m13.269 21.18a0.95335 0.95381 0 0 0 1.9067 0 0.95335 0.95381 0 1 0-1.9067 0z" color="#000000" fill="#fff" stroke="#fff" stroke-width="1.4263"/>
+   <path d="m19.444 19.444a10.252 4.53 45.021 0 1-15.161-12.879" fill="none" opacity=".8" stroke="url(#c)" stroke-width="1.4257"/>
+   <path d="m5.2835 6.9017a0.95335 0.95381 0 0 1-1.9067 0 0.95335 0.95381 0 1 1 1.9067 0z" color="#000000" fill="#fff" stroke="#fff" stroke-width="1.4263"/>
+   <path d="m19.535 5.192a4.53 10.252 44.979 0 0-15.153 10.947" fill="none" opacity=".8" stroke="url(#d)" stroke-width="1.4257"/>
+   <path d="m4.2418 17.736a0.95335 0.95381 0 0 0 0-1.9076 0.95335 0.95381 0 1 0 0 1.9076z" fill="#fff" stroke="#fff" stroke-width="1.4263"/>
+   <path d="m20.926 9.8187a10.25 4.5311 0 0 0-18.968 2.5861" fill="none" stroke="url(#e)" stroke-width="1.4257"/>
+   <path d="m22.058 10.002a0.95335 0.95381 0 0 0-1.9067 0 0.95335 0.95381 0 1 0 1.9067 0z" color="#000000" fill="#fff" stroke="#fff" stroke-width="1.4263"/>
+  </g>
+ </g>
+</svg>

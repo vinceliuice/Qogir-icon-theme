@@ -1,0 +1,9 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <path d="m6 2c-0.554 0-1 0.446-1 1h-2v8h16v-8h-8c0-0.554-0.446-1-1-1z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".26667" stroke-width="2" style="paint-order:stroke markers fill"/>
+ <path d="m6 2c-0.554 0-1 0.446-1 1h-2v8h16v-8h-8c0-0.554-0.446-1-1-1z" fill="#fff" style="paint-order:stroke markers fill"/>
+ <path d="m12 6-2 2h-9l3e-7 11h20v-13z" fill="#6ba4e7" stroke="#003479" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".56078" stroke-width="2"/>
+ <path d="m12 6-2 2h-9l3e-7 11h20v-13z" fill="#6ba4e7"/>
+</svg>

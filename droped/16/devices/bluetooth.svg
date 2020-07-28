@@ -1,0 +1,10 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-146,-32)">
+  <rect x="146" y="32" width="16" height="16" rx="0" ry="0" fill="none"/>
+  <rect x="148.5" y="32.5" width="11" height="15" rx="5.8056" ry="5.0893" fill="#5cb2fb" stroke="#0575d2" stroke-opacity=".66667"/>
+  <path d="m153 34.5v4.4019l-1.9704-1.4323-0.52963 0.71614 2.5 1.8142v0.61111l-2.4711 2.1389 0.56815 0.6493 1.903-1.6806v3.7812l4-3.6667-2.1725-1.6615 2.1244-1.967zm1 2.21 1.4845 1.4758-1.4845 1.3322zm0 3.896 1.4845 1.3324-1.4845 1.4756z" color="#000000" fill="#fff"/>
+ </g>
+</svg>

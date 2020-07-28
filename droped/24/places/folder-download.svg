@@ -1,0 +1,10 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-421,-489)">
+  <rect x="422" y="490" width="22" height="22" fill="none" opacity=".75"/>
+  <path d="m430 491h6v11h5.5l-8.5 8.5-8.5-8.5h5.5z" fill="#5c657a" opacity=".65" stroke-width="0"/>
+  <path d="m429 490v11h-7l11 11 11-11h-7v-11zm1 1h6v11h5.5l-8.5 8.5-8.5-8.5h5.5z" fill="#25282f" opacity=".65" stroke-width="0"/>
+ </g>
+</svg>

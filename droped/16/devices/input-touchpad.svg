@@ -1,0 +1,13 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="matrix(.26923 0 0 .26923 6.8501 7.9817)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-26.068" y="-30.271" width="52" height="52" rx="2.5" ry="2.5" fill="#4c5263" stroke="#3c404e" stroke-width="7.4286"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-26.068" y="-30.271" width="52" height="52" rx="2.5" ry="2.5" fill="#4c5263" stroke-width="3.7143"/>
+  <g transform="matrix(2 0 0 2 -27.729 -31.932)" opacity=".35" stroke-width="3.7143">
+   <rect x="4.8571" y="19.714" width="9.2857" height="7.4286" rx="0" ry="7.353e-7"/>
+   <rect x="17.857" y="19.714" width="9.2857" height="7.4286" rx="0" ry="7.353e-7"/>
+  </g>
+ </g>
+</svg>

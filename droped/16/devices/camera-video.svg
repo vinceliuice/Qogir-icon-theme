@@ -1,0 +1,13 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <rect x="2.5" y=".5" width="12.298" height="15" rx=".81988" ry=".80357" fill="#4c5263" stroke="#252630" stroke-opacity=".784"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-2.9976" cy="-12.5" r="1.5" fill="#333741"/>
+ <ellipse transform="matrix(0,-1,-1,0,0,0)" cx="-3" cy="-12.5" rx=".50236" ry=".5" fill="#dd586a"/>
+ <rect x=".5" y="3.5" width="2" height="9" rx=".5" ry=".34625" fill="#414655" stroke="#252630" stroke-opacity=".784"/>
+ <g transform="translate(0,-1)" stroke="#333741">
+  <circle cx="9" cy="9" r="3.5" fill="#007095"/>
+  <circle cx="9" cy="9" r="1.5" fill="#4c5263"/>
+ </g>
+</svg>

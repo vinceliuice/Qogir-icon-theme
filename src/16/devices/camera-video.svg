@@ -1,13 +1,8 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css"/>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <rect x="2.5" y=".5" width="12.298" height="15" rx=".81988" ry=".80357" fill="#4c5263" stroke="#252630" stroke-opacity=".784"/>
- <circle transform="matrix(0,-1,-1,0,0,0)" cx="-2.9976" cy="-12.5" r="1.5" fill="#333741"/>
- <ellipse transform="matrix(0,-1,-1,0,0,0)" cx="-3" cy="-12.5" rx=".50236" ry=".5" fill="#dd586a"/>
- <rect x=".5" y="3.5" width="2" height="9" rx=".5" ry=".34625" fill="#414655" stroke="#252630" stroke-opacity=".784"/>
- <g transform="translate(0,-1)" stroke="#333741">
-  <circle cx="9" cy="9" r="3.5" fill="#007095"/>
-  <circle cx="9" cy="9" r="1.5" fill="#4c5263"/>
- </g>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M1.003 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h10c.554 0 1-.446 1-1V9.437l2.281 2.282c.231.235.583.344.906.281h.813v-.813a1.019 1.019 0 0 0 0-.156V5a1.464 1.464 0 0 0 0-.094V4h-1a.87.87 0 0 0-.125 0 1.01 1.01 0 0 0-.594.281l-2.281 2.282V3c0-.554-.446-1-1-1h-10zm0 1h10v10h-10V3zm14 2v6l-3-3 3-3z"/>
 </svg>

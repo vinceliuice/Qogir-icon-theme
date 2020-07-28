@@ -1,0 +1,10 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(-1420,-362)">
+  <rect x="1420" y="362" width="22" height="22" fill="none" opacity=".75"/>
+  <path d="m1424 369.5 7-4.1 7 4.1v11.5h-14z" fill="#5c657a" opacity=".65"/>
+  <path d="m1431 364-10 6h2v12h16v-12h2zm0 1.4004 7 4.0996v11.5h-14v-11.5z" fill="#25282f" opacity=".65" stroke-width="0"/>
+ </g>
+</svg>

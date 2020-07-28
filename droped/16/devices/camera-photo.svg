@@ -1,0 +1,16 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="translate(0 .99999)">
+  <rect x="14" y="1" width="1" height="1" fill="#242832" fill-opacity=".78431"/>
+  <g>
+   <path d="m7.7274 0.5c-0.81836 0-0.57971 1.9906-1.6364 1.9906h-5.182c-0.22665 0-0.40899 0.18685-0.40899 0.41888v9.1716c0 0.23202 0.18234 0.41893 0.40899 0.41893h14.182c0.22666 0 0.40899-0.18691 0.40899-0.41893v-9.1716c0-0.23203-0.18233-0.41888-0.40899-0.41888h-1.9092c-1.1148 0-0.81812-1.9906-1.6364-1.9906z" fill="#4c5263" stroke="#252731" stroke-opacity=".78431"/>
+   <rect x="8" y="1.6364" width="3.3281" height=".72727" rx="0" ry="0" fill="#32353e"/>
+   <ellipse cx="10" cy="7" rx="3.5" ry="3.5" fill="#8f96a9" stroke="#333741"/>
+   <rect x="4" y="3" width="1" height="9" fill="#303440"/>
+   <ellipse cx="10" cy="7" rx="1.5" ry="1.5" fill="#4c5263" stroke="#333741"/>
+   <rect x="1" y="3" width="3" height="9" rx=".5" ry=".5" fill="#414655"/>
+  </g>
+ </g>
+</svg>

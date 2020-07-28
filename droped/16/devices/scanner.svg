@@ -1,0 +1,20 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+  <radialGradient id="a" cx="7.1184" cy="9.9571" r="12.672" gradientTransform="matrix(0 2.578 -2.5895 0 33.976 -21.019)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#505050" offset="0"/>
+   <stop stop-color="#2b2b2b" offset=".26238"/>
+   <stop stop-color="#0a0a0a" offset=".70495"/>
+   <stop offset="1"/>
+  </radialGradient>
+ </defs>
+ <rect x="1.5" y=".49998" width="13" height="15" rx=".5" ry=".5" fill="#f2f2f2"/>
+ <rect x="1.5" y=".49998" width="13" height="15" rx=".5" ry=".5" fill="none" opacity=".4" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+ <rect x="3.5" y="2.5002" width="9" height="11" color="#000000" fill="url(#a)" opacity=".9"/>
+ <rect x="3.5" y="2.5" width="9" height="11" fill="none" opacity=".7" stroke="#000" stroke-linecap="round"/>
+ <path d="m5 4.0005h6l7e-6 7.9995h-6v-8z" fill="#eee"/>
+ <g transform="matrix(.5 0 0 1 2e-7 -1031.4)" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="6" y="1038.4" width="20" height="3" fill="#c00" opacity=".8"/>
+  <rect x="6" y="1039.4" width="20" height="1" fill="#fff" opacity=".8"/>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <rect x="3.5" y="1.5" width="12" height="12" rx=".96894" ry=".85714" fill="#4c5263" fill-rule="evenodd" stroke="#25282f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".78431" style="paint-order:fill markers stroke"/>
+ <path d="m4 12h2v3h-2z" fill="#d6aa24" stroke="#806514" stroke-opacity=".70588" style="paint-order:markers stroke fill"/>
+ <rect x=".5" y=".5" width="2" height="15" rx="0" ry="0" fill="#fff" fill-rule="evenodd" stroke="#9da2b2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".78431" style="paint-order:fill markers stroke"/>
+ <path d="m8 12h2v3h-2z" fill="#d6aa24" stroke="#806514" stroke-opacity=".70588" style="paint-order:markers stroke fill"/>
+ <path d="m12 12h2v3h-2z" fill="#d6aa24" stroke="#806514" stroke-opacity=".70588" style="paint-order:markers stroke fill"/>
+ <g fill="#fff" fill-rule="evenodd">
+  <path d="m7 4c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm0 1h5v3h-5z" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="7" y="3" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="9" y="3" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="11" y="3" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="7" y="8" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="9" y="8" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="11" y="8" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect transform="rotate(90)" x="5" y="-14" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect transform="rotate(90)" x="7" y="-14" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect transform="rotate(90)" x="5" y="-7" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect transform="rotate(90)" x="7" y="-7" width="1" height="2" rx="0" ry="0" opacity=".15" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

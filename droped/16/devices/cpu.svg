@@ -1,0 +1,18 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#5d656b}</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <path d="M16 4v2H0V4zM16 7v2H0V7zM16 10v2H0v-2z" fill="#939aad"/>
+ </g>
+ <rect class="ColorScheme-Text" x="1.5" y="1.5" width="13" height="13" rx=".86667" ry=".86667" color="#5d656b" fill="#4c5263" stroke="#25252e" stroke-opacity=".78431"/>
+ <g fill="#1f91b7" fill-rule="evenodd">
+  <rect x="3" y="5" width="7" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="11" y="5" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="3" y="8" width="5" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="9" y="8" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="3" y="11" width="3" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="7" y="11" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+  <rect x="10" y="11" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

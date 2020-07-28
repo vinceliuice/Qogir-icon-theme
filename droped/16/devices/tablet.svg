@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#232629;
+      }</style>
+ </defs>
+ <g>
+  <rect x="2.5" y=".5" width="12" height="15" rx="1" ry="1" color="#000000" fill="#f2f2f2"/>
+  <rect x="4" y="2" width="9" height="12" rx=".5" ry=".5" color="#000000" fill="#302934"/>
+  <path d="m4 14h9v-12h-9zm1-1v-10h7v10z" opacity=".2"/>
+ </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.5" y="-14.5" width="15" height="12" rx="1" ry="1" fill="none" opacity=".5" stroke="#000" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round"/>
+ <rect x="4" y="2.2698" width="6.7132" height="7.4404" color="#000000" display="block" fill="none"/>
+</svg>

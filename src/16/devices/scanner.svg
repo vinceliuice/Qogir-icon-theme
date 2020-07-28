@@ -1,20 +1,12 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css"/>
-  <radialGradient id="a" cx="7.1184" cy="9.9571" r="12.672" gradientTransform="matrix(0 2.578 -2.5895 0 33.976 -21.019)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#505050" offset="0"/>
-   <stop stop-color="#2b2b2b" offset=".26238"/>
-   <stop stop-color="#0a0a0a" offset=".70495"/>
-   <stop offset="1"/>
-  </radialGradient>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <rect x="1.5" y=".49998" width="13" height="15" rx=".5" ry=".5" fill="#f2f2f2"/>
- <rect x="1.5" y=".49998" width="13" height="15" rx=".5" ry=".5" fill="none" opacity=".4" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
- <rect x="3.5" y="2.5002" width="9" height="11" color="#000000" fill="url(#a)" opacity=".9"/>
- <rect x="3.5" y="2.5" width="9" height="11" fill="none" opacity=".7" stroke="#000" stroke-linecap="round"/>
- <path d="m5 4.0005h6l7e-6 7.9995h-6v-8z" fill="#eee"/>
- <g transform="matrix(.5 0 0 1 2e-7 -1031.4)" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="6" y="1038.4" width="20" height="3" fill="#c00" opacity=".8"/>
-  <rect x="6" y="1039.4" width="20" height="1" fill="#fff" opacity=".8"/>
- </g>
+<g transform="translate(-501 156.006)" style="fill:currentColor" class="ColorScheme-Text" >
+<path d="M502.344-156.003a.5.5 0 0 0-.313.656l1.97 5.875-1 6.406v3.063h12v-3.062l-1-6.438 1.718-5.875a.5.5 0 0 0-.469-.625H502.5a.5.5 0 0 0-.094 0 .5.5 0 0 0-.062 0zm.844 1h11.406l-1.469 5h-8.281l-1.656-5zm1.75 6h8.125l.937 6h-10l.938-6zm-.938 7h1v1h-1v-1z"/>
+<path d="M512.469-145.847l-7.188 1.812v.032h7.438l-.25-1.844z"/>
+<path d="M505.813-148.003l-.375 2.875 6.906-1.75-.156-1.125zM504.563-154.003l1 3h6.812l.875-3h-8.687z"/>
+</g>
 </svg>

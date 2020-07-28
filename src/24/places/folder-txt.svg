@@ -1,10 +1,7 @@
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css"/>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }</style>
  </defs>
- <g transform="translate(-421,-361)">
-  <rect x="422" y="362" width="22" height="22" fill="none" opacity=".75"/>
-  <path d="m424 362v22h18v-15l-7-7zm1 1h9v7h7v13h-16zm10 0.5 5.5 5.5h-5.5z" fill="#25282f" opacity=".65" stroke-width="0"/>
-  <path d="m425 363v20h16v-13h-7v-7z" fill="#5c657a" opacity=".65" stroke-width="0"/>
- </g>
+ <path class="ColorScheme-Text" d="m5 4v16h13v-11h-0.05l0.05-0.05-4.95-4.95-0.05 0.05v-0.05zm1 1h6v5h5v9h-11zm7 0.363 3.637 3.637h-3.637z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m6 5v14h11v-9h-5v-5z" fill="currentColor" opacity=".25"/>
 </svg>

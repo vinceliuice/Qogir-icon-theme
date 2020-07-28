@@ -1,0 +1,12 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <path d="m3 0c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-6c0-0.554-0.446-1-1-1h-4z" fill-opacity=".26667" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <path d="m3 1v1h-1v6h12v-6h-7v-1h-4z" fill="#fff"/>
+ <g>
+  <path d="M8 3L7 5H1c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V4c0-.5-.5-1-1-1z" fill="#003579" fill-opacity=".561"/>
+  <path d="M8.608 4l-.876 2H1v8h14V4z" fill="#6ba4e7"/>
+  <path d="M8.918 3l-1.06.283L7 5H1.453L0 5.389v2.07l15.63-4.188C15.45 3.111 15.229 3 15 3H8.918zM16 4.229L0 8.518v2.07l16-4.29v-2.07zm0 3.125L0 11.643v2.07l16-4.287V7.354zm0 3.126L0 14.77V15h6.863L16 12.55v-2.07zm0 3.127L10.807 15H16v-1.393z" fill="#fff" opacity=".15" stroke-linecap="round" paint-order="stroke markers fill"/>
+ </g>
+</svg>

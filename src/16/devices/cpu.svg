@@ -1,18 +1,8 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#5d656b}</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g class="ColorScheme-Text" fill="currentColor">
-  <path d="M16 4v2H0V4zM16 7v2H0V7zM16 10v2H0v-2z" fill="#939aad"/>
- </g>
- <rect class="ColorScheme-Text" x="1.5" y="1.5" width="13" height="13" rx=".86667" ry=".86667" color="#5d656b" fill="#4c5263" stroke="#25252e" stroke-opacity=".78431"/>
- <g fill="#1f91b7" fill-rule="evenodd">
-  <rect x="3" y="5" width="7" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="11" y="5" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="3" y="8" width="5" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="9" y="8" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="3" y="11" width="3" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="7" y="11" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
-  <rect x="10" y="11" width="2" height="1" rx="0" ry="0" style="paint-order:fill markers stroke"/>
- </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m2.3672 1c-0.74849 0-1.3672 0.6187-1.3672 1.3672v1.6328h-1v2h1v1h-1v2h1v1h-1v2h1v1.6328c0 0.74849 0.6187 1.3672 1.3672 1.3672h11.266c0.74849 0 1.3672-0.6187 1.3672-1.3672v-1.6328h1v-2h-1v-1h1v-2h-1v-1h1v-2h-1v-1.6328c0-0.74849-0.6187-1.3672-1.3672-1.3672h-11.266zm0 1h11.266c0.21178 0 0.36719 0.1554 0.36719 0.36719v11.266c0 0.21178-0.1554 0.36719-0.36719 0.36719h-11.266c-0.21178 0-0.36719-0.1554-0.36719-0.36719v-11.266c0-0.21178 0.1554-0.36719 0.36719-0.36719zm0.63281 3v1h7v-1h-7zm8 0v1h2v-1h-2zm-8 3v1h5v-1h-5zm6 0v1h2v-1h-2zm-6 3v1h3v-1h-3zm4 0v1h2v-1h-2zm3 0v1h2v-1h-2z"/>
 </svg>

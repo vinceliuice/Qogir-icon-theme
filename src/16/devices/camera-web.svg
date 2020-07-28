@@ -1,14 +1,11 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css"/>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <g transform="translate(0 .99999)">
-  <rect x="14" y="1" width="1" height="1" fill="#242832" fill-opacity=".78431"/>
-  <path d="m7.7274 0.5c-0.81836 0-0.57971 1.9906-1.6364 1.9906h-5.182c-0.22665 0-0.40899 0.18685-0.40899 0.41888v9.1716c0 0.23202 0.18234 0.41893 0.40899 0.41893h14.182c0.22666 0 0.40899-0.18691 0.40899-0.41893v-9.1716c0-0.23203-0.18233-0.41888-0.40899-0.41888h-1.9092c-1.1148 0-0.81812-1.9906-1.6364-1.9906z" fill="#4c5263" stroke="#252731" stroke-opacity=".78431"/>
-  <rect x="8" y="1.6364" width="3.3281" height=".72727" rx="0" ry="0" fill="#32353e"/>
-  <circle cx="10" cy="7" r="3.5" fill="#f55" stroke="#333741"/>
-  <rect x="4" y="3" width="1" height="9" fill="#303440"/>
-  <circle cx="10" cy="7" r="1.5" fill="#4c5263" stroke="#333741"/>
-  <rect x="1" y="3" width="3" height="9" rx=".5" ry=".5" fill="#414655"/>
- </g>
+<g style="fill:currentColor" class="ColorScheme-Text" >
+<path d="M8 1.004a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm0 4a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm2.465 3a.5.5 0 0 1 .035 0 .5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .465-.5z"/>
+<path d="M8 12.003c-1.845 0-3.086.537-3.856 1.096-.769.56-1.091 1.182-1.091 1.182a.5.5 0 0 0 .447.722h9a.5.5 0 0 0 .447-.722s-.32-.623-1.09-1.182c-.769-.56-2.012-1.096-3.857-1.096z"/>
+</g>
 </svg>

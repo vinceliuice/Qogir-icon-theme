@@ -1,0 +1,19 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="matrix(.38349 0 0 .35714 83.158 -368.43)">
+  <g transform="translate(-220.11 1030)">
+   <path d="m8.6405 2.9301c-0.66764 1.223e-4 -1.4187 0.82309-1.4187 1.5337v9.7103h2.5606v14h-2.5606v15.316c0 0.74869 0.86847 1.5334 1.5719 1.5334h30.697c0.68172 0 1.5361-0.80779 1.5361-1.5334v-20.916h-2.5605v-8.3856l2.5605-0.0289-6e-6 -6.1489c0-0.54583-0.41808-1.0197-0.41808-1.0197l-2.9455-3.6168c-0.24132-0.25686-0.46508-0.41724-1.0986-0.44935z" color="#000000" fill="#4c5263" fill-rule="evenodd" stroke="#252831" stroke-dashoffset=".8016" stroke-opacity=".78431" stroke-width="2.7021"/>
+   <rect x="8.4786" y="4.3741" width="23.468" height="5.6" fill="#d6aa24"/>
+  </g>
+  <rect x="-188.16" y="1034.4" width="2.6076" height="5.6" fill="#7f6515"/>
+  <rect x="-185.55" y="1037.2" width="2.6076" height="5.6001" fill="#d6aa24"/>
+  <g fill="#7f6515">
+   <rect x="-193.37" y="1034.4" width="2.6076" height="5.6"/>
+   <rect x="-198.59" y="1034.4" width="2.6076" height="5.6"/>
+   <rect x="-203.81" y="1034.4" width="2.6076" height="5.6"/>
+   <rect x="-209.02" y="1034.4" width="2.6076" height="5.6"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="matrix(1.375 0 0 1.3125 -.00017677 1)">
+  <g transform="translate(-1 -1)">
+   <rect x="1.7273" y="2.5238" width="14.545" height="12.952" rx=".36363" ry=".38095" fill="#5c657a" opacity=".65" stroke-width="0"/>
+  </g>
+  <g transform="matrix(1.0718 0 0 1.0829 -1.6463 -1.746)" fill="none" stroke="#000" stroke-width=".69095">
+   <rect x="1.8816" y="2.6614" width="14.237" height="12.677" rx=".72727" ry=".7619" fill="none" opacity=".65" stroke="#25282f" stroke-width=".69095"/>
+  </g>
+  <rect x=".72734" y="3.8095" width="14.545" height=".7619" rx="0" fill-opacity=".27451"/>
+  <rect x=".72734" y="1.5238" width="14.545" height="2.2857" fill-opacity=".15686"/>
+ </g>
+</svg>

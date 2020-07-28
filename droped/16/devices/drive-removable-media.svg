@@ -1,0 +1,14 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="matrix(.2743 0 0 .28302 4.581 5.2898)">
+  <g stroke-width="3.589">
+   <rect x="-.3236" y="-16.896" width="25.576" height="17.611" rx="0" ry="0" fill="#b7b7b7" stroke="#2c3854" stroke-linecap="round" stroke-opacity=".541" style="paint-order:fill markers stroke"/>
+   <path d="m-2.6053-2.9239c-0.62 3.932-0.43 8.14-0.43 11.5 0 8.446 0.376 15.245 2.998 19.879 2.622 4.634 7.419 7.121 12.502 7.121s9.88-2.487 12.502-7.121 2.998-11.433 2.998-19.879c0-3.36 0.19-7.568-0.43-11.5z" fill="#fafafa"/>
+   <path d="m-3.5036-2.7626c-0.63546 3.9655-0.43047 8.1481-0.43047 11.452 0 16.93 5.6371 27.386 16.399 27.386 10.762 0 16.399-10.457 16.399-27.386 0-3.3043 0.20191-7.4869-0.43252-11.452z" fill="none" stroke="#2c3854" stroke-opacity=".216"/>
+   <rect x="5.1731" y="-11.624" width="3.6456" height="3.5333" rx="0" ry="0" fill="#707680" style="paint-order:fill markers stroke"/>
+  </g>
+  <rect x="16.11" y="-11.624" width="3.6456" height="3.5333" rx="0" ry="0" fill="#707680" stroke-width="3.589" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

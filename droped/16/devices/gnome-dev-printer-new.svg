@@ -1,0 +1,26 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#5d656b}</style>
+ </defs>
+ <g transform="translate(-974 -378)">
+  <rect x="974" y="378" width="16" height="16" fill="none"/>
+  <g id="fdvfdvfd" transform="translate(244 -54)">
+   <use transform="translate(0,384)" width="100%" height="100%" xlink:href="#use6021"/>
+   <g transform="matrix(.24159 0 0 .24913 742.81 433.88)">
+    <rect x="-38.567" y="-1.4824" width="37.317" height="20.007" rx="1.2418" ry="1.2042" fill="none" stroke="#4f6698" stroke-opacity=".26667" stroke-width="4.0761"/>
+    <rect x="-36.466" y=".49242" width="33.114" height="16.056" fill="#fafafa"/>
+   </g>
+   <rect x="730.5" y="437.5" width="15.001" height="7" rx="1" ry="1" fill="#4c5263" stroke="#262830" stroke-opacity=".78431"/>
+   <rect x="733.5" y="442.5" width="9" height="4" rx=".3" ry=".3" fill="none" stroke="#4f6698" stroke-opacity=".26667"/>
+   <ellipse cx="743" cy="440" rx=".71428" ry=".71108" fill="#82b2ea"/>
+   <rect x="733" y="442" width="10" height="2" rx=".3" ry=".3" fill-opacity=".40392"/>
+   <rect x="734" y="443" width="8" height="3" fill="#fafafa"/>
+   <path d="m741 445v-1h-0.77999v1zm-0.88254 0v-1h-0.73902v1zm-0.84157 0v-1h-0.64657v1zm-0.74926 0v-1h-0.2873v1zm-0.39 0v-1h-0.63633v1zm-0.74912 0v-1h-1.6422v1z" fill="#b4bfd8" fill-opacity=".64286"/>
+  </g>
+  <g transform="matrix(.14737 0 0 .14737 983.52 385.97)">
+   <path d="m20.25 7c-13.104 0-23.75 10.646-23.75 23.75 0 13.104 10.646 23.75 23.75 23.75 13.104 0 23.75-10.646 23.75-23.75 0-13.104-10.646-23.75-23.75-23.75z" color="#000000" fill="#82b2ea"/>
+   <path d="m3.2857 34.143h33.929v-6.7857h-33.929v6.7857z" fill="#fff"/>
+   <path d="m16.857 13.786v33.929h6.7857v-33.929h-6.7857z" fill="#fff"/>
+  </g>
+ </g>
+</svg>

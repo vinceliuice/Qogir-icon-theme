@@ -1,12 +1,12 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css"/>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <path d="m3 0c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-6c0-0.554-0.446-1-1-1h-4z" fill-opacity=".26667" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
- <path d="m3 1v1h-1v6h12v-6h-7v-1h-4z" fill="#fff"/>
- <g>
-  <path d="M8 3L7 5H1c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V4c0-.5-.5-1-1-1z" fill="#003579" fill-opacity=".561"/>
-  <path d="M8.608 4l-.876 2H1v8h14V4z" fill="#6ba4e7"/>
-  <path d="M8.918 3l-1.06.283L7 5H1.453L0 5.389v2.07l15.63-4.188C15.45 3.111 15.229 3 15 3H8.918zM16 4.229L0 8.518v2.07l16-4.29v-2.07zm0 3.125L0 11.643v2.07l16-4.287V7.354zm0 3.126L0 14.77V15h6.863L16 12.55v-2.07zm0 3.127L10.807 15H16v-1.393z" fill="#fff" opacity=".15" stroke-linecap="round" paint-order="stroke markers fill"/>
+ <g style="fill:currentColor" class="ColorScheme-Text">
+  <path d="m3 0c-0.554 0-1 0.446-1 1-0.554 0-1 0.446-1 1v3h1v-3h1v-1h4v1h7v1h1v-1c0-0.554-0.446-1-1-1h-6c0-0.554-0.446-1-1-1h-4z" style="paint-order:fill markers stroke"/>
+  <path d="m8 3-1 2h-6c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.5-0.5-1-1-1h-7zm0.60742 1h6.3926v10h-14v-8h6.7324l0.875-2z"/>
+  <path d="m8.918 3-1.06 0.283-0.858 1.717h-5.547l-1.453 0.389v2.07l15.63-4.188c-0.18-0.16-0.401-0.271-0.63-0.271zm7.082 1.229-16 4.289v2.07l16-4.29v-2.07zm0 3.125-16 4.289v2.07l16-4.287zm0 3.126-16 4.29v0.23h6.863l9.137-2.45zm0 3.127-5.193 1.393h5.193z" opacity=".25"/>
  </g>
 </svg>

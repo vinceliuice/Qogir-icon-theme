@@ -1,0 +1,13 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g transform="matrix(.71428 0 0 .71292 -482 -393.81)">
+  <path d="m684.01 567.12c-0.28209 0-0.50932 0.27535-0.50932 0.61699v4.189l-1.7951 0.15448c-0.28207 0-0.46515 0.94742-0.5093 1.2841v0.77057h9.6987v-0.77057c0-0.3417-0.22724-1.2841-0.50931-1.2841l-1.788-0.15448v-4.189c0-0.34164-0.22723-0.61699-0.50932-0.61699z" fill="none" stroke="#42557f" stroke-opacity=".29082" stroke-width="1.4013"/>
+  <g>
+   <path d="m684.41 565.02c-0.18191 0-0.31113 0.23441-0.31515 0.51797v6.804l-1.974 0.23412h-8e-3c-0.18193 0-0.31515 0.23432-0.31515 0.51797v0.34213h8.4002v-0.34213c0-0.28365-0.13323-0.51797-0.31514-0.51797h-8e-3l-1.9736-0.23412v-6.804c0-0.28365-0.13323-0.51797-0.31514-0.51797z" fill="#fafafa"/>
+   <rect x="675.5" y="554.5" width="21" height="14" rx="1.4" ry="1.4027" fill="#434855" stroke="#252831" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".78431" stroke-width="1.4017"/>
+   <rect x="676.2" y="555.2" width="19.6" height="12.624" enable-background="new" fill="#5294e2" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>
