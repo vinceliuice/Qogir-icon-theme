@@ -50,9 +50,7 @@ install() {
     cp -r ${SRC_DIR}/links/{16,22,24,32,48,96,128,scalable,symbolic}                     ${THEME_DIR}
     [[ ${theme} != '' ]] && \
     cp -r ${SRC_DIR}/src/theme${theme}/*                                                 ${THEME_DIR}
-
   else
-
     mkdir -p                                                                             ${THEME_DIR}/16
     mkdir -p                                                                             ${THEME_DIR}/22
     mkdir -p                                                                             ${THEME_DIR}/24
