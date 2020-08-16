@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 1a6 6 0 1 1 0 12A6 6 0 0 1 8 2zm0 1.75a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5zM7 7v5h2V7H7z" fill="#5d656b"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#5d656b">
+  <path d="m8 0c-4.424 0-8 3.576-8 8s3.576 8 8 8 8-3.576 8-8-3.576-8-8-8zm0 1c3.87 0 7 3.13 7 7s-3.13 7-7 7-7-3.13-7-7 3.13-7 7-7z" color="#5d656b" overflow="visible" style="text-indent:0;text-transform:none"/>
+  <rect x="7" y="7" width="2" height="6" rx="0" ry="0" stroke-linecap="round" stroke-width="1.8516"/>
+  <circle cx="8" cy="4" r="1" stroke-linecap="round" stroke-width="2"/>
+ </g>
+</svg>

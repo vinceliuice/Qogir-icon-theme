@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><path style="marker:none" d="M7 3v4H3v2h4v4h2V9h4V7H9V3H7z" color="#5d656b" overflow="visible" fill="#5d656b"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="7" width="11" height="1" fill="#5d656b"/>
+ <rect transform="rotate(90)" x="2" y="-8" width="11" height="1" fill="#5d656b"/>
+</svg>
