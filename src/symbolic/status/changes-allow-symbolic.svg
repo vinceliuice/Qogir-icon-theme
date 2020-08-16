@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g fill="#5d656b"><path style="marker:none" d="M7 0C4.984 0 3 2.026 3 4h1c0-1.662 1.338-3 3-3h2c1.662 0 3 1.338 3 3v2h1V4c0-1.995-1.964-4-4-4z" color="#5d656b" overflow="visible" enable-background="accumulate"/><path style="marker:none" d="M2 7v7.5c0 .831.669 1.5 1.5 1.5h9c.831 0 1.5-.669 1.5-1.5V7H2zm1 1h10v1h-1.25v.5H13V11h-1.25v.5H13V13h-1.25v.5H13v1c0 .294-.206.5-.5.5h-9a.478.478 0 0 1-.5-.5v-1h1.25V13H3v-1.5h1.25V11H3V9.5h1.25V9H3V8zm4.75 1C6.78 9 6 9.78 6 10.75c0 .702.406 1.315 1 1.594V14h2v-1.656c.594-.28 1-.892 1-1.594C10 9.78 9.22 9 8.25 9h-.5z" color="#000" overflow="visible" enable-background="accumulate"/></g></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#5d656b">
+  <path d="m7 0c-2.016 0-4 2.026-4 4h1c0-1.662 1.338-3 3-3h2c1.662 0 3 1.338 3 3v2h1v-2c0-1.995-1.964-4-4-4h-2z"/>
+ </g>
+ <path d="m3 6c-1.108 0-2 0.892-2 2v5c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-5c0-1.108-0.892-2-2-2zm0 1h10c0.554 0 1 0.446 1 1v5c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-5c0-0.554 0.446-1 1-1z" fill="#5d656b" stroke-linecap="round" stroke-width="2.2014"/>
+</svg>
