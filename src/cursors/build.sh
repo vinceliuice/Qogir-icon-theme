@@ -62,9 +62,11 @@ function create {
 SRC=$PWD/src
 
 cd "$SRC"
-rm -rf ubuntu manjaro ubuntu-white manjaro-white
+rm -rf elementary ubuntu manjaro ubuntu-white manjaro-white
+cp -r svg elementary
 cp -r svg ubuntu
 cp -r svg manjaro
+cp -r svg-white elementary-white
 cp -r svg-white ubuntu-white
 cp -r svg-white manjaro-white
 cd "$SRC"/ubuntu && sed -i "s/#5294e2/#fb8441/g" `ls`
@@ -79,6 +81,14 @@ create svg
 THEME="Qogir-white Cursors"
 BUILD="$SRC/../dist-dark"
 create svg-white
+
+THEME="Qogir-elementary Cursors"
+BUILD="$SRC/../dist-elementary"
+create elementary
+
+THEME="Qogir-elementary-white Cursors"
+BUILD="$SRC/../dist-elementary-dark"
+create elementary-white
 
 THEME="Qogir-ubuntu Cursors"
 BUILD="$SRC/../dist-ubuntu"
@@ -97,4 +107,4 @@ BUILD="$SRC/../dist-manjaro-dark"
 create manjaro-white
 
 cd "$SRC"
-rm -rf ubuntu manjaro ubuntu-white manjaro-white x1 x1_25 x1_5 x2
+rm -rf elementary ubuntu manjaro elementary-white ubuntu-white manjaro-white x1 x1_25 x1_5 x2
