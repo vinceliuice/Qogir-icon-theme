@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><path d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1zm0 1a6 6 0 1 1 0 12A6 6 0 0 1 8 2zm0 1.75a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5zM7 7v5h2V7H7z" fill="#5d656b"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m7 6v7h2v-7z" fill="#5d656b" stroke-width="1.1832"/>
+ <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-0.09375 1a7 7 0 0 1 0.09375 0 7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.9062-7z" fill="#5d656b" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" style="paint-order:markers stroke fill"/>
+ <circle cx="8" cy="3.75" r="1.25" fill="#5d656b" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25" stroke-width="1.25" style="paint-order:markers stroke fill"/>
+</svg>
