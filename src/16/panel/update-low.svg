@@ -4,6 +4,6 @@
     color:#4d4d4d;
     }</style>
  </defs>
- <path d="m7 1a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm-1 3h2v4h2.5l-3.5 5-3.5-5h2.5z" color="#bebebe" fill="currentColor"/>
+ <path d="m7 1a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm-1 3h2v4h2.5l-3.5 5-3.5-5h2.5z" color="#d3dae3" fill="currentColor"/>
  <circle cx="14.5" cy="13.5" r="1.5" color="#5294e2" fill="#29b6f6"/>
 </svg>
