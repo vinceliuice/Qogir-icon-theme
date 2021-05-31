@@ -5,6 +5,9 @@ A flat colorful design icon theme for linux desktops
 
 `./install.sh`
 
+### Gentoo Linux
+
+Enable the [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU) then `emerge x11-themes/qogir-icon-theme`
 
 # Qogir cursors
 This is an x-cursor theme inspired by Qogir theme
