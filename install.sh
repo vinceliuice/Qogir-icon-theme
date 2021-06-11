@@ -39,7 +39,13 @@ install() {
     mkdir -p "${THEME_DIR}"
     cp -r "${SRC_DIR}/COPYING" "${THEME_DIR}"
     cp -r "${SRC_DIR}/AUTHORS" "${THEME_DIR}"
-    cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
+
+    if [[ "${noapp:-}" == 'true' ]]; then
+      cp -r "${SRC_DIR}/src/index-noapp.theme" "${THEME_DIR}/index.theme"
+    else
+      cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
+    fi
+
     cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
 
     cd "${THEME_DIR}" || exit 1
@@ -101,6 +107,16 @@ install() {
     ln -sf 128 128@2x
     ln -sf scalable scalable@2x
 
+    if [[ "${noapp:-}" == 'true' ]]; then
+      rm -rf "${THEME_DIR}/16/apps"
+      rm -rf "${THEME_DIR}/32/apps"
+      rm -rf "${THEME_DIR}/32/devices"
+      rm -rf "${THEME_DIR}/48/apps"
+      rm -rf "${THEME_DIR}/scalable/apps"
+      rm -rf "${THEME_DIR}/scalable/devices"
+      rm -rf "${THEME_DIR}/symbolic/apps"
+    fi
+
     cd "${dest}" || exit
     gtk-update-icon-cache "${name}${theme}${color}"
 }
@@ -118,6 +134,11 @@ while [[ $# -gt 0 ]]; do
         -n|--name)
             name="${2}"
             shift 2
+        ;;
+        --noapp)
+            noapp='true'
+            echo "INFO: Use system app icons."
+            shift
         ;;
         -h|--help)
             usage
