@@ -67,3 +67,10 @@ w-resize size_hor
 watch wait
 whats_this help
 xterm text
+size_hor ew-resize
+size_ver ns-resize
+default size-bdiag
+default size-fdiag
+default size-hor
+default size-ver
+default top_left_arrow

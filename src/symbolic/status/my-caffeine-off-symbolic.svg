@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" id="svg7384" version="1.1" width="16"><defs id="defs7386"><style id="current-color-scheme" type="text/css"></style><style type="text/css" id="current-color-scheme-3"></style><style type="text/css" id="current-color-scheme-35"></style></defs><g id="layer11" transform="translate(-283 -629)" display="inline" fill="#5d656b" fill-opacity="1" stroke="none"><path d="M284 636v3c0 3 2 5 5 5h2c3 0 4.76-1.566 4.96-4h.54c1.5 0 1.5-1.5 1.5-1.5v-1c0-1.5-1.5-1.5-1.5-1.5h-.5zm1 1h10v2c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4zm11.5 0c.5-.032.516.531.516.531v1c0 .469-.516.469-.516.469h-.5l.01-1.984z" id="path4274" color="#000"/><path d="M290.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" id="path4276" color="#000" opacity=".35"/><path d="M287.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" id="path4278" color="#000" opacity=".35"/><path d="M293.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" id="path4280" color="#000" opacity=".35"/><path d="M286 638v1c0 1.662 1.338 3 3 3h2c1.662 0 3-1.338 3-3v-1z" id="rect834" opacity="1" fill-rule="evenodd" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1" paint-order="fill markers stroke"/></g></svg>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+ </defs>
+ <g transform="translate(-283 -629)" fill="#5d656b">
+  <path d="M284 636v3c0 3 2 5 5 5h2c3 0 4.76-1.566 4.96-4h.54c1.5 0 1.5-1.5 1.5-1.5v-1c0-1.5-1.5-1.5-1.5-1.5h-.5zm1 1h10v2c0 2.216-1.784 4-4 4h-2c-2.216 0-4-1.784-4-4zm11.5 0c.5-.032.516.531.516.531v1c0 .469-.516.469-.516.469h-.5l.01-1.984z"/>
+  <path d="M290.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" opacity=".35"/>
+  <path d="M287.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" opacity=".35"/>
+  <path d="M293.194 629c-1.099 1.384-1.429 2.066-1.033 2.947.36.798 1.288 1.206.821 3.053.767-.9 1.376-2.043.774-2.965-.612-.938-.947-1.507-.562-3.035z" opacity=".35"/>
+ </g>
+</svg>
