@@ -1,5 +1,6 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="6" y="4" width="52" height="56" rx="8" ry="8" fill="#4f4f4f" stroke="#333333" stroke-width="2" style="paint-order:stroke markers fill"/>
+ <rect x="6" y="6" width="52" height="52" rx="7.9996" ry="7.9996" fill="#4f4f4f" stroke="#333333" stroke-width="2"/>
+ <rect x="6" y="6" width="52" height="52" rx="7.9996" ry="7.9996" fill="#4f4f4f" stroke-width=".96362"/>
  <g transform="matrix(.97297 0 0 .97297 .37838 1.3514)">
   <path d="m32.5 31.5h-18.5c0-10.217 8.2827-18.5 18.5-18.5z" fill="#1ac63a"/>
   <path d="m32.5 31.5h-18.5c0 10.217 8.2827 18.5 18.5 18.5z" fill="#2186ff"/>
