@@ -1,5 +1,6 @@
 <svg id="Flamingo" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <circle cx="32" cy="32" r="27" fill="#4d4d4d" stroke="#262626" stroke-width="2" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="27" fill="#4d4d4d"/>
  <path d="m23.273 20.636c4.7042 0 12.813 14.545 17.455 14.545" fill="none" stroke="#ffffff" stroke-width="2.9091"/>
  <rect x="16" y="17" width="7.2727" height="7.2727" ry="2.2215" fill="#ffffff" style="paint-order:markers fill stroke"/>
  <rect x="16" y="27.182" width="7.2727" height="7.2727" ry="2.2215" fill="#ffffff" style="paint-order:markers fill stroke"/>
