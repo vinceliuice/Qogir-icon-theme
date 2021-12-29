@@ -9,6 +9,10 @@ A flat colorful design icon theme for linux desktops
 
 Enable the [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU) then `emerge x11-themes/qogir-icon-theme`
 
+### Debian/Ubuntu
+
+Install through [Pacstall](https://github.com/pacstall/pacstall): `pacstall -I qogir-icon-theme-bin`
+
 # Qogir cursors
 This is an x-cursor theme inspired by Qogir theme
   [Source files](src/cursors).
