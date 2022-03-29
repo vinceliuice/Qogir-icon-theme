@@ -1,0 +1,21 @@
+<svg id="svg22" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#5d656b;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+    <g fill="currentColor" stroke-linecap="square">
+        <g id="g8" class="ColorScheme-Text" fill="currentColor">
+            <path id="path2" d="M 3.5,2 A 1.5,1.5 0 0 0 2,3.5 1.5,1.5 0 0 0 3.5,5 1.5,1.5 0 0 0 5,3.5 1.5,1.5 0 0 0 3.5,2 Z M 3.4882812,3 A 0.5,0.5 0 0 1 3.5,3 0.5,0.5 0 0 1 4,3.5 0.5,0.5 0 0 1 3.5,4 0.5,0.5 0 0 1 3,3.5 0.5,0.5 0 0 1 3.4882812,3 Z"/>
+            <path id="path4" d="m3 4h1v8h-1z"/>
+            <path id="path6" d="m11 4v2a1 1 0 0 1-1 1h-5a2 2 0 0 0-0.0488281 0 2 2 0 0 0-1.9511719 2h1a1 1 0 0 1 1-1h5a2 2 0 0 0 0.048828 0 2 2 0 0 0 1.951172-2v-2z"/>
+        </g>
+        <path id="path10" class="ColorScheme-NegativeText" d="M 11.5,2 A 1.5,1.5 0 0 0 10,3.5 1.5,1.5 0 0 0 11.5,5 1.5,1.5 0 0 0 13,3.5 1.5,1.5 0 0 0 11.5,2 Z M 11.48828,3 A 0.5,0.5 0 0 1 11.5,3 0.5,0.5 0 0 1 12,3.5 0.5,0.5 0 0 1 11.5,4 0.5,0.5 0 0 1 11,3.5 0.5,0.5 0 0 1 11.48828,3 Z" fill="currentColor"/>
+        <path id="path12" class="ColorScheme-Text" fill="currentColor" d="M 3.5,11 A 1.5,1.5 0 0 0 2,12.5 1.5,1.5 0 0 0 3.5,14 1.5,1.5 0 0 0 5,12.5 1.5,1.5 0 0 0 3.5,11 Z M 3.488281,12 A 0.5,0.5 0 0 1 3.5,12 0.5,0.5 0 0 1 4,12.5 0.5,0.5 0 0 1 3.5,13 0.5,0.5 0 0 1 3,12.5 0.5,0.5 0 0 1 3.488281,12 Z"/>
+    </g>
+    <g id="g18" class="ColorScheme-NegativeText" fill="currentColor" shape-rendering="auto" stroke-linecap="square">
+        <path id="path14" d="m8.5 8.7929688-0.7070312 0.7070312 0.3535156 0.3535156 3.9999996 4.0000004 0.353516 0.353515 0.707031-0.707031-0.353515-0.353516-4.0000004-3.9999996-0.3535156-0.3535156z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#000000"/>
+        <path id="path16" d="m12.5 8.7929688-0.353516 0.3535156-3.9999996 3.9999996-0.3535156 0.353516 0.7070312 0.707031 0.3535156-0.353515 4.0000004-4.0000004 0.353515-0.3535156-0.707031-0.7070312z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#000000"/>
+    </g>
+</svg>
