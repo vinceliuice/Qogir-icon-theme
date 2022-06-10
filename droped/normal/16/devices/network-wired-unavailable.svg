@@ -1,9 +1,0 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }</style>
- </defs>
- <rect width="16" height="16" rx="2" ry="2" color="#000000" fill="#565661" fill-opacity=".34902" overflow="visible"/>
- <rect transform="scale(1,-1)" x="1" y="-15" width="14" height="14" rx="1" ry="1" color="#000000" fill="#f4f4f4" overflow="visible" stroke-width=".53846"/>
- <path d="m3 2c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h1v1h2v1h4v-1h2v-1h1c0.554 0 1-0.446 1-1v-7c0-0.554-0.446-1-1-1z" fill="#3c3c3c" style="paint-order:stroke fill markers"/>
- <path d="m5.5001 4.5v1c0 0.276 0.1 0.538 0.281 0.719l0.781 0.781-0.78 0.781a1.015 1.015 0 0 0-0.282 0.719v1h1c0.276 0 0.538-0.1 0.719-0.281l0.781-0.781 0.781 0.78c0.181 0.182 0.443 0.282 0.719 0.282h1v-1c0-0.276-0.1-0.538-0.281-0.719l-0.782-0.781 0.782-0.781c0.18-0.181 0.281-0.443 0.281-0.719v-1h-1c-0.276 0-0.538 0.1-0.719 0.281l-0.781 0.781-0.781-0.78a1.015 1.015 0 0 0-0.719-0.282z" color="#d3dae3" fill="#d35f5f"/>
-</svg>
