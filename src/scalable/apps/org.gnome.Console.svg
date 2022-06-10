@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg92"
+   sodipodi:docname="org.gnome.Console.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs96" />
+  <sodipodi:namedview
+     id="namedview94"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.15625"
+     inkscape:cx="83.167513"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg92" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="11.999989"
+     x2="115.999989"
+     y1="64"
+     y2="64">
+    <stop
+       offset="0"
+       stop-color="#3d3846"
+       id="stop58" />
+    <stop
+       offset="0.05"
+       stop-color="#77767b"
+       id="stop60" />
+    <stop
+       offset="0.1"
+       stop-color="#5e5c64"
+       id="stop62" />
+    <stop
+       offset="0.899999"
+       stop-color="#504e56"
+       id="stop64" />
+    <stop
+       offset="0.95"
+       stop-color="#77767b"
+       id="stop66" />
+    <stop
+       offset="1"
+       stop-color="#3d3846"
+       id="stop68" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="12"
+     x2="112.041023"
+     y1="60"
+     y2="80.988281"
+     gradientTransform="translate(0,3.8)">
+    <stop
+       offset="0"
+       stop-color="#77767b"
+       id="stop71"
+       style="stop-color:#62c9ea;stop-opacity:1;" />
+    <stop
+       offset="0.38444301"
+       stop-color="#9a9996"
+       id="stop73"
+       style="stop-color:#62c9ea;stop-opacity:1;" />
+    <stop
+       offset="0.72056699"
+       stop-color="#77767b"
+       id="stop75"
+       style="stop-color:#62c9ea;stop-opacity:1;" />
+    <stop
+       offset="1"
+       stop-color="#68666f"
+       id="stop77"
+       style="stop-color:#62c9ea;stop-opacity:1;" />
+  </linearGradient>
+  <path
+     d="m 20,15.8 h 88 c 4.41797,0 8,3.582031 8,8 v 80 c 0,4.41797 -3.58203,8 -8,8 H 20 c -4.417969,0 -8,-3.58203 -8,-8 v -80 c 0,-4.417969 3.582031,-8 8,-8 z m 0,0"
+     fill="url(#b)"
+     id="path82"
+     style="display:inline;fill:url(#b)" />
+  <path
+     d="m 20,17.8 h 88 c 3.3125,0 6,2.6875 6,6 v 80 c 0,3.3125 -2.6875,6 -6,6 H 20 c -3.3125,0 -6,-2.6875 -6,-6 v -80 c 0,-3.3125 2.6875,-6 6,-6 z m 0,0"
+     fill="#241f31"
+     id="path84" />
+  <g
+     fill="#62c9ea"
+     id="g90"
+     transform="translate(0,3.8)">
+    <path
+       d="M 46.011719,40.886719 32,33.273438 V 38 l 9.710938,4.628906 v 0.144532 L 32,48 v 4.726562 l 14.011719,-8.210937 z m 0,0"
+       id="path86" />
+    <path
+       d="m 50,56 v 4 h 16 v -4 z m 0,0"
+       id="path88" />
+  </g>
+</svg>
