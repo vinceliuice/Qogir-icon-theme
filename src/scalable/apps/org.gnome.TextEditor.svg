@@ -1,0 +1,41 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b-7" x1="22.004" x2="22.004" y1="44.854" y2="3.072" gradientTransform="matrix(.35276 0 0 .35276 -.044 280.38)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a0a0a0" offset="0"/>
+   <stop stop-color="#c8c8c8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <clipPath id="b">
+  <path d="m88 94h20v20h-20z"/>
+ </clipPath>
+ <clipPath id="c">
+  <path d="m108 94-20 20h-5.7148v-25.715h25.715z"/>
+ </clipPath>
+ <g transform="matrix(3.7796 0 0 3.7796 -5.9345e-8 -1058.5)">
+  <rect x="2.514" y="281.52" width="11.906" height="14.023" rx="0" ry="0" fill="#f3f3f3" stroke="#5e5750" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".255" stroke-width=".265" paint-order="fill markers stroke"/>
+  <rect transform="rotate(90)" x="287.23" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="287.95" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="291.44" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="292.41" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect x="13.049" y="281.65" width=".18" height="13.758" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect x="4.233" y="281.65" width=".18" height="13.758" rx="0" ry="0" fill="#f6b6b6" fill-opacity=".694" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="283.95" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <path d="m4.542 284.43h0.828m0.118 0h0.77m0.123 0h0.686m0.113 0h0.296m0.118 0h0.663m0.13 0h1.74m0.118 0h1.325m0.118 0h0.403m-7.55 0.794h1.285m0.15 0h0.613m0.113 0h0.303m0.123 0h0.566m0.118 0h0.58m0.11 0h0.91m0.118 0h1.2m-6.188 0.79h1.087m0.114 0h1.79m0.11 0h0.868m0.111 0h0.812m0.117 0h0.692m0.111 0 1.088 7e-3m-6.9 0.79h1.51m0.12 0h1.633m0.113 0h0.642m0.118 0h1.528m0.103 0h1.047m0.118 0h0.415m0.118 0h0.23m-7.695 0.794h0.564m0.173 0h2.089m-2.826 3.44h1.284m0.15 0h0.613m0.113 0h0.303m0.123 0h0.566m0.118 0h0.58m0.11 0h0.91m-4.87 1.047h1.087m0.114 0h1.79m0.11 0h0.868m3.068 0.022h1.773m-8.81-1.863h1.51m0.12 0h1.633m0.113 0h0.642m0.118 0h1.528m-5.664-1.587h0.828m0.118 0h0.77m0.123 0h0.686m0.113 0h0.296m0.118 0h0.663m0.13 0h1.74m0.118 0h1.325m-7.028 0.793h1.394m0.11 0h1.481m0.113 0h0.58m0.109 0h1.393m0.112 0h1.522m-6.814 3.44h1.303m0.14 0h0.575m0.134 0h0.287m0.091 0h0.566m0.075 0h2.996m0.14 0h0.8m0.108 0h0.202m-5.932 0.794h0.425m-1.91 0h1.36m0.659 0h0.989m0.105 0h1.452m0.113 0h0.985m0.1 0h0.202m0.111 0h1.251m0.128 0h0.655m-6.625 0.793h0.6m-2.085 0h1.36m0.855 0h0.844" fill="none" stroke="url(#b-7)" stroke-width=".265"/>
+  <rect transform="rotate(90)" x="284.74" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="285.53" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="286.33" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="287.95" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="288.97" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="289.77" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="290.56" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="293.21" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <rect transform="rotate(90)" x="294" y="-14.191" width=".09" height="11.545" rx="0" ry="0" fill="#bad5ff" fill-opacity=".592" paint-order="markers stroke fill"/>
+  <path d="m8.355 291.19c0.157-0.119 0.599 0.103 1.004 0.506s0.618 0.834 0.503 0.993c0 0 0.01 8e-3 0.01 0.01l5.647-5.676c0.143-0.144-0.08-0.6-0.498-1.016-0.418-0.417-0.875-0.637-1.018-0.493z" fill="#ff881e" stroke="#be6516" stroke-linejoin="round" stroke-width=".132"/>
+  <path d="m13.313 286.21c0.158-0.118 0.6 0.103 1.005 0.507 0.404 0.402 0.618 0.833 0.502 0.992l0.01 0.01 0.689-0.693 0.014-0.015-0.01-9e-3c0.116-0.159-0.097-0.59-0.502-0.992-0.406-0.404-0.847-0.625-1.004-0.507l-0.014 0.014z" fill="#cb2b31" opacity=".8" stroke="#ad3124" stroke-linejoin="round" stroke-width=".132"/>
+  <path d="m12.476 287.05c0.158-0.118 0.6 0.103 1.005 0.507 0.404 0.402 0.618 0.833 0.502 0.992l0.01 0.01 0.07-0.071-0.01-0.01c0.116-0.159-0.097-0.59-0.502-0.992-0.406-0.404-0.847-0.625-1.004-0.507l-0.07 0.07z" fill="#be6516"/>
+  <path d="m12.7 286.82c0.158-0.118 0.6 0.103 1.005 0.507 0.404 0.402 0.617 0.833 0.502 0.992l0.01 0.01 0.07-0.071-0.01-0.01c0.116-0.159-0.097-0.59-0.502-0.992-0.406-0.404-0.847-0.625-1.004-0.507l-0.07 0.07z" fill="#be6516"/>
+  <path d="m12.925 286.6c0.158-0.118 0.6 0.104 1.005 0.507 0.404 0.403 0.618 0.834 0.502 0.993l0.01 0.01 0.07-0.072-0.01-9e-3c0.116-0.159-0.097-0.59-0.502-0.992-0.406-0.404-0.847-0.625-1.004-0.507l-0.07 0.07z" fill="#be6516"/>
+  <path d="m7.273 293.76 2.57-1.048 0.021-0.022c0.115-0.159-0.1-0.59-0.505-0.992-0.406-0.404-0.847-0.624-1.004-0.506z" fill="#d0bb8e" fill-rule="evenodd" stroke="#9e8e6c" stroke-width=".132"/>
+  <path d="m7.566 293.06-0.294 0.692 0.701-0.287c-0.056-0.067-0.108-0.135-0.175-0.203a2.843 2.843 0 0 0-0.232-0.202z" fill="#0c0c0c" fill-rule="evenodd" stroke="#0c0c0c" stroke-width=".132"/>
+ </g>
+</svg>
