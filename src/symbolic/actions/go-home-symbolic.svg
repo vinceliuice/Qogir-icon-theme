@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g fill="#5d656b"><path d="M8 1.625l-.688.625-5.5 5L1 8v1h1v6h12V9h1V8l-1.063-1-5.25-4.75zm0 1.75L13 8v6h-3v-4H6v4H3V8zM7 11h2v3H7z"/><path style="marker:none" d="M11 3v2.25l1 .844V4h1v2.906l1 .844V3h-3z" color="#000" overflow="visible" fill-rule="evenodd" enable-background="accumulate"/></g></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="5" width="1" height="10" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect x="13" y="5" width="1" height="10" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="14" width="10" height="1" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(30)" x="7.4282" y="-3.134" width="9" height="1" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect transform="matrix(-.86603 .5 .5 .86603 0 0)" x="-6.4282" y="4.866" width="9" height="1" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <path d="m8 9c-1.108 0-2 0.892-2 2v4h1v-4c0-0.554 0.446-1 1-1s1 0.446 1 1v4h1v-4c0-1.108-0.892-2-2-2z" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="14" width="5" height="1" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+</svg>
