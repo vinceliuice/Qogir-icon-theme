@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M12 6a1 1 0 0 0-1 1 1 1 0 0 0 1 1 4 4 0 0 1 4 4h-2l3 4 3-4h-2a6 6 0 0 0-6-6zM7 8l-3 4h2a6 6 0 0 0 6 6 1 1 0 0 0 1-1 1 1 0 0 0-1-1 4 4 0 0 1-4-4h2z" fill="currentColor" color="#d3dae3"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <path d="m12.488 5.0175a7.006 7.006 0 0 0-7.488 6.982 7.006 7.006 0 0 0 5.192 6.762 7.009 7.009 0 0 0 7.877-3.262 0.50086 0.50086 0 1 0-0.868-0.5 5.999 5.999 0 0 1-6.752 2.795 5.996 5.996 0 0 1-4.449-5.795 5.996 5.996 0 0 1 10.71-3.709l-1.71 1.709h4v-4l-1.58 1.58a7.012 7.012 0 0 0-4.932-2.562z" color="#5d656b" fill="#d3dae3" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#5d656b;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+</svg>
