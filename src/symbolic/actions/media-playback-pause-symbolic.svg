@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g fill="#5d656b"><path d="M2 2v12h4V2zM10 2v12h4V2z"/></g></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="3" width="3" height="10" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ <rect x="9" y="3" width="3" height="10" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+</svg>
