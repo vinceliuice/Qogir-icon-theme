@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><path d="M3 2v12l11-6-9.9-5.4z" fill="#5d656b"/></svg>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6 4v8l6-4-5.4-3.6z" fill="#5d656b" stroke-width=".60302"/>
+ <path d="m8 0a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8zm0 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7z" fill="#5d656b" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+</svg>
