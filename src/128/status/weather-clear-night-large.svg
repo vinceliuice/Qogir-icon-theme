@@ -1,0 +1,24 @@
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <filter id="d" x="0" y="0" width="1" height="1">
+  <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+ </filter>
+ <mask id="i">
+  <g filter="url(#d)">
+   <path d="M0 0h128v128H0z" fill-opacity=".442"/>
+  </g>
+ </mask>
+ <clipPath id="h">
+  <path d="M0 0h128v128H0z"/>
+ </clipPath>
+ <mask id="n">
+  <g filter="url(#d)">
+   <path d="M0 0h128v128H0z" fill-opacity=".442"/>
+  </g>
+ </mask>
+ <clipPath id="m">
+  <path d="M0 0h128v128H0z"/>
+ </clipPath>
+ <path d="M126.148 21l-13.433 4.715L108 39.148l-4.715-13.433L89.852 21l13.433-4.715L108 2.852l4.715 13.433zm0 0" fill="#fcf8ba" stroke="#ddd47e" stroke-linejoin="round" stroke-width="2"/>
+ <path d="M107 53l-9.621 3.379L94 66l-3.379-9.621L81 53l9.621-3.379L94 40l3.379 9.621zm0 0" fill="#fcf8ba" stroke="#ddd47e" stroke-linejoin="round" stroke-width="2"/>
+ <path d="M63.852 4.645C31.07 4.645 4.496 31.219 4.496 64s26.574 59.355 59.356 59.355c24.105 0 45.816-14.578 54.937-36.894-2.68.504-5.402.754-8.129.754-24.472 0-44.308-19.84-44.308-44.309A44.322 44.322 0 0183.414 7.961a59.359 59.359 0 00-19.562-3.316zm0 0" fill="#f9f06b" stroke="#c3b928" stroke-linejoin="round" stroke-width="2"/>
+</svg>

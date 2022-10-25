@@ -1,0 +1,13 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 .14287)" stroke-width=".57143">
+  <path d="m6.2857 3.7143v9.1429h5.1429c2.5247 0 4.5714-2.0467 4.5714-4.5714 0-2.5247-2.0467-4.5714-4.5714-4.5714z" fill="#37353b"/>
+  <circle cx="6.2857" cy="6.5714" r="6.2857" fill="#37353b"/>
+  <path d="m6.2857 4.2857v8h5.1429a4 4 0 0 0 4-4 4 4 0 0 0-4-4z" fill="#5e5c64"/>
+  <circle cx="6.2857" cy="6.5714" r="5.7143" fill="#5e5c64"/>
+  <path d="m10.727 2.1143-0.40402 0.404a5.7143 5.7143 0 0 1 1.6763 4.0379 5.7143 5.7143 0 0 1-1.4911 3.8393l0.42299 0.38389a6.2857 6.2857 0 0 0 1.6395-4.2232 6.2857 6.2857 0 0 0-1.8438-4.4419z" fill="#37353b"/>
+ </g>
+ <circle cx="8.5" cy="11.5" r="3.5" fill="#ff9955" fill-rule="evenodd" stop-color="#000000" stroke="#e97020" style="paint-order:stroke fill markers"/>
+ <circle cx="8.5" cy="11.5" r="3.5" fill="#ff9955" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ <rect x="8" y="9" width="1" height="3" fill="#f9f9f9" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ <rect x="8" y="13" width="1" height="1" fill="#f9f9f9" fill-rule="evenodd" stop-color="#000000" style="paint-order:stroke fill markers"/>
+</svg>

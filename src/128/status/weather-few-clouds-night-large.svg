@@ -1,0 +1,25 @@
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <filter id="e" x="0" y="0" width="1" height="1">
+  <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+ </filter>
+ <mask id="j">
+  <g filter="url(#e)">
+   <path d="M0 0h128v128H0z" fill-opacity=".442"/>
+  </g>
+ </mask>
+ <clipPath id="i">
+  <path d="M0 0h128v128H0z"/>
+ </clipPath>
+ <mask id="p">
+  <g filter="url(#e)">
+   <path d="M0 0h128v128H0z" fill-opacity=".442"/>
+  </g>
+ </mask>
+ <clipPath id="o">
+  <path d="M0 0h128v128H0z"/>
+ </clipPath>
+ <path d="m126.15 21-13.433 4.715-4.715 13.433-4.715-13.433-13.433-4.715 13.433-4.715 4.715-13.433 4.715 13.433z" fill="#fcf8ba" stroke="#ddd47e" stroke-linejoin="round" stroke-width="2"/>
+ <path d="M 107,53 97.379,56.379 94,66 90.621,56.379 81,53 90.621,49.621 94,40 l 3.379,9.621 z m 0,0" fill="#fcf8ba" stroke="#ddd47e" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m63.852 4.645c-32.782 0-59.356 26.574-59.356 59.355s26.574 59.355 59.356 59.355c24.105 0 45.816-14.578 54.937-36.894-2.68 0.504-5.402 0.754-8.129 0.754-24.472 0-44.308-19.84-44.308-44.309a44.322 44.322 0 0 1 17.062-34.945 59.359 59.359 0 0 0-19.562-3.316z" fill="#f9f06b" stroke="#c3b928" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m90.03 67.469a20.008 20.008 0 0 0-18.17 11.675 15.018 15.018 0 0 0-6.846-1.67c-7.895 8e-3 -14.434 6.134-14.958 14.012-0.017-2e-3 -0.035-2e-3 -0.052-2e-3 -5.525 0-10.008 4.48-10.008 10.005 0 5.528 4.483 10.008 10.008 10.008h56.036c6.63 0 12.008-5.377 12.008-12.007a12.007 12.007 0 0 0-8.041-11.322c0.016-0.23 0.027-0.459 0.035-0.686 0-11.054-8.96-20.013-20.014-20.013z" fill="#f8fbfe" stroke="#c5d1dd" stroke-opacity=".94826" stroke-width="2"/>
+</svg>
