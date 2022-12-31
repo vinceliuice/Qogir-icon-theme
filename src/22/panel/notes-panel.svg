@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.2851562 3 C 4.0188705 3 3 4.0188706 3 5.2851562 L 3 16.714844 C 3 17.981129 4.0188706 19 5.2851562 19 L 16.714844 19 C 17.981129 19 19 17.981129 19 16.714844 L 19 5.2851562 C 19 4.0186419 17.981129 3 16.714844 3 L 5.2851562 3 z M 6 6 L 16 6 L 16 8 L 6 8 L 6 6 z M 6 10 L 16 10 L 16 12 L 6 12 L 6 10 z M 6 14 L 12 14 L 12 16 L 6 16 L 6 14 z"/>
+ <g class="ColorScheme-Text" transform="translate(-1,-1)" fill="currentColor">
+  <path d="m6 3c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1z"/>
+  <rect x="7" y="7" width="10" height="1" rx="0" ry="0"/>
+  <rect x="7" y="11" width="10" height="1" rx="0" ry="0"/>
+  <rect x="7" y="15" width="7" height="1" rx="0" ry="0"/>
+ </g>
 </svg>
