@@ -1,8 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.5871" y="1.5868" width="13.758" height="13.758" rx=".79352" ry=".79352" fill="#2196f3" stroke="#1a6bac" stroke-width=".52916" style="paint-order:markers stroke fill"/>
- <rect x="1.5871" y="1.5868" width="13.758" height="13.758" rx=".79352" ry=".79352" fill="#2196f3" stroke-width="1.0005" style="paint-order:markers stroke fill"/>
- <g transform="matrix(.79373 0 0 .79373 2.1166 -820.48)" fill="#fff" fill-opacity=".9">
-  <path transform="translate(0 1036.4)" d="m3 3v4h1v-3h3v-1zm6 0v1h3v3h1v-4zm-6 6v4h4v-1h-3v-3zm9 0v3h-3v1h4v-4z" color="#000000"/>
-  <path transform="translate(0 1036.4)" d="m5 5v6h6v-6zm1 1h4v4h-4z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#2196f3" stroke="#1a6bac" stroke-width=".529" rx=".794" ry=".794" style="paint-order:markers stroke fill"/><rect width="13.758" height="13.758" x="1.587" y="1.587" fill="#2196f3" rx=".794" ry=".794" style="paint-order:markers stroke fill"/><g fill="#fff" fill-opacity=".9"><path d="M4.498 4.523v3.175h.794V5.317h2.38v-.794zm4.762 0v.794h2.381v2.38h.794V4.524zM4.498 9.285v3.175h3.175v-.793H5.292V9.285zm7.143 0v2.382h-2.38v.793h3.174V9.285z" color="#000"/><path d="M6.085 6.11v4.763h4.763V6.11zm.794.794h3.175v3.175H6.879z"/></g></svg>

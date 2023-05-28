@@ -1,9 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 15.999)">
-  <path d="m0-16h64v64h-64z" fill="none"/>
-  <rect transform="rotate(90)" x="-7" y="-59" width="46" height="54" ry="0" color="#bebebe" fill="#cad945" overflow="visible"/>
-  <rect transform="rotate(90)" x="-7.5" y="-59.5" width="47" height="55" ry="0" color="#bebebe" fill="none" overflow="visible" stroke="#70781f" stroke-opacity=".78431"/>
-  <path d="m32-7h1v46h-1z" opacity=".15"/>
- </g>
- <path d="m40.238 28.872 3.0333-3.0333c0.46667-0.46667 0.46667-1.19 0-1.6567-0.46667-0.46667-1.19-0.46667-1.6567 0l-3.4533 3.4533c-1.8433-0.93334-3.9433-1.47-6.16-1.47-2.24 0-4.3401 0.53666-6.2065 1.47l-3.4767-3.4533c-0.46667-0.46667-1.19-0.46667-1.6567 0-0.46667 0.46667-0.46667 1.19 0 1.6567l3.0567 3.0567c-3.4533 2.5433-5.7166 6.6268-5.7166 11.27h28c0-4.6432-2.2633-8.7502-5.7635-11.293zm-13.237 6.2934h-2v-2h2zm12 0h-2v-2h2z" enable-background="new" fill="#0c2809" opacity=".5" stroke-width="2.3333"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><g transform="translate(0 15.999)"><path fill="none" d="M0-16h64v64H0z"/><rect width="46" height="54" x="-7" y="-59" fill="#cad945" color="#bebebe" overflow="visible" ry="0" transform="rotate(90)"/><rect width="47" height="55" x="-7.5" y="-59.5" fill="none" stroke="#70781f" stroke-opacity=".784" color="#bebebe" overflow="visible" ry="0" transform="rotate(90)"/><path d="M32-7h1v46h-1z" opacity=".15"/></g><path fill="#0c2809" d="m40.238 28.872 3.033-3.033a1.155 1.155 0 0 0 0-1.657 1.155 1.155 0 0 0-1.656 0l-3.454 3.453a13.625 13.625 0 0 0-6.16-1.47c-2.24 0-4.34.537-6.206 1.47l-3.477-3.453a1.155 1.155 0 0 0-1.657 0 1.155 1.155 0 0 0 0 1.657l3.057 3.056c-3.453 2.544-5.716 6.627-5.716 11.27h28c0-4.643-2.264-8.75-5.764-11.293zm-13.237 6.293h-2v-2h2zm12 0h-2v-2h2z" opacity=".5"/></svg>

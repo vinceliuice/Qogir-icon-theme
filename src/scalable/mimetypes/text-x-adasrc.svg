@@ -1,6 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect y="-.012027" width="64" height="64" rx="0" ry="0" fill="none" opacity=".75"/>
- <path d="m8.9992 1.0016h46.002v59h-45.998v-59z" color="#000000" fill="#12cdad" overflow="visible" stroke-width="3.7796"/>
- <path d="m8.5003 0.49889 46.999 0.00378v59.997h-46.996v-60.001z" color="#000000" fill="none" overflow="visible" stroke="#0f9c85" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0016"/>
- <path d="m21 19.501v1h22v-1zm0 3v1h22v-1zm0 3v1h11v-1zm0 4v1h22v-1zm0 3v1h19v-1zm0 2v1h11v-1zm0 3v1h22v-1zm0 3v1h16v-1z" fill="#127666"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="64" height="64" y="-.012" fill="none" opacity=".75" rx="0" ry="0"/><path fill="#12cdad" d="M9 1.002H55v59H9.003v-59z" color="#000" overflow="visible"/><path fill="none" stroke="#0f9c85" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.002" d="m8.5.499 47 .004V60.5H8.502V.499z" color="#000" overflow="visible"/><path fill="#127666" d="M21 19.501v1h22v-1zm0 3v1h22v-1zm0 3v1h11v-1zm0 4v1h22v-1zm0 3v1h19v-1zm0 2v1h11v-1zm0 3v1h22v-1zm0 3v1h16v-1z"/></svg>

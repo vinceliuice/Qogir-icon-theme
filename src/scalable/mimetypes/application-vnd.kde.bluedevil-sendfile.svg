@@ -1,14 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.26458 0 0 .26458 -.15809 -261.5)">
-  <path d="m8.991 989.37 46.01 4e-3v57.985h-46.009v-57.989z" fill="#567dd2"/>
-  <path transform="matrix(1.3428 0 0 1.3408 -.228 988.19)" d="m6.5 0.5 35 3e-3v44.003h-35z" fill="none" opacity=".75" stroke="#183878" stroke-linejoin="round" stroke-width=".745"/>
-  <rect y="988.36" width="64" height="64" rx="0" ry="0" fill="none" opacity=".75"/>
- </g>
- <path d="m6.879 6.176 2.9935 2.9935-1.4968 1.4136v-5.8207l1.4968 1.4136-2.9935 2.6609" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".33261"/>
- <g transform="translate(0 -.79368)" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916">
-  <circle cx="5.2916" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="6.3499" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="10.583" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="11.641" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(-.158 -261.5) scale(.26458)"><path fill="#567dd2" d="m8.991 989.37 46.01.004v57.985H8.992V989.37z"/><path fill="none" stroke="#183878" stroke-linejoin="round" stroke-width=".745" d="m6.5.5 35 .003v44.003h-35z" opacity=".75" transform="matrix(1.3428 0 0 1.3408 -.228 988.19)"/><rect width="64" height="64" y="988.36" fill="none" opacity=".75" rx="0" ry="0"/></g><path fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".333" d="M6.879 6.176 9.873 9.17l-1.497 1.413v-5.82l1.496 1.413-2.993 2.66"/><g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529" transform="translate(0 -.794)"><circle cx="5.292" cy="8.466" r=".265" style="paint-order:stroke fill markers"/><circle cx="6.35" cy="8.466" r=".265" style="paint-order:stroke fill markers"/><circle cx="10.583" cy="8.466" r=".265" style="paint-order:stroke fill markers"/><circle cx="11.641" cy="8.466" r=".265" style="paint-order:stroke fill markers"/></g></svg>

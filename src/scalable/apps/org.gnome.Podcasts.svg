@@ -1,12 +1,1 @@
-<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <title>Adwaita Icon Template</title>
- <rect x="2" y="8" width="60" height="48" rx="4.2857" ry="5.0526" enable-background="new" fill="#ed333b" stroke="#b42027" stroke-width="2"/>
- <rect x="2" y="8" width="60" height="48" rx="4.2857" ry="5.0526" enable-background="new" fill="#ed333b"/>
- <path d="m17 56h30l-2.1429-10h-25.714z" enable-background="new" opacity=".35"/>
- <path d="m10.333 12h43.333l4.3333 4.5333v29.467h-52v-29.467z" enable-background="new" fill="#f6f5f4"/>
- <rect x="6" y="21" width="52" height="18" enable-background="new" fill="#424048"/>
- <circle cx="19" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>
- <circle cx="45.818" cy="30" r="4" enable-background="new" fill="#f6f5f4"/>
- <rect x="25" y="26" width="14" height="8" enable-background="new" fill="#949390"/>
- <path d="m25 26v8h8.222c0.28198-1.2899 0.44153-2.6255 0.44153-4s-0.15955-2.7101-0.44153-4z" enable-background="new" fill="#424048" opacity=".5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.0"><rect width="60" height="48" x="2" y="8" fill="#ed333b" stroke="#b42027" stroke-width="2" rx="4.286" ry="5.053"/><rect width="60" height="48" x="2" y="8" fill="#ed333b" rx="4.286" ry="5.053"/><path d="M17 56h30l-2.143-10H19.143z" opacity=".35"/><path fill="#f6f5f4" d="M10.333 12h43.333l4.333 4.533V46H6V16.533z"/><path fill="#424048" d="M6 21h52v18H6z"/><circle cx="19" cy="30" r="4" fill="#f6f5f4"/><circle cx="45.818" cy="30" r="4" fill="#f6f5f4"/><path fill="#949390" d="M25 26h14v8H25z"/><path fill="#424048" d="M25 26v8h8.222c.282-1.29.442-2.626.442-4s-.16-2.71-.442-4z" opacity=".5"/></svg>

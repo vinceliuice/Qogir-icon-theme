@@ -1,14 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <rect y="-.012032" width="64" height="64" rx="0" ry="0" fill="none" opacity=".75"/>
- <path d="m8.9917 1.0091h46.013v57.99h-46.013z" fill="#396939" stroke-width="3.7796"/>
- <g fill="none">
-  <path d="m8.502 0.50029 47.001 0.004022v58.998h-47.001z" stroke="#264026" stroke-linejoin="round" stroke-opacity=".8" stroke-width=".99967"/>
-  <g stroke="#fff" stroke-width="1.0016">
-   <path d="m37.501 7.7406v44.803m-10.001-44.803v44.8" stroke-opacity=".324"/>
-   <path d="m48.201 10.5h-34.202m3.4999-2.8082v44.989"/>
-   <path d="m48.443 14.499h-34.137m34.137 36.001h-34.137m34.137-3.9988h-34.137m34.137-3.9988h-34.137m34.137-4.0026h-34.137m34.137-3.9988h-34.137m34.137-3.9988h-34.137m34.137-4.0026h-34.137m34.137-3.9988h-34.137m34.137-3.9988h-34.137" stroke-opacity=".324"/>
-   <path d="m14.499 7.4987h34.001v45.004h-34.001z" stroke-linecap="square"/>
-  </g>
- </g>
- <path d="m15.001 8.0014h33v1.9994h-33zm1.9994 2.9972v41.001h-2.0032v-41.001z" fill="#fff" fill-opacity=".49" stroke-width="3.7796"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="64" height="64" y="-.012" fill="none" opacity=".75" rx="0" ry="0"/><path fill="#396939" d="M8.992 1.01h46.013V59H8.992z"/><g fill="none"><path stroke="#264026" stroke-linejoin="round" stroke-opacity=".8" d="m8.502.5 47.001.004v58.998H8.502z"/><g stroke="#fff" stroke-width="1.002"><path stroke-opacity=".324" d="M37.501 7.74v44.804M27.5 7.74v44.8"/><path d="M48.201 10.5H13.999m3.5-2.808V52.68"/><path stroke-opacity=".324" d="M48.443 14.499H14.306M48.443 50.5H14.306m34.137-3.999H14.306m34.137-3.999H14.306M48.443 38.5H14.306M48.443 34.5H14.306m34.137-3.999H14.306M48.443 26.5H14.306m34.137-4H14.306m34.137-3.998H14.306"/><path stroke-linecap="square" d="M14.499 7.499H48.5v45.004H14.499z"/></g></g><path fill="#fff" fill-opacity=".49" d="M15.001 8.001h33v2h-33zm2 2.998v41h-2.004V11z"/></svg>
