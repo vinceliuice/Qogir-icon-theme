@@ -50,7 +50,9 @@ install() {
       cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
     fi
 
-    cp -r "${SRC_DIR}/src/cursors/dist${theme}${cursors_color}/cursors" "${THEME_DIR}"
+    if [[ ${color} != '-light' ]]; then
+      cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
+    fi
 
     cd "${THEME_DIR}" || exit 1
     sed -i "s/${name}/${name}${theme}${color}/g" index.theme
@@ -74,6 +76,7 @@ install() {
         cp -r "${SRC_DIR}"/links/24/panel "${THEME_DIR}/24"
 
         cd "${dest}" || exit 1
+        ln -sf "../${name}${theme}/cursors" "${name}${theme}-light/cursors"
         ln -sf "../${name}${theme}/scalable" "${name}${theme}-light/scalable"
         ln -sf "../${name}${theme}/symbolic" "${name}${theme}-light/symbolic"
         ln -sf "../${name}${theme}/32" "${name}${theme}-light/32"
