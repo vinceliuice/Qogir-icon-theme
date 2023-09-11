@@ -1,7 +1,1 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-384.57 -515.8)">
-  <path d="m400.57 517.3c-8 0-14.5 6.5-14.5 14.5s6.5 14.5 14.5 14.5 14.5-6.5 14.5-14.5-6.5-14.5-14.5-14.5z" color="#000000" fill="#ececec" overflow="visible"/>
-  <path d="m400.57 517.3c-8 0-14.498 6.498-14.498 14.498s6.498 14.498 14.498 14.498 14.498-6.498 14.498-14.498-6.498-14.498-14.498-14.498z" color="#000000" fill="none" opacity=".35" overflow="visible" solid-color="#000000" stroke="#000" stroke-linecap="round" stroke-linejoin="round" style="isolation:auto;mix-blend-mode:normal"/>
-  <path transform="translate(384.57 515.8)" d="m16 14c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm-6 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2zm12 0c-1.108 0-2 0.892-2 2s0.892 2 2 2 2-0.892 2-2-0.892-2-2-2z" fill="#808080"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path fill="#ececec" d="M16 1.5C8 1.5 1.5 8 1.5 16S8 30.5 16 30.5 30.5 24 30.5 16 24 1.5 16 1.5z" color="#000" overflow="visible"/><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" d="M400.57 517.3c-8 0-14.498 6.498-14.498 14.498s6.498 14.498 14.498 14.498 14.498-6.498 14.498-14.498S408.57 517.3 400.57 517.3z" color="#000" opacity=".35" overflow="visible" style="isolation:auto;mix-blend-mode:normal" transform="translate(-384.57 -515.8)"/><path fill="gray" d="M16 14c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm-6 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm12 0c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2z"/></svg>
