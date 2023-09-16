@@ -1,14 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -280.07)" paint-order="stroke markers fill">
-  <path d="M1.587 282.977h13.758v11.113H1.587z" fill="#fff" stroke="#000" stroke-opacity=".29412" stroke-width=".52916"/>
-  <path d="M1.587 282.977h13.758v11.113H1.587z" fill="#fff"/>
-  <path d="M2.381 283.771h12.171v9.525H2.381z" fill="#4985cc"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M12.678 26.002A36.125 36.125 0 0 0 9 26.23V50h37.668a36.125 36.125 0 0 0-33.99-23.998z" opacity=".15"/>
-  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="M55 33.22A36.125 36.125 0 0 0 29.932 50H55V33.22z" opacity=".15"/>
- </g>
- <g transform="translate(-.13313 -.1713)" fill="#fff" opacity=".5" stroke-width=".26458">
-  <path d="m5.1601 5.1983v1.852h0.52916v-1.3229h1.3229v-0.52916zm5.027 0v0.52916h1.3229v1.3229h0.52916v-1.852zm-5.027 5.027v1.852h1.852v-0.52916h-1.3229v-1.3229zm6.3499 0v1.3229h-1.3229v0.52916h1.852v-1.852z"/>
-  <rect transform="rotate(45)" x="11.253" y="-2.4049" width=".52916" height="2.1166"/>
-  <path d="m6.7475 7.0504 1.5875 1.852v1.5875h-1.0583v0.52916h2.6458v-0.52916h-1.0583v-1.5875l1.5875-1.852z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g paint-order="stroke markers fill"><path fill="#fff" stroke="#000" stroke-opacity=".294" stroke-width=".529" d="M1.587 2.907h13.758V14.02H1.587z"/><path fill="#fff" d="M1.587 2.907h13.758V14.02H1.587z"/><path fill="#4985cc" d="M2.381 3.701h12.171v9.525H2.381z"/><path d="M3.354 6.88a9.558 9.558 0 0 0-.973.06v6.289h9.966a9.558 9.558 0 0 0-8.993-6.35z" opacity=".15"/><path d="M14.552 8.79a9.558 9.558 0 0 0-6.633 4.439h6.633v-4.44z" opacity=".15"/></g><g fill="#fff" stroke-width=".265" opacity=".5"><path d="M5.027 5.027v1.852h.53V5.556h1.322v-.53zm5.027 0v.53h1.323v1.322h.529V5.027zm-5.027 5.027v1.852h1.852v-.53H5.556v-1.322zm6.35 0v1.323h-1.323v.53h1.852v-1.853zM9.525 6.085l.374.374-1.497 1.497-.374-.374z"/><path d="M6.614 6.88 8.202 8.73v1.588H7.144v.529h2.645v-.53H8.731V8.732L10.32 6.88z"/></g></svg>

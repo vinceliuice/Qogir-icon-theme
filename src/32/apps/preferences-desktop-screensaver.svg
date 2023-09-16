@@ -1,9 +1,1 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-384.57 -515.8)">
-  <path d="m397.81 538.27c-0.404 0-0.73 0.275-0.729 0.616v4.845l-2.277 0.154c-0.404 0-0.728 0.275-0.728 0.616v0.769h13v-0.769c0-0.34-0.325-0.616-0.729-0.616l-2.267-0.154v-4.845c0-0.341-0.325-0.616-0.729-0.616z" fill="none" stroke="#42557f" stroke-opacity=".291"/>
-  <path d="m398.03 538.18c-0.26 0-0.452 0.184-0.45 0.407v5.349l-2.545 0.184h-0.01c-0.26 0-0.45 0.184-0.45 0.407v0.269h12v-0.269c0-0.223-0.19-0.407-0.45-0.407h-0.012l-2.543-0.184v-5.349c0-0.223-0.19-0.407-0.45-0.407z" fill="#fafafa"/>
-  <rect x="385.57" y="517.8" width="30" height="21" rx="1.0345" ry="1.1053" fill="#434855" stroke="#252831" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784" stroke-width="2"/>
-  <path d="m386.57 518.8h28v19.071h-28z" fill="#5294e2" fill-rule="evenodd" stroke-width="1.0293"/>
-  <path d="m400.57 520.8c-1.662 0-3 1.338-3 3v1h1v-1c0-1.4542 0.75351-2 2-2 1.2465 0 2 0.5458 2 2v4h-7v7h10v-7h-2v-4c0-1.662-1.338-3-3-3zm-4 8h8v5h-8v-5z" fill="#fff"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g transform="translate(-384.57 -515.8)"><path fill="none" stroke="#42557f" stroke-opacity=".291" d="M397.81 538.27c-.404 0-.73.275-.729.616v4.845l-2.277.154c-.404 0-.728.275-.728.616v.769h13v-.769c0-.34-.325-.616-.729-.616l-2.267-.154v-4.845c0-.341-.325-.616-.729-.616z"/><path fill="#fafafa" d="M398.03 538.18c-.26 0-.452.184-.45.407v5.349l-2.545.184h-.01c-.26 0-.45.184-.45.407v.269h12v-.269c0-.223-.19-.407-.45-.407h-.012l-2.543-.184v-5.349c0-.223-.19-.407-.45-.407z"/><rect width="30" height="21" x="385.57" y="517.8" fill="#434855" stroke="#252831" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784" stroke-width="2" rx="1.034" ry="1.105"/><path fill="#5294e2" fill-rule="evenodd" d="M386.57 518.8h28v19.071h-28z"/><path fill="#fff" d="M400.57 520.8c-1.662 0-3 1.338-3 3v1h1v-1c0-1.454.754-2 2-2s2 .546 2 2v4h-7v7h10v-7h-2v-4c0-1.662-1.338-3-3-3zm-4 8h8v5h-8v-5z"/></g></svg>

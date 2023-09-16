@@ -14,7 +14,7 @@ SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
 
 THEME_NAME=Qogir
 THEME_VARIANTS=('' '-manjaro' '-ubuntu')
-COLOR_VARIANTS=('' '-dark')
+COLOR_VARIANTS=('' '-light' '-dark')
 
 usage() {
     printf "%s\n" "Usage: $0 [OPTIONS...]"
@@ -34,6 +34,8 @@ install() {
 
     local THEME_DIR=${dest}/${name}${theme}${color}
 
+  [[ "$color" == '-dark' ]] && local cursors_color="$color"
+
     [[ -d ${THEME_DIR} ]] && rm -rf "${THEME_DIR}"
 
     echo "Installing '${THEME_DIR}'..."
@@ -48,29 +50,66 @@ install() {
       cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
     fi
 
-    cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
+    if [[ ${color} != '-light' ]]; then
+      cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
+    fi
 
     cd "${THEME_DIR}" || exit 1
     sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
     if [[ ${color} == '' ]]; then
-        cp -r "${SRC_DIR}"/src/{16,22,24,32,48,96,128,scalable,symbolic} "${THEME_DIR}"
-        cp -r "${SRC_DIR}"/links/{16,22,24,32,48,96,128,scalable,symbolic} "${THEME_DIR}"
-        [[ ${theme} != '' ]] && \
-        cp -r "${SRC_DIR}"/src/theme"${theme}"/* "${THEME_DIR}"
+      cp -r "${SRC_DIR}"/src/{16,22,24,32,48,96,128,scalable,symbolic} "${THEME_DIR}"
+      cp -r "${SRC_DIR}"/links/{16,22,24,32,48,96,128,scalable,symbolic} "${THEME_DIR}"
+      [[ ${theme} != '' ]] && \
+      cp -r "${SRC_DIR}"/src/theme"${theme}"/* "${THEME_DIR}"
+    elif [[ ${color} == '-light' ]]; then
+        mkdir -p "${THEME_DIR}"/{16,22,24}
+
+        cp -r "${SRC_DIR}"/src/16/panel "${THEME_DIR}/16"
+        cp -r "${SRC_DIR}"/src/22/panel "${THEME_DIR}/22"
+        cp -r "${SRC_DIR}"/src/24/panel "${THEME_DIR}/24"
+
+        sed -i "s/#d3dae3/#5d656b/g" "${THEME_DIR}"/{16,22,24}/panel/*.svg
+
+        cp -r "${SRC_DIR}"/links/16/panel "${THEME_DIR}/16"
+        cp -r "${SRC_DIR}"/links/22/panel "${THEME_DIR}/22"
+        cp -r "${SRC_DIR}"/links/24/panel "${THEME_DIR}/24"
+
+        cd "${dest}" || exit 1
+        ln -sf "../${name}${theme}/cursors" "${name}${theme}-light/cursors"
+        ln -sf "../${name}${theme}/scalable" "${name}${theme}-light/scalable"
+        ln -sf "../${name}${theme}/symbolic" "${name}${theme}-light/symbolic"
+        ln -sf "../${name}${theme}/32" "${name}${theme}-light/32"
+        ln -sf "../${name}${theme}/48" "${name}${theme}-light/48"
+        ln -sf "../${name}${theme}/96" "${name}${theme}-light/96"
+        ln -sf "../${name}${theme}/128" "${name}${theme}-light/128"
+        ln -sf "../../${name}${theme}/16/apps" "${name}${theme}-light/16/apps"
+        ln -sf "../../${name}${theme}/16/actions" "${name}${theme}-light/16/actions"
+        ln -sf "../../${name}${theme}/16/places" "${name}${theme}-light/16/places"
+        ln -sf "../../${name}${theme}/16/devices" "${name}${theme}-light/16/devices"
+        ln -sf "../../${name}${theme}/16/emblems" "${name}${theme}-light/16/emblems"
+        ln -sf "../../${name}${theme}/16/mimetypes" "${name}${theme}-light/16/mimetypes"
+        ln -sf "../../${name}${theme}/16/status" "${name}${theme}-light/16/status"
+        ln -sf "../../${name}${theme}/22/emblems" "${name}${theme}-light/22/emblems"
+        ln -sf "../../${name}${theme}/22/mimetypes" "${name}${theme}-light/22/mimetypes"
+        ln -sf "../../${name}${theme}/22/actions" "${name}${theme}-light/22/actions"
+        ln -sf "../../${name}${theme}/22/places" "${name}${theme}-light/22/places"
+        ln -sf "../../${name}${theme}/22/devices" "${name}${theme}-light/22/devices"
+        ln -sf "../../${name}${theme}/24/animations" "${name}${theme}-light/24/animations"
+        ln -sf "../../${name}${theme}/24/actions" "${name}${theme}-light/24/actions"
+        ln -sf "../../${name}${theme}/24/places" "${name}${theme}-light/24/places"
+        ln -sf "../../${name}${theme}/24/devices" "${name}${theme}-light/24/devices"
     else
-        mkdir -p "${THEME_DIR}/16"
-        mkdir -p "${THEME_DIR}/22"
-        mkdir -p "${THEME_DIR}/24"
-        mkdir -p "${THEME_DIR}/32"
+        mkdir -p "${THEME_DIR}"/{16,22,24,32}
+
         cp -r "${SRC_DIR}"/src/16/{actions,places,devices} "${THEME_DIR}/16"
         cp -r "${SRC_DIR}"/src/22/{actions,places,devices} "${THEME_DIR}/22"
         cp -r "${SRC_DIR}"/src/24/{actions,places,devices} "${THEME_DIR}/24"
         cp -r "${SRC_DIR}"/src/32/actions "${THEME_DIR}/32"
 
-        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24,32}/actions/*
-        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/places/*
-        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/devices/*
+        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24,32}/actions/*.svg
+        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/places/*.svg
+        sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/devices/*.svg
         
         cp -r "${SRC_DIR}"/links/16/{actions,places,devices} "${THEME_DIR}/16"
         cp -r "${SRC_DIR}"/links/22/{actions,places,devices} "${THEME_DIR}/22"
