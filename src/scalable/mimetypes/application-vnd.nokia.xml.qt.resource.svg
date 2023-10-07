@@ -1,0 +1,8 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1 0 0 1 0 -988.37)">
+  <path d="m8.991 989.37 46.01 4e-3v57.985h-46.009v-57.989z" fill="#008a50"/>
+  <path transform="matrix(1.3428 0 0 1.3408 -.228 988.19)" d="m6.5 0.5 35 3e-3v44.003h-35z" fill="none" opacity=".75" stroke="#004026" stroke-linejoin="round" stroke-width=".745"/>
+  <rect y="988.36" width="64" height="64" rx="0" ry="0" fill="none" opacity=".75"/>
+ </g>
+ <path d="m34.05 24.68-5.318 17.59h1.045l5.318-17.59zm-9.05 3.318-6 6 6 6 0.707-0.707-5.293-5.293 5.293-5.293zm12.707 0.25-0.707 0.707 5.293 5.293-5.293 5.293 0.707 0.707 6-6-0.707-0.707z" color="#000000" color-rendering="auto" fill="#ffffff" image-rendering="auto" opacity=".75" shape-rendering="auto" text-rendering="auto"/>
+</svg>
