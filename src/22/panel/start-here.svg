@@ -1,16 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#4285f4; }</style>
  </defs>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="4" y="4" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="4" y="9" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="4" y="14" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="9" y="4" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="9" y="9" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="9" y="14" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="14" y="4" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="14" y="9" rx=".5" ry=".5"/>
- <rect style="fill:currentColor" class="ColorScheme-Text" width="3" height="3" x="14" y="14" rx=".5" ry=".5"/>
+ <path class="ColorScheme-Text" d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 1.2857a7.7143 7.7143 0 0 1 7.7143 7.7143 7.7143 7.7143 0 0 1-7.7143 7.7143 7.7143 7.7143 0 0 1-7.7143-7.7143 7.7143 7.7143 0 0 1 7.7143-7.7143z" fill="currentColor" stroke-width="1.2857"/>
+ <circle class="ColorScheme-Text" cx="11" cy="11" r="5" fill="currentColor" opacity=".45" stroke-width="1.25"/>
 </svg>

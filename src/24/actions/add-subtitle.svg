@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24" width="24" height="24">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#5d656b;
       }</style>
-  </defs>
-  <g transform="translate(1,1)">
-    <path class="ColorScheme-Text" d="m12.988351 13.005255v0.999097h4.009739v-0.999097zm-7.9879705-1.993516v1.004563h11.99611v-1.004563zm0 1.992483v0.999097h6.0046925v-0.999097zm-2.0083673-8.0012635v12.002158h16.017557v-12.002158zm1.0136936 1.0060301h13.999508v10.002165h-13.999508z" fill="currentColor"/>
-  </g>
+ </defs>
+ <path class="ColorScheme-Text" d="m6 12v1.0039h12v-1.0039zm0 2v1h6.0059v-1zm7.9883 2e-3v0.99805h4.0117v-0.99805z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m6 6c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z" fill="currentColor"/>
 </svg>

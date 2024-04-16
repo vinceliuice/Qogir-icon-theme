@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#5d656b;
+      }</style>
+ </defs>
+ <rect x="3" y="3" width="26" height="26" rx="6" ry="6" fill="#919095" stroke="#747378" stroke-width="2"/>
+ <rect x="3" y="3" width="26" height="26" rx="6" ry="6" fill="#919095"/>
+ <g fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6">
+  <circle cx="9" cy="16" r="2" style="paint-order:stroke fill markers"/>
+  <circle cx="16" cy="16" r="2" style="paint-order:stroke fill markers"/>
+  <circle cx="23" cy="16" r="2" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

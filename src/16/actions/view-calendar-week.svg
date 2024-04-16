@@ -1,21 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#5d656b;
       }
       .ColorScheme-PositiveText {
         color:#27ae60;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m2 2v12h12v-12h-2v2h-2v-2h-4v2h-2v-2h-2m1 3h10v8h-10v-8m1 1v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2" 
-     class="ColorScheme-Text"/>
- <path 
-     d="m4 9v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2z"
-       style="fill:currentColor;fill-opacity:1;stroke:none" 
-     class="ColorScheme-PositiveText"
-   />
+      }</style>
+ </defs>
+ <g>
+  <path class="ColorScheme-Text" fill="currentColor" d="m2 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h11c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 3h11c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="5" y="5" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="8" y="5" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="11" y="5" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="5" y="8" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="8" y="8" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="11" y="8" width="2" height="2" ry=".5"/>
+  <rect class="ColorScheme-Text" fill="currentColor" x="2" y="8" width="2" height="2" ry=".5"/>
+  <g>
+   <rect class="ColorScheme-PositiveText" fill="currentColor" x="2" y="11" width="2" height="2" ry=".5"/>
+   <rect class="ColorScheme-PositiveText" fill="currentColor" x="5" y="11" width="2" height="2" ry=".5"/>
+   <rect class="ColorScheme-PositiveText" fill="currentColor" x="8" y="11" width="2" height="2" ry=".5"/>
+  </g>
+ </g>
 </svg>

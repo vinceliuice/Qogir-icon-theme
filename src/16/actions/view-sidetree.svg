@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#5d656b;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-       d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 4 L 13 4 L 13 13 L 3 13 L 3 4 z M 4 5 L 4 12 L 7 12 L 7 11 L 9 11 L 9 12 L 12 12 L 12 9 L 9 9 L 9 10 L 7 10 L 7 7 L 9 7 L 9 8 L 12 8 L 12 5 L 9 5 L 9 6 L 7 6 L 7 5 L 4 5 z M 10 6 L 11 6 L 11 7 L 10 7 L 10 6 z M 10 10 L 11 10 L 11 11 L 10 11 L 10 10 z "
-     class="ColorScheme-Text"
-     />
+      }</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <path class="ColorScheme-Text" d="m2 2c-1.108 0-2 0.892-2 2v9.0547c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9.0547c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v9.0547c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9.0547c0-0.554 0.446-1 1-1z"/>
+  <rect class="ColorScheme-Text" transform="rotate(-90)" x="-7" y="2.7113e-15" width="1" height="16" ry="0"/>
+  <rect class="ColorScheme-Text" x="5" y="7" width="1" height="7.7603" ry="0"/>
+  <rect class="ColorScheme-Text" transform="rotate(-90)" x="-10" y="8" width="1" height="5" ry="0" stroke-width=".55902"/>
+  <rect class="ColorScheme-Text" transform="rotate(-90)" x="-12" y="8" width="1" height="5" ry="0" stroke-width=".55902"/>
+ </g>
 </svg>
