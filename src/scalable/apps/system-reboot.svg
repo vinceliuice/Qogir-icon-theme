@@ -1,16 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0 -1058.5)">
-  <circle cx="32" cy="1090.5" r="27" fill="#26c6da" stroke-width=".96429"/>
-  <circle transform="scale(1,-1)" cx="32" cy="-1090.5" r="26" fill="#4dd0e1" stroke-width=".96572"/>
-  <g transform="translate(0 -1)" fill="#fff">
-   <rect x="30" y="1074.5" width="4" height="8" ry="2"/>
-   <rect x="30" y="1100.5" width="4" height="8" ry="2"/>
-   <rect transform="rotate(90)" x="1089.5" y="-49" width="4" height="8" ry="2"/>
-   <rect transform="rotate(90)" x="1089.5" y="-23" width="4" height="8" ry="2"/>
-   <rect transform="rotate(135)" x="747.19" y="-811.45" width="4" height="8" ry="2"/>
-   <rect transform="rotate(135)" x="747.19" y="-785.45" width="4" height="8" ry="2"/>
-   <rect transform="rotate(45)" x="792.45" y="732.19" width="4" height="8" ry="2"/>
-   <rect transform="rotate(45)" x="792.45" y="758.19" width="4" height="8" ry="2"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><g transform="translate(0 -1058.5)"><circle cx="32" cy="1090.5" r="27" fill="#26c6da"/><circle cx="32" cy="-1090.5" r="26" fill="#4dd0e1" transform="scale(1 -1)"/><g fill="#fff" transform="translate(0 -1)"><rect width="4" height="8" x="30" y="1074.5" ry="2"/><rect width="4" height="8" x="30" y="1100.5" ry="2"/><rect width="4" height="8" x="1089.5" y="-49" ry="2" transform="rotate(90)"/><rect width="4" height="8" x="1089.5" y="-23" ry="2" transform="rotate(90)"/><rect width="4" height="8" x="747.19" y="-811.45" ry="2" transform="rotate(135)"/><rect width="4" height="8" x="747.19" y="-785.45" ry="2" transform="rotate(135)"/><rect width="4" height="8" x="792.45" y="732.19" ry="2" transform="rotate(45)"/><rect width="4" height="8" x="792.45" y="758.19" ry="2" transform="rotate(45)"/></g></g></svg>
