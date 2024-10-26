@@ -11,11 +11,11 @@ else
 fi
 
 cp -r dist/ $DEST_DIR/Qogir-cursors
-cp -r dist-dark/ $DEST_DIR/Qogir-white-cursors
-cp -r dist-ubuntu/ $DEST_DIR/Qogir-ubuntu-cursors
-cp -r dist-ubuntu-dark/ $DEST_DIR/Qogir-ubuntu-white-cursors
-cp -r dist-manjaro/ $DEST_DIR/Qogir-manjaro-cursors
-cp -r dist-manjaro-dark/ $DEST_DIR/Qogir-manjaro-white-cursors
+cp -r dist-Dark/ $DEST_DIR/Qogir-white-cursors
+cp -r dist-Ubuntu/ $DEST_DIR/Qogir-Ubuntu-cursors
+cp -r dist-Ubuntu-Dark/ $DEST_DIR/Qogir-Ubuntu-white-cursors
+cp -r dist-Manjaro/ $DEST_DIR/Qogir-Manjaro-cursors
+cp -r dist-Manjaro-Dark/ $DEST_DIR/Qogir-Manjaro-white-cursors
 
 echo "Finished..."
 
