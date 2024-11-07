@@ -11,6 +11,8 @@ else
 fi
 
 SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
+CURSORS_SRC_DIR="$SRC_DIR/src/cursors/src"
+INDEX="$CURSORS_SRC_DIR/cursorSVG"
 
 THEME_NAME=Qogir
 THEME_VARIANTS=('' '-Manjaro' '-Ubuntu')
@@ -31,10 +33,9 @@ install() {
   local name=${2}
   local theme=${3}
   local color=${4}
+  local svgid=${5}
 
   local THEME_DIR=${dest}/${name}${theme}${color}
-
-  [[ "$color" == '-Dark' ]] && local cursors_color="$color"
 
   [[ -d ${THEME_DIR} ]] && rm -rf "${THEME_DIR}"
 
@@ -77,6 +78,7 @@ install() {
 
     cd "${dest}" || exit 1
     ln -sf "../${name}${theme}/cursors" "${name}${theme}-Light/cursors"
+    ln -sf "../${name}${theme}/cursors_scalable" "${name}${theme}-Light/cursors_scalable"
     ln -sf "../${name}${theme}/scalable" "${name}${theme}-Light/scalable"
     ln -sf "../${name}${theme}/symbolic" "${name}${theme}-Light/symbolic"
     ln -sf "../${name}${theme}/32" "${name}${theme}-Light/32"
@@ -160,6 +162,33 @@ install() {
 
   cd "${dest}" || exit
   gtk-update-icon-cache "${name}${theme}${color}"
+}
+
+install_cursors_scalable() {
+  local dest=${1}
+  local name=${2}
+  local theme=${3}
+  local color=${4}
+  local svgid=${5}
+
+  local THEME_DIR="${dest}/${name}${theme}${color}"
+
+  if [[ ${color} != '-Light' ]]; then
+    cp -rf "$CURSORS_SRC_DIR"/scalable "${THEME_DIR}"/cursors_scalable
+    cp -rf "$CURSORS_SRC_DIR/svg${theme}${color}/${svgid}.svg" "${THEME_DIR}/cursors_scalable/${svgid}"
+  fi
+}
+
+make_cursors_svg() {
+  rm -rf "$CURSORS_SRC_DIR"/{svg-Ubuntu,svg-Manjaro,svg-Ubuntu-Dark,svg-Manjaro-Dark}
+  cp -r "$CURSORS_SRC_DIR"/svg "$CURSORS_SRC_DIR"/svg-Ubuntu
+  cp -r "$CURSORS_SRC_DIR"/svg "$CURSORS_SRC_DIR"/svg-Manjaro
+  cp -r "$CURSORS_SRC_DIR"/svg-Dark "$CURSORS_SRC_DIR"/svg-Ubuntu-Dark
+  cp -r "$CURSORS_SRC_DIR"/svg-Dark "$CURSORS_SRC_DIR"/svg-Manjaro-Dark
+  sed -i "s/#5294e2/#fb8441/g" "$CURSORS_SRC_DIR"/svg-Ubuntu/*.svg
+  sed -i "s/#5294e2/#2eb398/g" "$CURSORS_SRC_DIR"/svg-Manjaro/*.svg
+  sed -i "s/#5294e2/#fb8441/g" "$CURSORS_SRC_DIR"/svg-Ubuntu-Dark/*.svg
+  sed -i "s/#5294e2/#2eb398/g" "$CURSORS_SRC_DIR"/svg-Manjaro-Dark/*.svg
 }
 
 while [[ $# -gt 0 ]]; do
@@ -251,6 +280,8 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
+make_cursors_svg
+
 for THEME in '' '-manjaro' '-ubuntu'; do
   for COLOR in '' '-dark' '-light'; do
     if [[ "${THEME}" != '' || "${COLOR}" != '' ]] && [[ -d "${DEST_DIR}/${THEME_NAME}${THEME}${COLOR}" ]]; then
@@ -263,6 +294,9 @@ done
 for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
   for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
     install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
+    for svgid in `cat $INDEX`; do
+      install_cursors_scalable "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}" "${svgid}"
+    done
   done
 done
 

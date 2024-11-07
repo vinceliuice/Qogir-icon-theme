@@ -2,13 +2,15 @@
 
 function create {
 	cd "$SRC"
-	mkdir -p x1 x1_25 x1_5 x2
+	mkdir -p 24x24 32x32 48x48 64x64 72x72 96x96
 
 	cd "$SRC"/$1
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1/${0%.svg}.png" -w 32 -h 32 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1_25/${0%.svg}.png" -w 40 -w 40 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1_5/${0%.svg}.png" -w 48 -w 48 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x2/${0%.svg}.png" -w 64 -w 64 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../24x24/${0%.svg}.png" -w 24 -h 24 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../32x32/${0%.svg}.png" -w 32 -h 32 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../48x48/${0%.svg}.png" -w 48 -w 48 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../64x64/${0%.svg}.png" -w 64 -w 64 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../72x72/${0%.svg}.png" -w 72 -w 72 $0' {} \;
+	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../96x96/${0%.svg}.png" -w 96 -w 96 $0' {} \;
 
 	cd "$SRC"
 
@@ -58,43 +60,41 @@ function create {
 	echo -e "Generating Theme Index... DONE"
 }
 
-# generate pixmaps from svg source
-SRC=$PWD/src
+SRC="$PWD/src"
 
-cd "$SRC"
-rm -rf ubuntu manjaro ubuntu-white manjaro-white
-cp -r svg ubuntu
-cp -r svg manjaro
-cp -r svg-white ubuntu-white
-cp -r svg-white manjaro-white
-cd "$SRC"/ubuntu && sed -i "s/#5294e2/#fb8441/g" `ls`
-cd "$SRC"/manjaro && sed -i "s/#5294e2/#2eb398/g" `ls`
-cd "$SRC"/ubuntu-white && sed -i "s/#5294e2/#fb8441/g" `ls`
-cd "$SRC"/manjaro-white && sed -i "s/#5294e2/#2eb398/g" `ls`
+rm -rf "$SRC"/{svg-Ubuntu,svg-Manjaro,svg-Ubuntu-Dark,svg-Manjaro-Dark}
+cp -r "$SRC"/svg "$SRC"/svg-Ubuntu
+cp -r "$SRC"/svg "$SRC"/svg-Manjaro
+cp -r "$SRC"/svg-Dark "$SRC"/svg-Ubuntu-Dark
+cp -r "$SRC"/svg-Dark "$SRC"/svg-Manjaro-Dark
+sed -i "s/#5294e2/#fb8441/g" "$SRC"/svg-Ubuntu/*.svg
+sed -i "s/#5294e2/#2eb398/g" "$SRC"/svg-Manjaro/*.svg
+sed -i "s/#5294e2/#fb8441/g" "$SRC"/svg-Ubuntu-Dark/*.svg
+sed -i "s/#5294e2/#2eb398/g" "$SRC"/svg-Manjaro-Dark/*.svg
 
 THEME="Qogir Cursors"
 BUILD="$SRC/../dist"
 create svg
 
 THEME="Qogir-white Cursors"
-BUILD="$SRC/../dist-dark"
-create svg-white
+BUILD="$SRC/../dist-Dark"
+create svg-Dark
 
 THEME="Qogir-ubuntu Cursors"
-BUILD="$SRC/../dist-ubuntu"
-create ubuntu
+BUILD="$SRC/../dist-Ubuntu"
+create Ubuntu
 
 THEME="Qogir-ubuntu-white Cursors"
-BUILD="$SRC/../dist-ubuntu-dark"
-create ubuntu-white
+BUILD="$SRC/../dist-Ubuntu-Dark"
+create Ubuntu-Dark
 
 THEME="Qogir-manjaro Cursors"
-BUILD="$SRC/../dist-manjaro"
-create manjaro
+BUILD="$SRC/../dist-Manjaro"
+create Manjaro
 
 THEME="Qogir-manjaro-white Cursors"
-BUILD="$SRC/../dist-manjaro-dark"
-create manjaro-white
+BUILD="$SRC/../dist-Manjaro-Dark"
+create Manjaro-Dark
 
-cd "$SRC"
-rm -rf ubuntu manjaro ubuntu-white manjaro-white x1 x1_25 x1_5 x2
+#cd "$SRC"
+#rm -rf ubuntu manjaro ubuntu-white manjaro-white 24x24 32x32 48x48 64x64 72x72 96x96
