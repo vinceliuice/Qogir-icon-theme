@@ -44,6 +44,7 @@ install() {
   mkdir -p "${THEME_DIR}"
   cp -r "${SRC_DIR}/COPYING" "${THEME_DIR}"
   cp -r "${SRC_DIR}/AUTHORS" "${THEME_DIR}"
+  cp -r "${SRC_DIR}/src/cursor.theme" "${THEME_DIR}"
 
   if [[ "${noapp:-}" == 'true' ]]; then
     cp -r "${SRC_DIR}/src/index-noapp.theme" "${THEME_DIR}/index.theme"
@@ -51,12 +52,12 @@ install() {
     cp -r "${SRC_DIR}/src/index.theme" "${THEME_DIR}"
   fi
 
+  sed -i "s/${name}/${name}${theme}${color}/g" "${THEME_DIR}/index.theme"
+  sed -i "s/${name}/${name}${theme}${color}/g" "${THEME_DIR}/cursor.theme"
+
   if [[ ${color} != '-Light' ]]; then
     cp -r "${SRC_DIR}/src/cursors/dist${theme}${color}/cursors" "${THEME_DIR}"
   fi
-
-  cd "${THEME_DIR}" || exit 1
-  sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,48,96,128,scalable,symbolic} "${THEME_DIR}"
