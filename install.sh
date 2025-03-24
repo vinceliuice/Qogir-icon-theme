@@ -177,6 +177,8 @@ install_cursors_scalable() {
   if [[ ${color} != '-Light' ]]; then
     cp -rf "$CURSORS_SRC_DIR"/scalable "${THEME_DIR}"/cursors_scalable
     cp -rf "$CURSORS_SRC_DIR/svg${theme}${color}/${svgid}.svg" "${THEME_DIR}/cursors_scalable/${svgid}"
+    cp -rf "$CURSORS_SRC_DIR/svg${theme}${color}/progress"*".svg" "${THEME_DIR}/cursors_scalable/progress"
+    cp -rf "$CURSORS_SRC_DIR/svg${theme}${color}/wait"*".svg" "${THEME_DIR}/cursors_scalable/wait"
   fi
 }
 

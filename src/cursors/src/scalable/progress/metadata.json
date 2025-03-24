@@ -1,5 +1,12 @@
 [
     {
+        "filename": "progress.svg",
+        "delay": 30,
+        "hotspot_x": 4,
+        "hotspot_y": 4,
+        "nominal_size": 24
+    },
+    {
         "filename": "progress-01.svg",
         "delay": 30,
         "hotspot_x": 4,
@@ -78,83 +85,6 @@
     },
     {
         "filename": "progress-12.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-13.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-14.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-15.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-16.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-17.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-18.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-19.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-20.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-21.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-22.svg",
-        "delay": 30,
-        "hotspot_x": 4,
-        "hotspot_y": 4,
-        "nominal_size": 24
-    },
-    {
-        "filename": "progress-23.svg",
         "delay": 30,
         "hotspot_x": 4,
         "hotspot_y": 4,
