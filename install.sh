@@ -93,9 +93,10 @@ install() {
     ln -sf "../../${name}${theme}/16/emblems" "${name}${theme}-Light/16/emblems"
     ln -sf "../../${name}${theme}/16/mimetypes" "${name}${theme}-Light/16/mimetypes"
     ln -sf "../../${name}${theme}/16/status" "${name}${theme}-Light/16/status"
+    ln -sf "../../${name}${theme}/22/actions" "${name}${theme}-Light/22/actions"
+    ln -sf "../../${name}${theme}/22/apps" "${name}${theme}-Light/22/apps"
     ln -sf "../../${name}${theme}/22/emblems" "${name}${theme}-Light/22/emblems"
     ln -sf "../../${name}${theme}/22/mimetypes" "${name}${theme}-Light/22/mimetypes"
-    ln -sf "../../${name}${theme}/22/actions" "${name}${theme}-Light/22/actions"
     ln -sf "../../${name}${theme}/22/places" "${name}${theme}-Light/22/places"
     ln -sf "../../${name}${theme}/22/devices" "${name}${theme}-Light/22/devices"
     ln -sf "../../${name}${theme}/24/animations" "${name}${theme}-Light/24/animations"
@@ -106,16 +107,17 @@ install() {
     mkdir -p "${THEME_DIR}"/{16,22,24,32}
 
     cp -r "${SRC_DIR}"/src/16/{actions,places,devices} "${THEME_DIR}/16"
-    cp -r "${SRC_DIR}"/src/22/{actions,places,devices} "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/src/22/{apps,actions,places,devices} "${THEME_DIR}/22"
     cp -r "${SRC_DIR}"/src/24/{actions,places,devices} "${THEME_DIR}/24"
     cp -r "${SRC_DIR}"/src/32/actions "${THEME_DIR}/32"
 
     sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24,32}/actions/*.svg
     sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/places/*.svg
     sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/{16,22,24}/devices/*.svg
+    sed -i "s/#5d656b/#d3dae3/g" "${THEME_DIR}"/22/apps/*.svg
 
     cp -r "${SRC_DIR}"/links/16/{actions,places,devices} "${THEME_DIR}/16"
-    cp -r "${SRC_DIR}"/links/22/{actions,places,devices} "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}"/links/22/{apps,actions,places,devices} "${THEME_DIR}/22"
     cp -r "${SRC_DIR}"/links/24/{actions,places,devices} "${THEME_DIR}/24"
     cp -r "${SRC_DIR}"/links/32/actions "${THEME_DIR}/32"
 

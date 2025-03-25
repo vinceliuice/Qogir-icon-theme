@@ -1,0 +1,13 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-width="3">
+  <path d="m7 2v2h8v-2zm4 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8z" fill="#686b6f" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m11 6h4l2-2 2.5 2.5-1.5 1.63v3.87h-7z" fill="#424346"/>
+  <path d="m7 2v2h8v-2zm4 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8z" fill="#686b6f"/>
+  <circle cx="11" cy="12" r="6" fill="#eff8ff"/>
+  <path d="m11 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" opacity=".15"/>
+  <path d="m11 6v6h6a6 6 0 0 0-6-6z" fill="#53e863"/>
+  <path d="m11 11h6v2h-6z" fill="#00223e"/>
+  <path transform="matrix(.70711 -.70711 .70711 .70711 0 0)" d="m1.2929 16.263c0 1.1046-0.89543 2-2 2-1.1046 0-1.9997-0.89543-1.9997-2s0.89513-2 1.9997-2c1.1046 0 2 0.89543 2 2z" fill="#686b6f"/>
+  <circle cx="11" cy="12" r="1" fill="#9b9ea2"/>
+ </g>
+</svg>
