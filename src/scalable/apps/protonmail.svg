@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect width="52" height="52" x="6" y="6" fill="#43435e" fill-rule="evenodd" rx="8" ry="8" style="paint-order:stroke fill markers;stroke:#232331;stroke-opacity:1;stroke-width:2;stroke-dasharray:none"/><rect width="52" height="52" x="6" y="6" fill="#43435e" fill-rule="evenodd" rx="8" ry="8" style="paint-order:stroke fill markers"/><path fill="#d4d4e8" d="M32 15.565A10.54 10.54 0 0 0 21.435 26.13v6.457L32 40.217l10.565-7.63V26.13A10.54 10.54 0 0 0 32 15.565m0 4.696a5.857 5.857 0 0 1 5.87 5.87v3.521H26.13V26.13A5.857 5.857 0 0 1 32 20.26zM21.435 35.52v9.392c0 .65.524 1.174 1.174 1.174h18.783c.65 0 1.174-.524 1.174-1.174v-9.391l-9.586 6.823c-.2.144-.44.22-.686.22h-.587c-.246 0-.486-.076-.685-.22z" style="paint-order:normal"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#efeffa" stroke="#c0c2ce" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#efeffa" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <g transform="matrix(1.2311 0 0 1.2311 -9.8541 -15.148)">
+  <path d="m22.445 28.001c-0.207 0.0075-0.413 0.0579-0.605 0.152-0.514 0.252-0.839 0.774-0.84 1.35v3.02l9 10.5 4.62-7.14c-0.197 0.0897-0.407 0.138-0.619 0.139-0.318 6.87e-4 -0.633-0.1-0.9-0.301l-9.68-7.38c-0.283-0.219-0.628-0.325-0.973-0.312zm23.1 0c-0.344-0.0125-0.69 0.0938-0.973 0.312l-2.58 1.97-2 8.72 2 9h2c1.66 0 3-1.34 3-3v-15.5c-5e-4 -0.572-0.326-1.09-0.84-1.35-0.193-0.0944-0.399-0.145-0.605-0.152z" fill="#b0aef9"/>
+  <path d="m42.045 30.301-7.1 5.42c-0.0882 0.0667-0.184 0.118-0.281 0.162l-3.72 2.84c-0.266 0.203-0.583 0.3-0.9 0.301-0.318 6.87e-4 -0.634-0.098-0.9-0.301l-8.1-6.18v12.5c0 1.66 1.34 3 3 3h18z" fill="#546ee8"/>
+ </g>
+</svg>
