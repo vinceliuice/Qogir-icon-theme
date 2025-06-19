@@ -2,7 +2,6 @@
 Name=Qogir
 Comment=Flat and colorful personality icon theme
 Inherits=hicolor,breeze
-Hidden=true
 
 # KDE Specific Stuff
 DisplayDepth=32
