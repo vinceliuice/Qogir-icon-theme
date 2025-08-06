@@ -2,7 +2,7 @@
 This is an x-cursor theme inspired by Qogir theme and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
-Windows version [Qogir-cursors](https://github.com/EnisHalimi/Qogir-cursor-windows)
+Windows version [Qogir-cursors](https://github.com/CodyJH/Qogir-Cursors-Windows)
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
