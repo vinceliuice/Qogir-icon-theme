@@ -1,0 +1,13 @@
+<svg width="64" height="64" shape-rendering="crispEdges" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="8" y="4" width="48" height="56" rx="6" ry="6" fill="#fff" stroke="#5e2691" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect x="8" y="4" width="48" height="56" rx="6" ry="6" fill="#cbdbfc"/>
+  <rect x="8" y="4" width="48" height="54" rx="6" ry="6" fill="#fff"/>
+ </g>
+ <g transform="matrix(.75 0 0 .75 8 9.0078)" stroke-width="4">
+  <path d="m16-1.3438v4h8v-4h-4zm12 0v4h8v-4h-4zm12 0v4h8v-4h-4zm-28 8v4h8v-4h-4zm12 0v4h12v-4h-8zm16 0v4h4v-4zm8 0v4h4v-4z" fill="#bed0d9"/>
+  <path d="m20 18.656v4h12v-4h-8zm0 4h-4v4h4zm0 4v4h8v-4h-4zm8 4v4h4v-4zm0 4h-12v4h12zm8-12v16h4v-8h4v-4h-4v-4zm8 4h4v-4h-4z"/>
+  <path d="m12 42.656v4h40v-4h-36z" fill="#5fcde4"/>
+  <path d="m12 54.656v4h12v-4h-8zm16 0v4h4v-4zm8 0v4h8v-4h-4zm12 0v4h4v-4z" fill="#bed0d9"/>
+ </g>
+</svg>
