@@ -1,0 +1,59 @@
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <path d="m16 6c-5.54 0-10 4.46-10 10v32c0 5.54 4.46 10 10 10h26.242c3.3824-1.7882 6.7505-4.0461 8.2578-6.5 2.4488-3.9865-0.15072-9.6223 1.5-14 1.1211-2.9731 3.7273-3.4703 6-4.5039v-16.996c0-5.54-4.46-10-10-10h-32z" fill="#f9f9f9" stroke="#e0e0e0" stroke-width="2"/>
+ <path d="m16 6c-5.54 0-10 4.46-10 10v32c0 5.54 4.46 10 10 10h26.242c3.3824-1.7882 6.7505-4.0461 8.2578-6.5 2.4488-3.9865-0.15072-9.6223 1.5-14 1.1211-2.9731 3.7273-3.4703 6-4.5039v-16.996c0-5.54-4.46-10-10-10h-32z" fill="#f9f9f9"/>
+ <rect transform="translate(8,-156)" x="4" y="201" width="40" height="4" rx="2" ry="2" fill="#e1dedb"/>
+ <rect transform="translate(8,-156)" x="4" y="201" width="24.062" height="4" rx="2" ry="2" fill="#3584e4"/>
+ <path d="m32 16.97c-1.1046 0-2 0.89544-2 2v7.0912l-2.5859-2.5859c-0.375-0.3751-0.88366-0.58586-1.4141-0.58594-0.5304 8e-5 -1.0391 0.21084-1.4141 0.58594-0.78084 0.78102-0.78084 2.0471 0 2.8281l6 6c0.78106 0.78074 2.0471 0.78074 2.8281 0l6-6c0.78084-0.78102 0.78084-2.0471 0-2.8281-0.78102-0.78084-2.0471-0.78084-2.8281 0l-2.5859 2.5859v-7.0912c0-1.1046-0.89544-2-2-2z" enable-background="new" fill="#9a9996" stroke-width="2"/>
+ <rect x="24" y="32.98" width="16" height="4" rx="2" ry="1.9315" fill="#9a9996"/>
+ <circle cx="32.73" cy="56.01" r="1.25" enable-background="new" fill="#99c1f1" stroke="#3584e4" stroke-width=".5"/>
+ <g fill="#fff" stroke-width=".5">
+  <circle cx="34.919" cy="58.27" r="1.25" enable-background="new" stroke="#3584e4"/>
+  <circle cx="39.561" cy="53.47" r="1.25" enable-background="new" stroke="#62a0ea"/>
+  <circle cx="38.232" cy="56.48" r="1.25" enable-background="new" stroke="#3584e4"/>
+  <circle cx="43.88" cy="56.7" r="1.25" enable-background="new" stroke="#3584e4"/>
+ </g>
+ <g stroke="#3584e4" stroke-width=".5">
+  <circle cx="50.758" cy="53.51" r="1.25" enable-background="new" fill="#99c1f1"/>
+  <circle cx="50.617" cy="50.48" r="1.25" enable-background="new" fill="#fff"/>
+  <circle cx="52.515" cy="48.04" r="1.25" enable-background="new" fill="#99c1f1"/>
+ </g>
+ <g fill="#fff" stroke-width=".5">
+  <circle cx="50.029" cy="44.53" r="1.25" enable-background="new" stroke="#3584e4"/>
+  <circle cx="50.979" cy="39.24" r="1.25" enable-background="new" stroke="#3584e4"/>
+  <circle cx="51.961" cy="35.26" r="1.25" enable-background="new" stroke="#99c1f1"/>
+  <circle cx="56" cy="33.25" r="1.25" enable-background="new" stroke="#3584e4"/>
+ </g>
+ <g stroke-width=".5">
+  <circle cx="54.978" cy="29.26" r="1.25" enable-background="new" fill="#99c1f1" stroke="#3584e4"/>
+  <circle cx="58.301" cy="27.24" r=".75" enable-background="new" fill="#fff" stroke="#3584e4"/>
+  <circle cx="57.924" cy="30.33" r=".75" enable-background="new" fill="#fff" stroke="#62a0ea"/>
+  <circle cx="54.326" cy="36.31" r=".75" enable-background="new" fill="#99c1f1" stroke="#3584e4"/>
+ </g>
+ <g fill="#fff" stroke-width=".5">
+  <circle cx="51.556" cy="42.39" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="52.48" cy="45.51" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="48.452" cy="52.14" r=".75" enable-background="new" stroke="#62a0ea"/>
+  <circle cx="47.413" cy="56.78" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="44.809" cy="54.27" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="42.339" cy="54.24" r=".75" enable-background="new" stroke="#99c1f1"/>
+  <circle cx="44.9" cy="51.29" r=".75" enable-background="new" stroke="#62a0ea"/>
+  <circle cx="48.783" cy="47.83" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="53.442" cy="52.18" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="59.173" cy="45.61" r=".75" enable-background="new" stroke="#62a0ea"/>
+  <circle cx="56.317" cy="39.43" r=".75" enable-background="new" stroke="#3584e4"/>
+  <circle cx="57.555" cy="54.22" r=".75" enable-background="new" stroke="#99c1f1"/>
+  <circle cx="51.296" cy="57.89" r=".75" enable-background="new" stroke="#99c1f1"/>
+  <g stroke="#3584e4">
+   <circle cx="44.933" cy="60.5" r=".75" enable-background="new"/>
+   <circle cx="44.134" cy="47.3" r=".75" enable-background="new"/>
+   <circle cx="49.398" cy="29.7" r=".75" enable-background="new"/>
+  </g>
+  <circle cx="49.398" cy="29.7" r=".75" enable-background="new" stroke="#99c1f1"/>
+  <g stroke="#3584e4">
+   <circle cx="41.437" cy="56" r=".75" enable-background="new"/>
+   <circle cx="39.327" cy="58.71" r=".75" enable-background="new"/>
+   <circle cx="47.601" cy="54.08" r=".75" enable-background="new"/>
+   <circle cx="61.48" cy="25.01" r=".75" enable-background="new"/>
+  </g>
+ </g>
+</svg>
